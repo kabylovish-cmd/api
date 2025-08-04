@@ -1,11 +1,10 @@
 {
   "playlist1": [],
   "playlist2": [
-           { "vod": { "url":  "https://xxx.livegore.com/rb-include/videos/4303885735.mp4", "duration": 44, "title": "vod1"}},
-     { "vod": { "url": "https://xxx.livegore.com/rb-include/videos/5703253927.mp4", "duration": 59, "title": "vod2" }},
-     { "vod": { "url": "https://xxx.livegore.com/rb-include/videos/2795451311.mp4", "duration": 47, "title": "vod3" }},
-     { "vod": { "url": "https://xxx.livegore.com//rb-include/videos/5533334547.mp4", "duration": 75, "title": "vod4" }}
-      ]
+           { "vod": { "url":  "https://xxx.livegore.com/rb-include/videos/4303885735.mp4", "duration": 44, "title": "VOD1"}},
+     { "vod": { "url": "https://xxx.livegore.com/rb-include/videos/5703253927.mp4", "duration": 59, "title": "VOD2" }},
+     { "vod": { "url": "https://xxx.livegore.com/rb-include/videos/2795451311.mp4", "duration": 47, "title": "VOD3" }}
+    ]
 }
 
 
