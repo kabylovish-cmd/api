@@ -5,7 +5,7 @@
      { "vod": { "url": "https://xxx.livegore.com/rb-include/videos/5703253927.mp4", "duration": 59, "title": "VOD2" }},
      { "vod": { "url": "https://archive.org/download/publicite_1080p/publicite_1080p.ia.mp4", "duration": 11, "title": "Publicité" }},
      { "vod": { "url": "https://archive.org/download/pub_test1/pub_test1.ia.mp4", "duration": 39, "title": "Publicité" }},
-     { "vod": { "url": "https://xxx.livegore.com/rb-include/videos/2795451311.mp4", "duration": 47, "title": "VOD3" }},     
+     { "vod": { "url": "https://xxx.livegore.com/rb-include/videos/2795451311.mp4", "duration": 47, "title": "VOD3" }}  
      
   ]
 }
