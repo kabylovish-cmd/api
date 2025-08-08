@@ -1,8 +1,6 @@
 {
  "playlist1": [
-  
-    { "vod": { "url": "https://www.youtube.com/watch?v=_TcXaAcbQ5Q", "duration": 31, "title":"NCS SOUND" }},    
-  { "vod": { "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8", "duration": 634, "title":"bunny video test" }}    
+    { "vod": { "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8", "duration": 634, "title":"bunny video test" }}    
  ],
   "playlist2": [
    
