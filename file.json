@@ -1,7 +1,8 @@
 {
  "playlist1": [
   
-      { "vod": { "url": "https://ia801204.us.archive.org/26/items/ThePinkPanther-cartoons/The%20Pink%20Panther%20in%20-A%20Fly%20in%20the%20Pink.mp4", "duration": 378, "title":"l'insect et la panther rose" }},    
+      { "vod": { "url": "https://ia801405.us.archive.org/1/items/the-pingu-show-episode-1-2/CBeebies%20on%20BBC2%20_%20The%20Pingu%20Show%20-%20Pingu%20Camps%20Out_Pingu%20Makes%20a%20Splash%20(2006).mp4", "duration": 378, "title":"Pingu Camps Out_Pingu Makes a Splash (2006)." }},    
+  { "vod": { "url": "https://ia801204.us.archive.org/26/items/ThePinkPanther-cartoons/The%20Pink%20Panther%20in%20-A%20Fly%20in%20the%20Pink.mp4", "duration": 378, "title":"l'insect et la panther rose" }},    
     { "vod": { "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8", "duration": 634, "title":"bunny video test" }}    
  ],
   "playlist2": [
