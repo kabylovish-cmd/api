@@ -7,6 +7,8 @@
     { "vod": { "url": "https://archive.org/download/multiplication_202508/soustraction.mp4", "duration": 15, "title":"la soustraction -" }},
       { "vod": { "url": "https://archive/download/multiplication_202508/multiplication.mp4", "duration": 61, "title": "classic multiplication X" }},
     { "vod": { "url": "https://archive.org/download/multiplication_202508/quick_multiplication.mp4", "duration": 34, "title": "quick multiplication X" }},
+      { "vod": { "url": "https://archive.org/download/multiplication_202508/handy_cal_en.mp4", "duration": 21, "title": "Handy calculs" }},
+      { "vod": { "url": "https://archive.org/download/multiplication_202508/handy_calculs.mp4", "duration": 40, "title": "الحساب بإستعمال اليد" }},
   { "vod": { "url": "https://ia800500.us.archive.org/31/items/hd_20231014/%D9%81%D9%8A%D9%84%D9%85%20%D9%83%D8%B1%D8%AA%D9%88%D9%86%20%D9%82%D8%B5%D9%8A%D8%B1%20%D9%85%D8%B6%D8%AD%D9%83%20%D8%A8%D8%AA%D9%82%D9%86%D9%8A%D9%87%20HD%20%D8%B9%D8%A7%D9%84%D9%8A%20%D8%A7%D9%84%D8%AC%D9%88%D8%AF%D8%A9.mp4", "duration": 130, "title":"كرتون مضحك" }},    
       { "vod": { "url": "https://ia801405.us.archive.org/1/items/the-pingu-show-episode-1-2/CBeebies%20on%20BBC2%20_%20The%20Pingu%20Show%20-%20Pingu%20Camps%20Out_Pingu%20Makes%20a%20Splash%20(2006).mp4", "duration": 378, "title":"Pingu Camps Out_Pingu Makes a Splash (2006)." }},    
   { "vod": { "url": "https://ia801204.us.archive.org/26/items/ThePinkPanther-cartoons/The%20Pink%20Panther%20in%20-A%20Fly%20in%20the%20Pink.mp4", "duration": 378, "title":"l'insect et la panther rose" }},    
