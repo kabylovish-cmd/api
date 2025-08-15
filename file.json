@@ -27,6 +27,7 @@
 { "vod": { "url": "https://archive.org/download/tableau_dynamique/tableau_dynamique.mp4", "duration": 107, "title":"Excel: tableau croisé dynamique" }}, 
  { "vod": { "url": "https://archive.org/download/signature_202508/signature.mp4", "duration": 23, "title":"WORD: insérer sa signature" }},
   { "vod": { "url": "https://archive.org/download/word_delblankpage/word_delblankpage.mp4", "duration": 25, "title":"WORD: supprimer les pages vides" }}, 
+  { "vod": { "url": "https://archive.org/download/mise_en_forme_word_texte/enlever_sauts_de_page.mp4", "duration": 39, "title":"WORD: ENLEVER SAUTS DE PAGE" }},     
   { "vod": { "url": "https://archive.org/download/pdftoword_wordtopdf/pdftoword_wordtopdf.mp4", "duration": 55, "title":"WORD: PDF TO WORD|WORD TO PDF" }}, 
      { "vod": { "url": "https://static.vecteezy.com/system/resources/previews/016/184/873/mp4/professional-it-security-word-cloud-with-lettering-glitches-for-cyber-crime-and-fraud-protection-or-phishing-hacker-attacks-protecting-data-security-breaches-and-system-failures-danger-concept-safety-free-video.mp4", "duration": 12, "title":"Cours piratage" }}, 
        { "vod": { "url": "https://archive.org/download/trojan_access_infos/trojan_access_infos.mp4", "duration": 61, "title":"TROJAN REMOTE CONTROL SCREEN,KEYLOGG.." }},      
