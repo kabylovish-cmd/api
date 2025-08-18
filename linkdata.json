@@ -1,5 +1,5 @@
 [
-  { "chaine": { "id": "link01", "url": "https://exemple.com/v1.m3u8" } },
-  { "chaine": { "id": "link02", "url": "https://exemple.com/v2.m3u8" } },
-  { "chaine": { "id": "link03", "url": "https://exemple.com/v3.m3u8" } }
+  { "chaine": { "url": "https://exemple.com/v1.m3u8" } },
+  { "chaine": { "url": "https://exemple.com/v2.m3u8" } },
+  { "chaine": { "url": "https://exemple.com/v3.m3u8" } }
 ]
