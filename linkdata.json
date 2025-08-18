@@ -1,5 +1,7 @@
 [
-  { "chaine": { "url": "http://ch14.tv/live/ch4teendoc/playlist.m3u8" } },
-  { "chaine": { "url": "http://ch14.tv/live/ch4teenkids/playlist.m3u8" } },
-  { "chaine": { "url": "https://cdn-euronews.akamaized.net/live/eds/africanews-fr/25050/index.m3u8" } }
+  { "chaine": { "url": "http://ch14.tv/live/ch4teendoc/playlist.m3u8" }},
+  { "chaine": { "url": "http://ch14.tv/live/ch4teenkids/playlist.m3u8" }},
+  { "chaine": { "url": "https://cdn-euronews.akamaized.net/live/eds/africanews-fr/25050/index.m3u8" }},
+  { "chaine": { "url": "http://cdnvine.com:8080/bn1hd/tracks-v1a1/mono.m3u8" }}
+ 
 ]
