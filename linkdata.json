@@ -1,5 +1,5 @@
 [
-  { "chaine": { "url": "https://exemple.com/v1.m3u8" } },
-  { "chaine": { "url": "https://exemple.com/v2.m3u8" } },
-  { "chaine": { "url": "https://exemple.com/v3.m3u8" } }
+  { "chaine": { "url": "http://ch14.tv/live/ch4teendoc/playlist.m3u8" } },
+  { "chaine": { "url": "" } },
+  { "chaine": { "url": "" } }
 ]
