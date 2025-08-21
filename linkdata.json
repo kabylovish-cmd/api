@@ -1,4 +1,5 @@
 [
+  { "chaine": { "nom":"Berbère HD","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/3567.m3u8" }},
   { "chaine": { "nom":"Teen DOC","url": "http://ch14.tv/live/ch4teendoc/playlist.m3u8" }},
   { "chaine": { "nom":"Teen kids","url": "http://ch14.tv/live/ch4teenkids/playlist.m3u8" }},
   { "chaine": { "nom":"Africanews","url": "https://cdn-euronews.akamaized.net/live/eds/africanews-fr/25050/index.m3u8" }},
