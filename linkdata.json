@@ -4,6 +4,8 @@
   { "chaine": { "nom":"ALGÉRIE 3","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/3571.m3u8" }},
   { "chaine": { "nom":"ALGÉRIE 4","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/3570.m3u8" }},
   { "chaine": { "nom":"Berbère HD","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/3567.m3u8" }},
+  { "chaine": { "nom":"Elheddaf","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/3562.m3u8" }},
+  { "chaine": { "nom":"infosport+","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/4047.m3u8" }},
   { "chaine": { "nom":"Bein sport1 HD","url": "http://cdnvine.com:8080/bn1hd/tracks-v1a1/mono.m3u8" }},
   { "chaine": { "nom":"Bein sport2 HD","url": "http://cdnvine.com:8080/bn2hd/tracks-v1a1/mono.m3u8" }},
   { "chaine": { "nom":"Bein sport1 FR","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/417.m3u8" }},
@@ -12,9 +14,12 @@
   { "chaine": { "nom":"CANAL+FOOT FR","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/1390.m3u8" }},
   { "chaine": { "nom":"CANAL+SPORT HD","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/1392.m3u8" }},
   { "chaine": { "nom":"DAZN1 FR","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/122866.m3u8" }},
+  { "chaine": { "nom":"CANAL+SÉRIES HD","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/1466.m3u8" }},
+  { "chaine": { "nom":"CINÉ+FAMIZ","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/1467.m3u8" }},
+  { "chaine": { "nom":"OSN ACTION HD","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/98033.m3u8" }},
+  { "chaine": { "nom":"OSN MOVIES FAMILY","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/98029.m3u8" }},
   { "chaine": { "nom":"Teen DOC","url": "http://ch14.tv/live/ch4teendoc/playlist.m3u8" }},
   { "chaine": { "nom":"Teen kids","url": "http://ch14.tv/live/ch4teenkids/playlist.m3u8" }},
   { "chaine": { "nom":"Africanews","url": "https://cdn-euronews.akamaized.net/live/eds/africanews-fr/25050/index.m3u8" }},
   { "chaine": { "nom":"FRANCE24 AR","url": "https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_5000.m3u8" }}
-  
 ]
