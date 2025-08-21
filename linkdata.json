@@ -1,10 +1,15 @@
 [
   { "chaine": { "nom":"Berbère HD","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/3567.m3u8" }},
+  { "chaine": { "nom":"Bein sport1 HD","url": "http://cdnvine.com:8080/bn1hd/tracks-v1a1/mono.m3u8" }},
+  { "chaine": { "nom":"Bein sport2 HD","url": "http://cdnvine.com:8080/bn2hd/tracks-v1a1/mono.m3u8" }},
+  { "chaine": { "nom":"Bein sport1 FR","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/417.m3u8" }},
+  { "chaine": { "nom":"Bein sport2 FR","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/415.m3u8" }},
+  { "chaine": { "nom":"Bein sport3 FR","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/413.m3u8" }},
+  { "chaine": { "nom":"CANAL+FOOT FR","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/1390.m3u8" }},
+  { "chaine": { "nom":"DAZN1 FR","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/122866.m3u8" }},
   { "chaine": { "nom":"Teen DOC","url": "http://ch14.tv/live/ch4teendoc/playlist.m3u8" }},
   { "chaine": { "nom":"Teen kids","url": "http://ch14.tv/live/ch4teenkids/playlist.m3u8" }},
   { "chaine": { "nom":"Africanews","url": "https://cdn-euronews.akamaized.net/live/eds/africanews-fr/25050/index.m3u8" }},
-  { "chaine": { "nom":"FRANCE24 AR","url": "https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_5000.m3u8" }},
-  { "chaine": { "nom":"Bein sport1 HD","url": "http://cdnvine.com:8080/bn1hd/tracks-v1a1/mono.m3u8" }},
-  { "chaine": { "nom":"Bein sport2 HD","url": "http://cdnvine.com:8080/bn2hd/tracks-v1a1/mono.m3u8" }}
-
+  { "chaine": { "nom":"FRANCE24 AR","url": "https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_5000.m3u8" }}
+  
 ]
