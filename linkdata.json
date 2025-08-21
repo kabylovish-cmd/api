@@ -30,6 +30,7 @@
   { "chaine": { "nom":"CINÉ+FAMIZ","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/1467.m3u8" }},
   { "chaine": { "nom":"OSN ACTION HD","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/98033.m3u8" }},
   { "chaine": { "nom":"OSN MOVIES FAMILY","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/98029.m3u8" }},
+  { "chaine": { "nom":"FOX ACTION HD","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/6939.m3u8" }},
   { "chaine": { "nom":"ACTION FR","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/1453.m3u8" }},
   { "chaine": { "nom":"HISTOIRE FR","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/1437.m3u8" }},
   { "chaine": { "nom":"TEEN DOC","url": "http://ch14.tv/live/ch4teendoc/playlist.m3u8" }},
