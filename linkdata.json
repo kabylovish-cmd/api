@@ -1,5 +1,5 @@
 [
-  { "chaine": { "nom":"Teen doc","url": "http://ch14.tv/live/ch4teendoc/playlist.m3u8" }},
+  { "chaine": { "nom":"Teen DOC","url": "http://ch14.tv/live/ch4teendoc/playlist.m3u8" }},
   { "chaine": { "nom":"Teen kids","url": "http://ch14.tv/live/ch4teenkids/playlist.m3u8" }},
   { "chaine": { "nom":"Africanews","url": "https://cdn-euronews.akamaized.net/live/eds/africanews-fr/25050/index.m3u8" }},
   { "chaine": { "nom":"FRANCE24 AR","url": "https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_5000.m3u8" }},
