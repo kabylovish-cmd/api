@@ -28,6 +28,7 @@
   { "chaine": { "nom":"CANAL+SÉRIES HD","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/1466.m3u8" }},
   { "chaine": { "nom":"CANAL+FAMILY","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/1468.m3u8" }},
   { "chaine": { "nom":"CANAL+BOX OFFICE FHD","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/118770.m3u8" }},
+  { "chaine": { "nom":"CANAL+GRAND ECRAN FHD","url": "" }},
   { "chaine": { "nom":"CINÉ+FAMIZ","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/1467.m3u8" }},
   { "chaine": { "nom":"WARNER TV","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/83572.m3u8" }},
   { "chaine": { "nom":"NETFLIX ACTION FHD","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/80244.m3u8" }},
@@ -62,7 +63,9 @@
   { "chaine": { "nom":"GULLI","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/1417.m3u8" }},
   { "chaine": { "nom":"MANGA HD","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/1409.m3u8" }},
   { "chaine": { "nom":"TEEN KIDS","url": "http://ch14.tv/live/ch4teenkids/playlist.m3u8" }},
-  { "chaine": { "nom":"OSN KIDS","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/74762.m3u8" }}
+  { "chaine": { "nom":"OSN KIDS","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/74762.m3u8" }},
+  { "chaine": { "nom":"FATAFEAT","url": " http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/3484.m3u8
+    " }}
   
-
+ 
 ]
