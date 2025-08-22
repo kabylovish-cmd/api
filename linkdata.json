@@ -45,6 +45,8 @@
   { "chaine": { "nom":"NATGEO WILD FR HD","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/1426.m3u8" }},
   { "chaine": { "nom":"ARTE FR","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/1440.m3u8" }},   
   { "chaine": { "nom":"RMC DÉCOUVERTE","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/1384.m3u8" }},
+  { "chaine": { "nom":"PLANÉTE+HD","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/1431.m3u8" }},
+  { "chaine": { "nom":"DISCOVERY HD","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/1423.m3u8" }},
   { "chaine": { "nom":"USHUAÏA","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/1436.m3u8" }},
   { "chaine": { "nom":"ANIMAUX HD","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/1435.m3u8" }},
   { "chaine": { "nom":"CHASSE&PÉCHE","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/1434.m3u8" }},
