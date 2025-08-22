@@ -6,6 +6,8 @@
   { "chaine": { "nom":"ALGÉRIE 4","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/3570.m3u8" }},
   { "chaine": { "nom":"ALGÉRIE 6","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/126717.m3u8" }},
   { "chaine": { "nom":"ALGÉRIE 7","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/126718.m3u8" }},
+  { "chaine": { "nom":"ECHOROUK","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/4988.m3u8" }},
+  { "chaine": { "nom":"ENNAHAR","url": "" }},
   { "chaine": { "nom":"Elheddaf","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/3562.m3u8" }},
   { "chaine": { "nom":"infosport+","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/4047.m3u8" }},
   { "chaine": { "nom":"AD SPORT PREMIUM 1 FHD","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/110606.m3u8" }},
