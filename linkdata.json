@@ -48,10 +48,11 @@
   { "chaine": { "nom":"USHUAÏA","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/1436.m3u8" }},
   { "chaine": { "nom":"ANIMAUX HD","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/1435.m3u8" }},
   { "chaine": { "nom":"CHASSE&PÉCHE","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/1434.m3u8" }},
-  { "chaine": { "nom":"Africanews","url": "https://cdn-euronews.akamaized.net/live/eds/africanews-fr/25050/index.m3u8" }},
+  { "chaine": { "nom":"AFRICA NEWS","url": "https://cdn-euronews.akamaized.net/live/eds/africanews-fr/25050/index.m3u8" }},
   { "chaine": { "nom":"FRANCE24 AR","url": "https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_5000.m3u8" }},
   { "chaine": { "nom":"ALARABIYA","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/3449.m3u8" }},
-  { "chaine": { "nom":"Teen kids","url": "http://ch14.tv/live/ch4teenkids/playlist.m3u8" }},
+  { "chaine": { "nom":"MANGA HD","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/1409.m3u8" }},
+  { "chaine": { "nom":"TEEN KIDS","url": "http://ch14.tv/live/ch4teenkids/playlist.m3u8" }},
   { "chaine": { "nom":"OSN KIDS","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/74762.m3u8" }}
   
 
