@@ -29,6 +29,7 @@
   { "chaine": { "nom":"CANAL+FAMILY","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/1468.m3u8" }},
   { "chaine": { "nom":"CINÉ+FAMIZ","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/1467.m3u8" }},
   { "chaine": { "nom":"WARNER TV","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/83572.m3u8" }},
+  { "chaine": { "nom":"MBC+MOVIES","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/4960.m3u8" }},
   { "chaine": { "nom":"OSN ACTION HD","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/98033.m3u8" }},
   { "chaine": { "nom":"OSN MOVIES FAMILY","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/98029.m3u8" }},
   { "chaine": { "nom":"FOX ACTION HD","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/6939.m3u8" }},
