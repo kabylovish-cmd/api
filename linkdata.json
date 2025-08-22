@@ -27,6 +27,7 @@
   { "chaine": { "nom":"DAZN1 FR","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/122866.m3u8" }},
   { "chaine": { "nom":"CANAL+SÉRIES HD","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/1466.m3u8" }},
   { "chaine": { "nom":"CANAL+FAMILY","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/1468.m3u8" }},
+  { "chaine": { "nom":"CANAL+BOX OFFICE FHD","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/118770.m3u8" }},
   { "chaine": { "nom":"CINÉ+FAMIZ","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/1467.m3u8" }},
   { "chaine": { "nom":"WARNER TV","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/83572.m3u8" }},
   { "chaine": { "nom":"NETFLIX ACTION FHD","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/80244.m3u8" }},
