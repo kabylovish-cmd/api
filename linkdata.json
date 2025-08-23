@@ -18,8 +18,6 @@
   { "chaine": { "nom":"ElHEDDAF","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/3562.m3u8" }},
   { "chaine": { "nom":"INFOSPORT+","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/4047.m3u8" }},
   { "chaine": { "nom":"BEINSPORT NEWS SD","url": "http://smzcyat.vpnprime.xyz:900/live/20230201/QWkR1UITxp/32894.m3u8" }},
-  { "chaine": { "nom":"AD SPORT PREMIUM1 SD","url": "http://smzcyat.vpnprime.xyz:900/live/20230201/QWkR1UITxp/36717.m3u8" }},
-  { "chaine": { "nom":"AD SPORT PREMIUM2 SD","url": "http://smzcyat.vpnprime.xyz:900/live/20230201/QWkR1UITxp/36714.m3u8" }},
   { "chaine": { "nom":"AD SPORT PREMIUM1 FHD","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/110606.m3u8" }},
   { "chaine": { "nom":"AD SPORT PREMIUM2 FHD","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/110607.m3u8" }},
   { "chaine": { "nom":"Bein sport1 HD","url": "http://cdnvine.com:8080/bn1hd/tracks-v1a1/mono.m3u8" }},
@@ -60,14 +58,7 @@
   { "chaine": { "nom":"À LA CARTE4 HD","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/4138.m3u8" }},
   { "chaine": { "nom":"À LA CARTE5 HD","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/4137.m3u8" }},
   { "chaine": { "nom":"WARNER TV","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/83572.m3u8" }},
-  { "chaine": { "nom":"NETFLIX ACTION 1","url": "http://smzcyat.vpnprime.xyz:900/live/20230201/QWkR1UITxp/401452620.m3u8" }},
-  { "chaine": { "nom":"NETFLIX ACTION 2","url": "http://smzcyat.vpnprime.xyz:900/live/20230201/QWkR1UITxp/401452619.m3u8" }}, 
   { "chaine": { "nom":"NETFLIX ACTION FHD","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/80244.m3u8" }},
-  { "chaine": { "nom":"NETFLIX ACTION WAR","url": "http://smzcyat.vpnprime.xyz:900/live/20230201/QWkR1UITxp/401452618.m3u8" }},
-  { "chaine": { "nom":"كان يا مكان1","url": "http://smzcyat.vpnprime.xyz:900/live/20230201/QWkR1UITxp/362951.m3u8" }},
-  { "chaine": { "nom":"كان يا مكان2","url": "http://smzcyat.vpnprime.xyz:900/live/20230201/QWkR1UITxp/362950.m3u8" }},
-  { "chaine": { "nom":"كان يا مكان3","url": "http://smzcyat.vpnprime.xyz:900/live/20230201/QWkR1UITxp/362949.m3u8" }},
-  { "chaine": { "nom":"كان يا مكان4","url": "http://smzcyat.vpnprime.xyz:900/live/20230201/QWkR1UITxp/362948.m3u8" }},
   { "chaine": { "nom":"MBC+MOVIES","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/4960.m3u8" }},
   { "chaine": { "nom":"MBC PREMIUM","url": "http://megatv.shop:2052/live/40298748512663/aYnHYUcsI5/192456.m3u8" }},
   { "chaine": { "nom":"MBC MAX","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/2417.m3u8" }},
@@ -146,6 +137,5 @@
   { "chaine": { "nom":"J-ONE","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/1438.m3u8" }},
   { "chaine": { "nom":"OSN KIDS","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/74762.m3u8" }},
   { "chaine": { "nom":"FATAFEAT","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/3484.m3u8" }}
-  
  
 ]
