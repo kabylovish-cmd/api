@@ -33,6 +33,7 @@
   { "chaine": { "nom":"REAL MADRID ES","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/1037.m3u8" }},
   { "chaine": { "nom":"EUROSPORT1 FR","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/1389.m3u8" }},
   { "chaine": { "nom":"EUROSPORT2 HD FR","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/1388.m3u8" }},
+  { "chaine": { "nom":"AUTOMOTO","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/1385.m3u8" }}, 
   { "chaine": { "nom":"CANAL+SÉRIES HD","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/1466.m3u8" }},
   { "chaine": { "nom":"CANAL+FAMILY","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/1468.m3u8" }},
   { "chaine": { "nom":"CANAL+BOX OFFICE FHD","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/118770.m3u8" }},
