@@ -40,6 +40,7 @@
   { "chaine": { "nom":"CANAL+GRAND ECRAN FHD","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/113174.m3u8" }},
   { "chaine": { "nom":"CINÉ+FAMIZ","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/1467.m3u8" }},
   { "chaine": { "nom":"CINÉ WESTERN","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/118788.m3u8" }},
+  { "chaine": { "nom":"TCM CINÉMA HD","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/1461.m3u8" }},
   { "chaine": { "nom":"À LA CARTE1 HD","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/4141.m3u8" }},
   { "chaine": { "nom":"À LA CARTE2 HD","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/4140.m3u8" }},
   { "chaine": { "nom":"À LA CARTE3 HD","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/4139.m3u8" }},
