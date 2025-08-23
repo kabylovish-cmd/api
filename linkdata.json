@@ -44,6 +44,10 @@
   { "chaine": { "nom":"CANAL+GRAND ECRAN FHD","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/113174.m3u8" }},
   { "chaine": { "nom":"CINÉ+FAMIZ","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/1467.m3u8" }},
   { "chaine": { "nom":"CINÉ+FRISSON HD","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/1465.m3u8" }},
+  { "chaine": { "nom":"CINÉ+CLUB HD","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/4136.m3u8" }},
+  { "chaine": { "nom":"CINÉ+PREMIER HD","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/1463.m3u8" }},
+  { "chaine": { "nom":"CINÉ+ÉMOTION HD","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/1464.m3u8" }},
+  { "chaine": { "nom":"CINÉ+CLASSIC HD","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/1462.m3u8" }},
   { "chaine": { "nom":"CINÉ WESTERN","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/118788.m3u8" }},
   { "chaine": { "nom":"TCM CINÉMA HD","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/1461.m3u8" }},
   { "chaine": { "nom":"À LA CARTE1 HD","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/4141.m3u8" }},
@@ -123,6 +127,7 @@
   { "chaine": { "nom":"MANGA HD","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/1409.m3u8" }},
   { "chaine": { "nom":"GAME ONE","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/1400.m3u8" }},
   { "chaine": { "nom":"TEEN KIDS","url": "http://ch14.tv/live/ch4teenkids/playlist.m3u8" }},
+  { "chaine": { "nom":"J-ONE","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/1438.m3u8" }},
   { "chaine": { "nom":"OSN KIDS","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/74762.m3u8" }},
   { "chaine": { "nom":"FATAFEAT","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/3484.m3u8" }}
   
