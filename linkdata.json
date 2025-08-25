@@ -94,6 +94,7 @@
   { "chaine": { "nom":"NRJ HITS","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/4059.m3u8" }},
   { "chaine": { "nom":"TRACE URBAN","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/4075.m3u8" }},
   { "chaine": { "nom":"HISTOIRE FR","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/1437.m3u8" }},   
+    { "chaine": { "nom":"TOUTE L'HISTOIRE FR","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/1427.m3u8" }},   
   { "chaine": { "nom":"E!","url": "  http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/1379.m3u8"}},
   { "chaine": { "nom":"TEEN DOC","url": "http://ch14.tv/live/ch4teendoc/playlist.m3u8" }},
   { "chaine": { "nom":"DW ARAB","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/3535.m3u8" }},
