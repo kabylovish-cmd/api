@@ -14,6 +14,7 @@
       { "vod": { "url": "https://archive.org/download/multiplication_202508/handy_cal_en.mp4", "duration": 21, "title": "Handy calculs" }},
       { "vod": { "url": "https://archive.org/download/multiplication_202508/handy_calculs.mp4", "duration": 40, "title": "الحساب بإستعمال اليد" }},
         { "vod": { "url": "https://ia800906.us.archive.org/9/items/3-d-channel-intro-a-small-introduction-of-computer-tricks-zone-4-k-video-1/3D%20Channel%20INTRO%20%EF%BD%9C%20A%20small%20introduction%20of%20Computer%20Tricks%20Zone%20%EF%BD%9C%204K%20Video%20%281%29.mp4", "duration": 10, "title": "Intro cours: informatique" }},
+        { "vod": { "url": "https://archive.org/download/case_a_cocher_202508/case_a_cocher.mp4", "duration": 29, "title":"Excel:CASE À COCHER" }},    
       { "vod": { "url": "https://archive.org/download/feuille_de_presence/feuille_de_presence.mp4", "duration": 29, "title":"Excel:CRÉER UNE FEUILLE DE PRÉSENCE" }},    
   { "vod": { "url": "https://archive.org/download/excel_transpose/excel_transpose.mp4", "duration": 29, "title":"Excel: TRANSPOSE()" }},    
      { "vod": { "url": "https://archive.org/serve/sequence_excel/sequence_excel.mp4", "duration": 32, "title":"Excel: SEQUENCE()" }},
