@@ -22,6 +22,8 @@
   { "chaine": { "nom":"ElHEDDAF","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/3562.m3u8" }},
   { "chaine": { "nom":"INFOSPORT+","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/4047.m3u8" }},
   { "chaine": { "nom":"BEINSPORT NEWS","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/98104.m3u8" }},
+  { "chaine": { "nom":"STARZ PLAY SPORT 1","url": "http://ugeen.live:8080/live/exskypeleoshare-jordansat4u/50/4040.m3u8" }},
+  { "chaine": { "nom":"STARZ PLAY SPORT 2","url": "http://ugeen.live:8080/live/exskypeleoshare-jordansat4u/50/4041.m3u8" }},
   { "chaine": { "nom":"AD SPORT PREMIUM1 FHD","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/110606.m3u8" }},
   { "chaine": { "nom":"AD SPORT PREMIUM2 FHD","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/110607.m3u8" }},
   { "chaine": { "nom":"Bein sport1 HD","url": "http://cdnvine.com:8080/bn1hd/tracks-v1a1/mono.m3u8" }},
