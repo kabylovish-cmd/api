@@ -15,6 +15,7 @@
       { "vod": { "url": "https://archive.org/download/multiplication_202508/handy_calculs.mp4", "duration": 40, "title": "الحساب بإستعمال اليد" }},
         { "vod": { "url": "https://ia800906.us.archive.org/9/items/3-d-channel-intro-a-small-introduction-of-computer-tricks-zone-4-k-video-1/3D%20Channel%20INTRO%20%EF%BD%9C%20A%20small%20introduction%20of%20Computer%20Tricks%20Zone%20%EF%BD%9C%204K%20Video%20%281%29.mp4", "duration": 10, "title": "Intro cours: informatique" }},
   { "vod": { "url": "https://archive.org/download/excel_ALT_H_W/excel_ALT_H_W.mp4", "duration": 16, "title": "Excel: ALT+H+W" }}, 
+  { "vod": { "url": "https://archive.org/download/excel_ctrl_1/excel_ctrl_1.mp4", "duration": 16, "title": "Excel: CTRL+1" }}, 
   { "vod": { "url": "https://archive.org/download/excel_lookup/excel_lookup.mp4", "duration": 16, "title": "Excel: LOOKUP()" }}, 
   { "vod": { "url": "https://archive.org/details/excel_racourcis_rapide", "duration": 16, "title": "Excel: RACCOURCI RAPIDE" }}, 
 { "vod": { "url": "https://archive.org/download/excel_dates_tricks/excel_dates_tricks.mp4", "duration": 16, "title": "Excel: DATES TRICKS" }},
