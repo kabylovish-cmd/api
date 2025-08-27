@@ -141,6 +141,7 @@
   { "chaine": { "nom":"AFRICA NEWS","url": "https://cdn-euronews.akamaized.net/live/eds/africanews-fr/25050/index.m3u8" }},
   { "chaine": { "nom":"FRANCE24 AR","url": "https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_5000.m3u8" }},
   { "chaine": { "nom":"BBC NEWS AR","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/2370.m3u8" }},
+  { "chaine": { "nom":"SKY NEWS AR","url": "http://ugeen.live:8080/live/exskypeleoshare-jordansat4u/50/1007.m3u8" }},
   { "chaine": { "nom":"AL JAZEERA HD","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/5029.m3u8" }},
   { "chaine": { "nom":"AL JAZEERA MUBASHIR","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/2365.m3u8" }},
   { "chaine": { "nom":"ALARABIYA","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/3449.m3u8" }},
