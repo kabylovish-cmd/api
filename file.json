@@ -109,8 +109,8 @@
      { "vod": { "url": "https://xxx.livegore.com/rb-include/videos/2795451311.mp4", "duration": 47, "title": "VOD30" }}  
      
   ],  "playlist3": [
-   
-   { "vod": { "url": "", "duration": 14, "title":"" }}      
+         { "vod": { "url": "https://xxx.livegore.com//rb-include/videos/2616071626.mp4", "duration": 22 }},
+        { "vod": { "url": "https://xxx.livegore.com//rb-include/videos/8928640550.mp4", "duration": 78 }}
 
   ]
 }
