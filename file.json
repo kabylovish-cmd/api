@@ -1,11 +1,6 @@
 {
  "playlist1": [
  
-        { "vod": { "url": "https://archive.org/download/intro_countdown/intro_countdown.ia.mp4", "duration": 10, "title":"DÉBUT DES PROGRAMMES" }},  
-  { "vod": { "url": "https://archive.org/download/bricolage_intro/bricolage_intro.mp4", "duration": 13, "title":"BRICOLES" }},  
-     { "vod": { "url": "https://archive.org/download/lacer_ses_chaussures/lacer_ses_chaussures.mp4", "duration": 60, "title":"LAÇER SES CHAUSSURES" }},      
-     { "vod": { "url": "https://archive.org/download/arranger_teeshirt/arranger_teeshirt.mp4", "duration": 60, "title":"APPRENDRE A ARRANGER" }},   
-   { "vod": { "url": "https://archive.org/download/arranger_avec_ceintre/arranger_avec_ceintre.mp4", "duration": 60, "title":"ARRANGER SES VÊTEMENTS AVEC CEINTRE" }},      
           { "vod": { "url": "https://archive.org/download/math_illusion_202508/math_illusion.mp4", "duration": 14, "title":"introduction en mathématiques" }},
   { "vod": { "url": "https://ia801004.us.archive.org/14/items/intro_maths_202508/intro_maths.ia.mp4", "duration": 15, "title":"مدخل إلى عالم الرياضيات" }},
   { "vod": { "url": "https://ia601604.us.archive.org/8/items/multiplication_202508/addition.mp4", "duration": 61, "title":"l'addition +" }},
@@ -109,8 +104,11 @@
      { "vod": { "url": "https://xxx.livegore.com/rb-include/videos/2795451311.mp4", "duration": 47, "title": "VOD30" }}  
      
   ],  "playlist3": [
-         { "vod": { "url": "https://xxx.livegore.com//rb-include/videos/2616071626.mp4", "duration": 22 }},
-        { "vod": { "url": "https://xxx.livegore.com//rb-include/videos/8928640550.mp4", "duration": 78 }}
+        { "vod": { "url": "https://archive.org/download/intro_countdown/intro_countdown.ia.mp4", "duration": 10, "title":"DÉBUT DES PROGRAMMES" }},  
+  { "vod": { "url": "https://archive.org/download/bricolage_intro/bricolage_intro.mp4", "duration": 13, "title":"BRICOLES" }},  
+     { "vod": { "url": "https://archive.org/download/lacer_ses_chaussures/lacer_ses_chaussures.mp4", "duration": 60, "title":"LAÇER SES CHAUSSURES" }},      
+     { "vod": { "url": "https://archive.org/download/arranger_teeshirt/arranger_teeshirt.mp4", "duration": 60, "title":"APPRENDRE A ARRANGER" }},   
+   { "vod": { "url": "https://archive.org/download/arranger_avec_ceintre/arranger_avec_ceintre.mp4", "duration": 60, "title":"ARRANGER SES VÊTEMENTS AVEC CEINTRE" }}  
 
   ]
 }
