@@ -1,5 +1,4 @@
-{
-  "code": "130093010045",
-  "produit": "Boisson minérale petit modèle",
-  "prix": "25.00DA"
-}
+[
+  { "code": "1234567890123", "produit": "Chocolat Noir 70%", "prix": "3.50 €" },
+  { "code": "9876543210987", "produit": "Café 250g", "prix": "2.80 €" }
+]
