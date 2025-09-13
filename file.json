@@ -110,8 +110,10 @@
    { "vod": { "url": "https://archive.org/download/arranger_avec_ceintre/arranger_avec_ceintre.mp4", "duration": 60, "title":"ARRANGER SES VÊTEMENTS AVEC CEINTRE" }}  
 
   ],  "playlist4": [
-        { "vod": { "url": "https://www.youtube.com/watch?v=pQpFebyALV0", "duration": 10, "title":"YOUTUBE" }}
+        { "vod": { "url": "https://www.youtube.com/watch?v=pQpFebyALV0", "duration": 10, "title":"MES FILMS" }},
+        { "vod": { "url": "https://m.youtube.com/watch?v=ozpGoCIS-cg", "duration": 5990, "title":"FILM KABYLE: TALUFT" }}
 
+   
   ]
 }
 
