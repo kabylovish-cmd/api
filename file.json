@@ -110,7 +110,7 @@
    { "vod": { "url": "https://archive.org/download/arranger_avec_ceintre/arranger_avec_ceintre.mp4", "duration": 60, "title":"ARRANGER SES VÊTEMENTS AVEC CEINTRE" }}  
 
   ],  "playlist4": [
-   { "vod": { "url": "https://www.youtube.com/watch?v=pQpFebyALV0", "duration": 10, "title":"MES FILMS KABYLE EN VOD" }},
+   { "vod": { "url": "https://www.youtube.com/embed/pQpFebyALV0", "duration": 10, "title":"MES FILMS KABYLE EN VOD" }},
    { "vod": { "url": "https://www.youtu.be/M_XWVyEtdws?si=B1ZRHGNwng_v03HP", "duration": 6262, "title":"FILM KABYLE: tamacahut n wakli" }},
    { "vod": { "url": "https://www.youtube.com/watch?v=arwDDNrMvDU", "duration": 4637, "title":"FILM KABYLE COMÉDIE: les matwachiches" }},
    { "vod": { "url": "https://www.youtube.com/watch?v=tOKuC35myTo", "duration": 6160, "title":"FILM KABYLE: ASARU UNTIM" }},
