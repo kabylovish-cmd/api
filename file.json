@@ -135,8 +135,9 @@
    { "vod": { "url": "https://www.youtube.com/watch?v=B7TnOwTOofY", "duration": 4803, "title":"FILM KABYLE: si belkacem" }},
    { "vod": { "url": "https://www.youtube.com/watch?v=iFCCfws4jIc", "duration": 5938, "title":"FILM KABYLE: la coline oublié" }},
    { "vod": { "url": "https://www.youtube.com/watch?v=6kGvnBboMhw", "duration": 2724, "title":"FILM KABYLE: ur iksan hed it yughen 2023" }},
-   { "vod": { "url": "https://www.youtube.com/watch?v=lvNrPN8wQ5o", "duration": 2404, "title":"FILM KABYLE: yir avrid" }}
-   
+   { "vod": { "url": "https://www.youtube.com/watch?v=lvNrPN8wQ5o", "duration": 2404, "title":"FILM KABYLE: yir avrid" }},
+   { "vod": { "url": "https://www.youtube.com/watch?v=y_O1C7cnV6Q", "duration": 7088, "title":"FILM KABYLE: l'euro" }}
+
   ], "playlist5": [
    { "vod": { "url": "https://www.youtube.com/watch?v=BXLs20m6IIM", "duration": 5639, "title":"FILM ALGÉRIEN: le gone du châaba" }},
    { "vod": { "url": "https://www.youtube.com/watch?v=F1NeuYcVUFI", "duration": 5881, "title":"FILM ALGÉRIEN: heraga" }},
@@ -146,10 +147,8 @@
    { "vod": { "url": "https://www.youtube.com/watch?v=2wqC4IC2NIs", "duration": 5928, "title":"FILM ALGÉRIEN: Rupture" }},
    { "vod": { "url": "https://www.youtube.com/watch?v=inds70qUCLQ", "duration": 4160, "title":"FILM ALGÉRIEN: lé immigri" }},
    { "vod": { "url": "https://www.youtube.com/watch?v=ZhFcZ9rKgR8", "duration": 5489, "title":"FILM ALGÉRIEN: bab el oued citi" }},
-   { "vod": { "url": "https://www.youtube.com/watch?v=M6Vhn05UMMw", "duration": 6688, "title":"FILM ALGÉRIEN: morituri" }}
-   
+   { "vod": { "url": "https://www.youtube.com/watch?v=M6Vhn05UMMw", "duration": 6688, "title":"FILM ALGÉRIEN: morituri" }},
 
-   
   ]
 }
 
