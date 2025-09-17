@@ -123,7 +123,9 @@
    { "vod": { "url": "https://www.youtube.com/watch?v=73GDrS7kuYw", "duration": 5382, "title":"FILM KABYLE: asfel1" }},
    { "vod": { "url": "https://www.youtube.com/watch?v=jUdbKWvH7G0", "duration": 5250, "title":"FILM KABYLE: asfel2" }},
    { "vod": { "url": "https://youtu.be/cjJdASrnwjo?si=zXLk6TXz2f4IWUay", "duration": 3302, "title":"FILM KABYLE: tenpis je m'en fou 1" }},
-   { "vod": { "url": "https://www.youtube.com/watch?v=tbNJwepg6co", "duration": 7002, "title":"FILM KABYLE: tenpis je m'en fou 2" }}
+   { "vod": { "url": "https://www.youtube.com/watch?v=tbNJwepg6co", "duration": 7002, "title":"FILM KABYLE: tenpis je m'en fou 2" }},
+   { "vod": { "url": "https://ia801000.us.archive.org/27/items/bonne_nuit/bonne_nuit.ia.mp4 ", "duration": 116, "title":"Fin des émissions" }}
+   
    
   ], "playlist5": [
    { "vod": { "url": "https://www.youtube.com/watch?v=BXLs20m6IIM", "duration": 5639, "title":"FILM ALGÉRIEN: le gone du châaba" }},
