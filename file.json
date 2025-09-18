@@ -158,6 +158,11 @@
    { "vod": { "url": "https://www.youtube.com/watch?v=WGTaTVvivZM", "duration": 3586, "title":"FILM KABYLE: Dda mukran" }},
    { "vod": { "url": "https://www.youtube.com/watch?v=1AaDWneidgg", "duration": 7027, "title":"FILM KABYLE: awhid" }}
 
+  ], "playlist7": [
+   { "vod": { "url": "https://www.youtube.com/watch?v=dMGZE-UTzX8", "duration": 1873, "title":"FILM KABYLE: tadssa di twaghit 1ere partie" }},
+   { "vod": { "url": "https://www.youtube.com/watch?v=ssKQjl_RNaM", "duration": 2069, "title":"FILM KABYLE: tadssa di twaghit 2eme partie" }},
+   { "vod": { "url": "https://www.youtube.com/watch?v=4do4lRa9hPg", "duration": 1745, "title":"FILM KABYLE: tadssa di twaghit 3eme partie" }}
+   
   ]
 }
 
