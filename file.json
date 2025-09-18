@@ -123,9 +123,8 @@
    { "vod": { "url": "https://www.youtube.com/watch?v=73GDrS7kuYw", "duration": 5382, "title":"FILM KABYLE: asfel1" }},
    { "vod": { "url": "https://www.youtube.com/watch?v=jUdbKWvH7G0", "duration": 5250, "title":"FILM KABYLE: asfel2" }},
    { "vod": { "url": "https://youtu.be/cjJdASrnwjo?si=zXLk6TXz2f4IWUay", "duration": 3302, "title":"FILM KABYLE: tenpis je m'en fou 1" }},
-   { "vod": { "url": "https://www.youtube.com/watch?v=tbNJwepg6co", "duration": 7002, "title":"FILM KABYLE: tenpis je m'en fou 2" }},
-   { "vod": { "url": "https://ia801000.us.archive.org/27/items/bonne_nuit/bonne_nuit.ia.mp4 ", "duration": 116, "title":"Fin des émissions" }}
-   
+   { "vod": { "url": "https://www.youtube.com/watch?v=tbNJwepg6co", "duration": 7002, "title":"FILM KABYLE: tenpis je m'en fou 2" }}
+ 
    
   ], "playlist5": [
    { "vod": { "url": "https://www.youtube.com/watch?v=BXLs20m6IIM", "duration": 5639, "title":"FILM ALGÉRIEN: le gone du châaba" }},
@@ -161,6 +160,8 @@
    { "vod": { "url": "https://www.youtube.com/watch?v=1AaDWneidgg", "duration": 7027, "title":"FILM KABYLE: awhid" }}
 
   ], "playlist7": [
+   
+   { "vod": { "url": "https://www.youtube.com/watch?v=SE--YVPU35w", "duration": 5633, "title":"DJMIX KABYLE: DÉBUT DES PROGRAMMES" }},
    { "vod": { "url": "https://www.youtube.com/watch?v=dMGZE-UTzX8", "duration": 1873, "title":"FILM KABYLE: tadssa di twaghit 1ere partie" }},
    { "vod": { "url": "https://www.youtube.com/watch?v=ssKQjl_RNaM", "duration": 2069, "title":"FILM KABYLE: tadssa di twaghit 2eme partie" }},
    { "vod": { "url": "https://www.youtube.com/watch?v=4do4lRa9hPg", "duration": 1745, "title":"FILM KABYLE: tadssa di twaghit 3eme partie" }},
