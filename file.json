@@ -167,8 +167,9 @@
    { "vod": { "url": "https://www.youtube.com/watch?v=iFCCfws4jIc", "duration": 5938, "title":"FILM KABYLE: la coline oublié" }},
    { "vod": { "url": "https://www.youtube.com/watch?v=6kGvnBboMhw", "duration": 2724, "title":"FILM KABYLE: ur iksan hed it yughen 2023" }},
    { "vod": { "url": "https://www.youtube.com/watch?v=lvNrPN8wQ5o", "duration": 2404, "title":"FILM KABYLE: yir avrid" }},
-   { "vod": { "url": "https://www.youtube.com/watch?v=y_O1C7cnV6Q", "duration": 7088, "title":"FILM KABYLE: l'euro" }}
-
+   { "vod": { "url": "https://www.youtube.com/watch?v=y_O1C7cnV6Q", "duration": 7088, "title":"FILM KABYLE: l'euro" }},
+   { "vod": { "url": "https://ia600306.us.archive.org/12/items/bn_20250919/bn.mp4", "duration": 159, "title":"Fin des émissions CANALTV" }}
+  
   ], "playlist8": [
    { "vod": { "url": "https://www.youtube.com/watch?v=pnu991tJVcY", "duration": 4747, "title":"FILM KABYLE: la balle dans l'ame" }},
    { "vod": { "url": "https://www.youtube.com/watch?v=WGTaTVvivZM", "duration": 3586, "title":"FILM KABYLE: Dda mukran" }},
