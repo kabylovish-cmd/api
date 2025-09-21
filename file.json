@@ -187,8 +187,9 @@
    { "vod": { "url": "https://www.youtube.com/watch?v=bOO4MYOgMZc", "duration": 4626, "title":"FILM KABYLE: yura deg unyiriw" }}
    
   ], "playlist9": [
-   { "vod": { "url": "https://www.youtube.com/watch?v=mQzy_n70mNM", "duration": 4622, "title":"FILM KABYLE: ayur avrkan" }},
-   { "vod": { "url": "https://www.youtube.com/watch?v=NwFR0HzQ7XE", "duration": 1073, "title":"FILM KABYLE COMÉDIE: da moussa" }}
+  { "vod": { "url": "https://www.youtube.com/watch?v=NwFR0HzQ7XE", "duration": 1073, "title":"FILM KABYLE COMÉDIE: da moussa" }},
+  { "vod": { "url": "https://www.youtube.com/watch?v=mQzy_n70mNM", "duration": 4622, "title":"FILM KABYLE: ayur avrkan" }},
+  { "vod": { "url": "https://www.youtube.com/watch?v=nVhiva_5fLM", "duration": 5218, "title":"FILM KABYLE: aich b 12" }}
   ]
 }
 
