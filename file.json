@@ -171,7 +171,7 @@
    { "vod": { "url": "https://ia600306.us.archive.org/12/items/bn_20250919/bn.mp4", "duration": 159, "title":"Fin des émissions CANALTV" }}
   
   ], "playlist8": [
-   
+   { "vod": { "url": "https://www.youtube.com/watch?v=ngRxzQke_7g", "duration": 1893, "title":"FILM KABYLE COMÉDIE: aventure de siomar" },
    { "vod": { "url": "https://www.youtube.com/watch?v=zFQfBmEx_NY", "duration": 2784, "title":"FILM KABYLE COMÉDIE: amghar ilemzi" }},
    { "vod": { "url": "https://www.youtube.com/watch?v=5lKNPvYFogQ", "duration": 4201, "title":"FILM KABYLE COMÉDIE: imseggben" }},
    { "vod": { "url": "https://www.youtube.com/watch?v=h4CI9-ht5Gw", "duration": 5893, "title":"FILM KABYLE: tilufa n zman" }},
@@ -183,9 +183,8 @@
    { "vod": { "url": "https://www.youtube.com/watch?v=bhjuI5ck-Co", "duration": 4762, "title":"FILM KABYLE: taldunt deg yelman" }},
    { "vod": { "url": "https://www.youtube.com/watch?v=pnu991tJVcY", "duration": 4747, "title":"FILM KABYLE: la balle dans l'ame" }},
    { "vod": { "url": "https://www.youtube.com/watch?v=WGTaTVvivZM", "duration": 3586, "title":"FILM KABYLE: Dda mukran" }},
-   { "vod": { "url": "https://www.youtube.com/watch?v=tEpWbr53FeA", "duration": 4828, "title":"FILM KABYLE: tasarut n tudart" }}, 
-   { "vod": { "url": "https://www.youtube.com/watch?v=1AaDWneidgg", "duration": 7027, "title":"FILM KABYLE: awhid" }}
-
+   { "vod": { "url": "https://www.youtube.com/watch?v=tEpWbr53FeA", "duration": 4828, "title":"FILM KABYLE: tasarut n tudart" }}
+   
   ]
 }
 
