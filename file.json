@@ -62,14 +62,14 @@
  { "vod": { "url": "https://www.youtube.com/watch?v=mVyFX42q79o", "duration": 5558, "title":"FORMATION windows complète" }},
  { "vod": { "url": "https://www.youtube.com/watch?v=KEcCo__fRHg", "duration": 12245, "title":"دورة كاملة حول إختراق شبكة الويفي" }},
  { "vod": { "url": "https://www.youtube.com/watch?v=uyqBKADzzrA", "duration": 3022, "title":"python إختراق جميع الاجهزة بكود" }},
- { "vod": { "url": "https://www.youtube.com/watch?v=zEjWW77tGo0", "duration": 436, "title":"comment installer console termux?(outil piratage)" }},
- { "vod": { "url": "https://www.youtube.com/watch?v=EMD_m_-HHeg", "duration": 602, "title":"commandes de base termux" }}
-  
+ { "vod": { "url": "https://www.youtube.com/watch?v=zEjWW77tGo0", "duration": 436, "title":"1.comment installer console termux?(émulateur android)" }},
+ { "vod": { "url": "https://www.youtube.com/watch?v=EMD_m_-HHeg", "duration": 602, "title":"2.commandes de base termux" }},
+ { "vod": { "url": "https://www.youtube.com/watch?v=BvGCN00T_AQ", "duration": 1176, "title":"3.Créer, Supprimer, Déplacer et Copier des fichiers" }},
+ { "vod": { "url": "https://www.youtube.com/watch?v=feBdzQrs5A8", "duration": 1364, "title":"4.Renommer, afficher et manipuler des fichier" }},
+ { "vod": { "url": "https://www.youtube.com/watch?v=eZhZY8Gs5jQ", "duration": 791, "title":"5.Trouver des fichiers et contenu de fichiers " }},
+ { "vod": { "url": "https://www.youtube.com/watch?v=h4gcfjh92R0", "duration": 2892, "title":"6.Les 60 Commandes Indispensable de Termux " }}
 
-  
-  
- ],
-  "playlist2": [
+ ], "playlist2": [
   
    { "vod": { "url": "https://islamichistory.tv/upload/videos/2025/01/jA6dAwBN2KxDkGgw1hpf_30_0e2f066be493d18088decb93953290e6_video_1080p_converted.mp4", "duration": 4876, "title":"وثائقي حول المسلمون و أمريكا" }},      
     { "vod": { "url": "https://islamichistory.tv/upload/videos/2025/04/HgD12VBJyCy1GWFQvPZK_18_35eeefb6b6aa49049fe2dcf43827964f_video_360p_converted.mp4", "duration": 802, "title":"الحواجز الأمنية المزيفة" }},      
