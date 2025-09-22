@@ -67,7 +67,8 @@
  { "vod": { "url": "https://www.youtube.com/watch?v=BvGCN00T_AQ", "duration": 1176, "title":"3.Créer, Supprimer, Déplacer et Copier des fichiers" }},
  { "vod": { "url": "https://www.youtube.com/watch?v=feBdzQrs5A8", "duration": 1364, "title":"4.Renommer, afficher et manipuler des fichier" }},
  { "vod": { "url": "https://www.youtube.com/watch?v=eZhZY8Gs5jQ", "duration": 791, "title":"5.Trouver des fichiers et contenu de fichiers " }},
- { "vod": { "url": "https://www.youtube.com/watch?v=h4gcfjh92R0", "duration": 2892, "title":"6.Les 60 Commandes Indispensable de Termux " }}
+ { "vod": { "url": "https://www.youtube.com/watch?v=h4gcfjh92R0", "duration": 2892, "title":"6.Les 60 Commandes Indispensable de Termux " }},
+ { "vod": { "url": "https://archive.org/download/cracking-wi-fi-password-using-termux-ethical-hacking-v-720-p/Cracking-WiFi-password-using-termux-Ethical-Hacking_v720P.mp4", "duration": 43, "title":"7.Pirater mots de passe wifi" }}
 
  ], "playlist2": [
   
