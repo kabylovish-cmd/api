@@ -70,10 +70,8 @@
  { "vod": { "url": "https://www.youtube.com/watch?v=h4gcfjh92R0", "duration": 2892, "title":"6.Les 60 Commandes Indispensable de Termux " }},
  { "vod": { "url": "https://archive.org/download/commandes_wifite/commandes_wifite.mp4", "duration": 14, "title":"7.commandes pour installer wifite sur termux" }},
  { "vod": { "url": "https://www.youtube.com/watch?v=hyfHS_VmPME", "duration": 211, "title":"8.executer les commandes wifite sur termux pour pirater une clée wifi" }},
- { "vod": { "url": "https://ia800507.us.archive.org/18/items/1a-50030a-d-47a-46c-1-b-607-cea-06543541b/1a50030a-d47a-46c1-b607-cea06543541b.mp4", "duration": 289, "title":"installer aircrack sur termux pour pirater une clée wifi" }}
-
-
-
+ { "vod": { "url": "https://ia800507.us.archive.org/18/items/1a-50030a-d-47a-46c-1-b-607-cea-06543541b/1a50030a-d47a-46c1-b607-cea06543541b.mp4", "duration": 289, "title":"installer aircrack sur termux pour pirater une clée wifi" }},
+ { "vod": { "url": "https://www.youtube.com/watch?v=nMSbcNL2Wgc", "duration": 6863, "title":"Film d'action 2025" }}
  ], "playlist2": [
   
    { "vod": { "url": "https://islamichistory.tv/upload/videos/2025/01/jA6dAwBN2KxDkGgw1hpf_30_0e2f066be493d18088decb93953290e6_video_1080p_converted.mp4", "duration": 4876, "title":"وثائقي حول المسلمون و أمريكا" }},      
