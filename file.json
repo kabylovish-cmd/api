@@ -68,7 +68,9 @@
  { "vod": { "url": "https://www.youtube.com/watch?v=feBdzQrs5A8", "duration": 1364, "title":"4.Renommer, afficher et manipuler des fichier" }},
  { "vod": { "url": "https://www.youtube.com/watch?v=eZhZY8Gs5jQ", "duration": 791, "title":"5.Trouver des fichiers et contenu de fichiers " }},
  { "vod": { "url": "https://www.youtube.com/watch?v=h4gcfjh92R0", "duration": 2892, "title":"6.Les 60 Commandes Indispensable de Termux " }},
- { "vod": { "url": "https://archive.org/download/commandes_wifite/commandes_wifite.mp4", "duration": 14, "title":"7.commandes pour installer wifite sur termux" }}
+ { "vod": { "url": "https://archive.org/download/commandes_wifite/commandes_wifite.mp4", "duration": 14, "title":"7.commandes pour installer wifite sur termux" }},
+ { "vod": { "url": "https://www.youtube.com/watch?v=hyfHS_VmPME", "duration": 211, "title":"8.executer les commandes wifite sur termux pour pirater une clée wifi" }}
+
 
  ], "playlist2": [
   
