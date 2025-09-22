@@ -60,7 +60,10 @@
  { "vod": { "url": "https://www.youtube.com/watch?v=MSguZxBrOG4", "duration": 3939, "title":"GESTION DE STOCK PAR LOGICIEL EXCEL" }},
  { "vod": { "url": "https://www.youtube.com/watch?v=zbZ4GYt8i_0", "duration": 2349, "title":"COURS WORD POUR LES DÉBUTANTS" }},
  { "vod": { "url": "https://www.youtube.com/watch?v=mVyFX42q79o", "duration": 5558, "title":"FORMATION windows complète" }},
- { "vod": { "url": "https://www.youtube.com/watch?v=KEcCo__fRHg", "duration": 12245, "title":"دورة كاملة حول إختراق شبكة الويفي" }}
+ { "vod": { "url": "https://www.youtube.com/watch?v=KEcCo__fRHg", "duration": 12245, "title":"دورة كاملة حول إختراق شبكة الويفي" }},
+ { "vod": { "url": "https://www.youtube.com/watch?v=uyqBKADzzrA", "duration": 3022, "title":"python إختراق جميع الاجهزة بكود" }}
+  
+  
  ],
   "playlist2": [
   
