@@ -9,5 +9,17 @@
   { "chaine": { "nom":"VIVID EUROPE","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/13566.m3u8" }},
   { "chaine": { "nom":"VIVID RED FHD","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/13565.m3u8" }},
   { "chaine": { "nom":"BEIN SPORT 1 AR","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/98085.m3u8" }},
-  { "chaine": { "nom":"BEIN SPORT 2 AR","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/98082.m3u8" }}
+  { "chaine": { "nom":"BEIN SPORT 2 AR","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/98082.m3u8" }},
+  { "chaine": { "nom":"Bein sport3 QA","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/98079.m3u8" }},
+  { "chaine": { "nom":"Bein sport4 QA","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/98074.m3u8" }},
+  { "chaine": { "nom":"Bein sport5 QA","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/98073.m3u8" }},
+  { "chaine": { "nom":"Bein sport6 QA","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/98070.m3u8" }},
+  { "chaine": { "nom":"Bein sport7 QA","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/98067.m3u8" }},
+  { "chaine": { "nom":"Bein sport1 FR","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/417.m3u8" }},
+  { "chaine": { "nom":"Bein sport2 FR","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/415.m3u8" }},
+  { "chaine": { "nom":"Bein sport3 FR","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/413.m3u8" }},
+  { "chaine": { "nom":"CANAL+LIVE 1","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/122856.m3u8" }},
+  { "chaine": { "nom":"CANAL+FOOT FR","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/1390.m3u8" }},
+  { "chaine": { "nom":"CANAL+SPORT HD","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/1392.m3u8" }},
+  { "chaine": { "nom":"CANAL+SPORT360 HD","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/1469.m3u8" }}
 ]
