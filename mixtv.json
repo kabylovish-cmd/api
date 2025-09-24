@@ -28,5 +28,9 @@
   { "chaine": { "nom":"CANAL+LIVE 1","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/122856.m3u8" }},
   { "chaine": { "nom":"CANAL+FOOT FR","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/1390.m3u8" }},
   { "chaine": { "nom":"CANAL+SPORT HD","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/1392.m3u8" }},
-  { "chaine": { "nom":"CANAL+SPORT360 HD","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/1469.m3u8" }}
+  { "chaine": { "nom":"CANAL+SPORT360 HD","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/1469.m3u8" }},
+  { "chaine": { "nom":"CANAL-DOC-FR-CA","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/44272.m3u8" }},
+  { "chaine": { "nom":"ALMAJD DOCU","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/44272.m3u8" }}
+  
+  
 ]
