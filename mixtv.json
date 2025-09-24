@@ -1,4 +1,6 @@
 [
   { "chaine": { "nom":"AL MAGHARIBIA","url": "http://ugeen.live:8080/live/exskypeleoshare-jordansat4u/50/943.m3u8" }},
-  { "chaine": { "nom":"Berbère HD","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/3567.m3u8" }}
+  { "chaine": { "nom":"Berbère HD","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/3567.m3u8" }},
+  { "chaine": { "nom":"XXL FR","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/13564.m3u8" }}
+  
 ]
