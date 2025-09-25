@@ -149,10 +149,8 @@
    { "vod": { "url": "https://www.youtube.com/watch?v=dE_hp58LgCI", "duration": 6480, "title":"FILM ALGÉRIEN: elmahna المحنة" }},
    { "vod": { "url": "https://www.youtube.com/watch?v=W756Za85SF8", "duration": 4953, "title":"FILM ALGÉRIEN: spiderman fi douarna" }},
    { "vod": { "url": "https://www.youtube.com/watch?v=z2J6rV1tyWI", "duration": 5855, "title":"FILM THE LOST CITY VF" }},
-   { "vod": { "url": "https://www.youtube.com/watch?v=TkXvqSuOg0Q", "duration": 5213, "title":"FILM COMÉDIE: GUERRE CHINE VS JAPAN" }}
-  
-
-  
+   { "vod": { "url": "https://www.youtube.com/watch?v=TkXvqSuOg0Q", "duration": 5213, "title":"FILM COMÉDIE: GUERRE CHINE VS JAPAN" }},
+   { "vod": { "url": "https://www.youtube.com/watch?v=Xqz8FCzqCoQ", "duration": 463, "title": "COMÉDIE: CHARLIE CHAPLIN" }}
   
   ], "playlist6": [
    { "vod": { "url": "https://www.youtube.com/watch?v=UAxyTiWEzfk", "duration": 5183, "title":"FILM KABYLE D'ACTION: le rival 2020" }},
