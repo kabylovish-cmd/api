@@ -237,7 +237,6 @@
   { "chaine": { "nom":"BEATE UHSE","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/19550.m3u8" }},
   { "chaine": { "nom":"EVIL ANGEL","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/13584.m3u8" }},
   { "chaine": { "nom":"MOVIES ADULT","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/104811.m3u8" }},
-  { "chaine": { "nom":"DUSK","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/13586.m3u8" }}
- 
-  
+  { "chaine": { "nom":"DUSK","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/13586.m3u8" }},
+  { "chaine": { "nom":"VENUS","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/13573.m3u8" }}
 ]
