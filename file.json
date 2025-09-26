@@ -211,8 +211,8 @@
   { "vod": { "url": "https://www.youtube.com/watch?v=mQzy_n70mNM", "duration": 4622, "title":"FILM KABYLE: ayur avrkan" }},
   { "vod": { "url": "https://www.youtube.com/watch?v=nVhiva_5fLM", "duration": 5218, "title":"FILM KABYLE: aich b 12" }}
   ], "playlist10": [
-  { "vod": { "url": "https://archive.org/download/intro_countdown/intro_countdown.ia.mp4", "duration": 10, "title":"DÉBUT DES PROGRAMMES" }},  
-  { "vod": { "url": "https://cdnst79.tokyvideo.com/videos/722/722653/mp4/9b4d86804c0e3c85a246c4676d1a749a9420ec73f653d32e2e093a94aa14d8bb.mp4?secure=eCvJ6UtrLgI2oIjwocdFXQ%3D%3D%2C1758940836", "duration": 6097, "title":"COMÉDIE: NORBIT 2007" }}
+  { "vod": { "url": "https://archive.org/download/intro_countdown/intro_countdown.ia.mp4", "duration": 10, "title":"DÉBUT DES PROGRAMMES" }},
+   { "vod": { "url": "https://ia600306.us.archive.org/12/items/bn_20250919/bn.mp4", "duration": 159, "title":"Fin des émissions CANALTV" }}
   
  ]
 }
