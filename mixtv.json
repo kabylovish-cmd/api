@@ -231,5 +231,8 @@
   { "chaine": { "nom":"HOT 5 FHD","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/13557.m3u8" }},
   { "chaine": { "nom":"HOT 6 FHD","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/13556.m3u8" }},
   { "chaine": { "nom":"HOT 7 FHD","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/13555.m3u8" }},
-  { "chaine": { "nom":"HOT 9 FHD","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/13553.m3u8" }}
+  { "chaine": { "nom":"HOT 9 FHD","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/13553.m3u8" }},
+  { "chaine": { "nom":"PENTHOUSE PASSION","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/13572.m3u8" }}
+  
+  
 ]
