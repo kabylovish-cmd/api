@@ -212,7 +212,22 @@
   { "vod": { "url": "https://www.youtube.com/watch?v=nVhiva_5fLM", "duration": 5218, "title":"FILM KABYLE: aich b 12" }}
   ], "playlist10": [
   { "vod": { "url": "https://archive.org/download/intro_countdown/intro_countdown.ia.mp4", "duration": 10, "title":"DÉBUT DES PROGRAMMES" }},
-   { "vod": { "url": "https://ia600306.us.archive.org/12/items/bn_20250919/bn.mp4", "duration": 159, "title":"Fin des émissions CANALTV" }}
+     { "vod": { "url": "https://www.youtube.com/watch?v=TkXvqSuOg0Q", "duration": 5213, "title":"FILM COMÉDIE: GUERRE CHINE VS JAPAN" }},
+   { "vod": { "url": "https://www.youtube.com/watch?v=dAAdcf1dEWo", "duration": 5164, "title":"FILM D'ACTION 2025" }},
+     { "vod": { "url": "https://www.youtube.com/watch?v=ngRxzQke_7g", "duration": 1893, "title":"FILM KABYLE COMÉDIE: aventure de siomar" }},
+   { "vod": { "url": "https://www.youtube.com/watch?v=zFQfBmEx_NY", "duration": 2784, "title":"FILM KABYLE COMÉDIE: amghar ilemzi" }},
+   { "vod": { "url": "https://www.youtube.com/watch?v=5lKNPvYFogQ", "duration": 4201, "title":"FILM KABYLE COMÉDIE: imseggben" }},
+   { "vod": { "url": "https://www.youtube.com/watch?v=h4CI9-ht5Gw", "duration": 5893, "title":"FILM KABYLE: tilufa n zman" }},
+   { "vod": { "url": "https://www.youtube.com/watch?v=u3r-wFX8Uuc", "duration": 4302, "title":"FILM KABYLE: le chant des cigales" }},
+   { "vod": { "url": "https://www.youtube.com/watch?v=bsboZZdOUVE", "duration": 3979, "title":"FILM KABYLE: la dernière cigarette" }},
+   { "vod": { "url": "https://www.youtube.com/watch?v=K5wuQ3712Es", "duration": 2433, "title":"FILM KABYLE: imettawen n wul" }},
+   { "vod": { "url": "https://www.youtube.com/watch?v=zFQfBmEx_NY", "duration": 3339, "title":"FILM KABYLE: tifukal" }},
+   { "vod": { "url": "https://www.youtube.com/watch?v=bhjuI5ck-Co", "duration": 4762, "title":"FILM KABYLE: taldunt deg yelman" }},
+   { "vod": { "url": "https://www.youtube.com/watch?v=pnu991tJVcY", "duration": 4747, "title":"FILM KABYLE: la balle dans l'ame" }},
+   { "vod": { "url": "https://www.youtube.com/watch?v=WGTaTVvivZM", "duration": 3586, "title":"FILM KABYLE: Dda mukran" }},
+   { "vod": { "url": "https://www.youtube.com/watch?v=tEpWbr53FeA", "duration": 4828, "title":"FILM KABYLE: tasarut n tudart" }},
+   { "vod": { "url": "https://www.youtube.com/watch?v=bOO4MYOgMZc", "duration": 4626, "title":"FILM KABYLE: yura deg unyiriw" }},
+   { "vod": { "url": "https://www.youtube.com/watch?v=mQzy_n70mNM", "duration": 4622, "title":"FILM KABYLE: ayur avrkan" }}
   
  ]
 }
