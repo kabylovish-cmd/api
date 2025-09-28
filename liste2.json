@@ -108,6 +108,8 @@
   { "chaine": { "nom":"HULU BOXOFFICE","url": "http://ugeen.live:8080/live/exskypeleoshare-jordansat4u/50/4207.m3u8" }},
   { "chaine": { "nom":"SHAHID-MOVIES ACTION","url": "http://ugeen.live:8080/live/exskypeleoshare-jordansat4u/50/4058.m3u8" }},
   { "chaine": { "nom":"THRILLER MOVIES","url": "http://ugeen.live:8080/live/exskypeleoshare-jordansat4u/50/3946.m3u8" }},
+  { "chaine": { "nom":"PLEX CINÉMA FRANÇAIS","url": "http://connectiktv.ddns.net:5000/plextv/@plextv/playlist.m3u8" }},
+  { "chaine": { "nom":"MYTV CINÉMA FRANÇAIS","url": "http://connectiktv.ddns.net:5000/mytvchannel/@mytvchannel/playlist.m3u8" }},
   { "chaine": { "nom":"MBC+VARIETY HD","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/8793.m3u8" }},
   { "chaine": { "nom":"MBC+MOVIES","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/4960.m3u8" }},
   { "chaine": { "nom":"MBC PREMIUM","url": "http://megatv.shop:2052/live/40298748512663/aYnHYUcsI5/192456.m3u8" }},
