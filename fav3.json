@@ -1,2 +1,3 @@
-[ { "chaine": { "nom":"MIXONE bilaraby","url": "https://ml-pull-hwc.myco.io/MixBelAraby/hls/index.m3u8" }}
+[ { "chaine": { "nom":"MIXONE bilaraby","url": "https://ml-pull-hwc.myco.io/MixBelAraby/hls/index.m3u8" }},
+  { "chaine": { "nom":"IFILM ARABIC","url": "https://live.presstv.ir/hls/ifilmar.m3u8" }}
 ]
