@@ -3,6 +3,7 @@
   { "chaine": { "nom":"MBC 4","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/2423.m3u8" }},
   { "chaine": { "nom":"ABU DHABI TV","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/2406.m3u8" }},
   { "chaine": { "nom":"DUBAI ONE","url": "https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/media.m3u8" }},
+  { "chaine": { "nom":"SAMA DUBAI","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/2399.m3u8" }},
   { "chaine": { "nom":"ZEE ALWAN","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/2388.m3u8" }},
   { "chaine": { "nom":"ZEE AFLAM","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/2387.m3u8" }},
   { "chaine": { "nom":"IFILM ARABIC","url": "https://live.presstv.ir/hls/ifilmar.m3u8" }},
