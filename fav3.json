@@ -1,6 +1,7 @@
 [ { "chaine": { "nom":"MIXONE bilaraby","url": "https://ml-pull-hwc.myco.io/MixBelAraby/hls/index.m3u8" }},
   { "chaine": { "nom":"MBC DRAMA","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/2422.m3u8" }},
   { "chaine": { "nom":"MBC 4","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/2423.m3u8" }},
+  { "chaine": { "nom":"MBC BOLLYWOOD","url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8" }},
   { "chaine": { "nom":"ABU DHABI TV","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/2406.m3u8" }},
   { "chaine": { "nom":"DUBAI ONE","url": "https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/media.m3u8" }},
   { "chaine": { "nom":"SAMA DUBAI","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/2399.m3u8" }},
