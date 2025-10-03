@@ -253,7 +253,9 @@
    { "vod": { "url": "https://archive.org/download/rahim_ghass_akka/rahim_ghass_akka.mp4", "duration": 180, "title":"RAHIM: ghass akka" }},
    { "vod": { "url": "https://archive.org/download/rahim_ghass_akka/rahim_orezrighakka.mp4", "duration": 36, "title":"RAHIM: ourezrigh akka" }},
    { "vod": { "url": "https://archive.org/download/rahim_ghass_akka/kamel_rayah.mp4", "duration": 42, "title":"KAMEL RAYAH" }},
-   { "vod": { "url": "https://archive.org/download/rahim_ghass_akka/ait_menguelat1.mp4", "duration": 45, "title":"AIT MENGUELAT" }}
+   { "vod": { "url": "https://archive.org/download/rahim_ghass_akka/ait_menguelat1.mp4", "duration": 45, "title":"AIT MENGUELAT" }},
+   { "vod": { "url": "https://archive.org/download/tahar_anza/tahar_anza.mp4", "duration": 221, "title":"TAHAR ANZAR" }}
+
      
  ]
 }
