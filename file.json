@@ -244,6 +244,15 @@
    { "vod": { "url": "https://www.youtube.com/watch?v=bOO4MYOgMZc", "duration": 4626, "title":"FILM KABYLE: yura deg unyiriw" }},
    { "vod": { "url": "https://www.youtube.com/watch?v=mQzy_n70mNM", "duration": 4622, "title":"FILM KABYLE: ayur avrkan" }}
   
+ ], "playlist11": [
+   { "vod": { "url": "https://archive.org/download/rahim_ghass_akka/matoub_ayafroukh.mp4", "duration": 46, "title":"MATOUB: ayafroukh" }},
+   { "vod": { "url": "https://archive.org/download/rahim_ghass_akka/matoub_esvariyemes.mp4", "duration": 39, "title":"MATOUB: esvar" }},
+   { "vod": { "url": "https://archive.org/download/rahim_ghass_akka/rahim_achhal.mp4", "duration": 57, "title":"RAHIM: ach hal" }},
+   { "vod": { "url": "https://archive.org/download/rahim_ghass_akka/rahim_ghass_akka.mp4", "duration": 180, "title":"RAHIM: ghass akka" }},
+   { "vod": { "url": "https://archive.org/download/rahim_ghass_akka/rahim_orezrighakka.mp4", "duration": 36, "title":"RAHIM: ourezrigh akka" }},
+   { "vod": { "url": "https://archive.org/download/rahim_ghass_akka/kamel_rayah.mp4", "duration": 42, "title":"KAMEL RAYAH" }},
+   { "vod": { "url": "https://archive.org/download/rahim_ghass_akka/ait_menguelat1.mp4", "duration": 45, "title":"AIT MENGUELAT" }}
+     
  ]
 }
 
