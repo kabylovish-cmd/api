@@ -245,7 +245,7 @@
    { "vod": { "url": "https://www.youtube.com/watch?v=mQzy_n70mNM", "duration": 4622, "title":"FILM KABYLE: ayur avrkan" }}
   
  ], "playlist11": [
-  
+   { "vod": { "url": "https://archive.org/download/lani_rabeh_1/lani_rabeh_1.mp4", "duration": 355, "title":"LANI RABEH 1" }},
    { "vod": { "url": "https://archive.org/download/cherif_hamani_esvar/cherif_hamani_esvar.mp4", "duration": 57, "title":"CHERIF HAMANI: esvar" }},
    { "vod": { "url": "https://archive.org/download/rahim_ghass_akka/matoub_ayafroukh.mp4", "duration": 46, "title":"MATOUB: ayafroukh" }},
    { "vod": { "url": "https://archive.org/download/rahim_ghass_akka/matoub_esvariyemes.mp4", "duration": 39, "title":"MATOUB: esvar" }},
