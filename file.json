@@ -245,7 +245,25 @@
    { "vod": { "url": "https://www.youtube.com/watch?v=mQzy_n70mNM", "duration": 4622, "title":"FILM KABYLE: ayur avrkan" }}
   
  ], "playlist11": [
+   { "vod": { "url": "https://archive.org/download/intro_countdown/intro_countdown.ia.mp4", "duration": 10, "title":"DÉBUT DES PROGRAMMES" }},
    { "vod": { "url": "https://www.youtube.com/watch?v=ex-QQL0bn_I", "duration": 547, "title":"time comedy charlie" }},
+   { "vod": { "url": "https://archive.org/download/intro_countdown/intro_countdown.ia.mp4", "duration": 10, "title":"LA SUITE" }},  
+   { "vod": { "url": "https://archive.org/download/lani_rabeh_1/lani_rabeh_1.mp4", "duration": 355, "title":"LANI RABEH 1" }},
+   { "vod": { "url": "https://archive.org/download/cherif_hamani_esvar/cherif_hamani_esvar.mp4", "duration": 57, "title":"CHERIF HAMANI: esvar" }},
+   { "vod": { "url": "https://archive.org/download/rahim_ghass_akka/matoub_ayafroukh.mp4", "duration": 46, "title":"MATOUB: ayafroukh" }},
+   { "vod": { "url": "https://archive.org/download/rahim_ghass_akka/matoub_esvariyemes.mp4", "duration": 39, "title":"MATOUB: esvar" }},
+   { "vod": { "url": "https://archive.org/download/rahim_ghass_akka/rahim_achhal.mp4", "duration": 57, "title":"RAHIM: ach hal" }},
+   { "vod": { "url": "https://archive.org/download/rahim_ghass_akka/rahim_ghass_akka.mp4", "duration": 180, "title":"RAHIM: ghass akka" }},
+   { "vod": { "url": "https://archive.org/download/rahim_ghass_akka/rahim_orezrighakka.mp4", "duration": 36, "title":"RAHIM: ourezrigh akka" }},
+   { "vod": { "url": "https://archive.org/download/rahim_ghass_akka/kamel_rayah.mp4", "duration": 42, "title":"KAMEL RAYAH" }},
+   { "vod": { "url": "https://archive.org/download/rahim_ghass_akka/ait_menguelat1.mp4", "duration": 45, "title":"AIT MENGUELAT" }},
+   { "vod": { "url": "https://archive.org/download/tahar_anza/tahar_anza.mp4", "duration": 221, "title":"TAHAR ANZAR" }},
+   { "vod": { "url": "https://archive.org/download/ait_meslayen/ait_meslayen.mp4", "duration": 56, "title":"ait meslayen" }},
+   { "vod": { "url": "https://archive.org/download/elhessnaoui_202510/elhessnaoui.mp4", "duration": 49, "title":"el hessnaoui" }},
+   { "vod": { "url": "https://archive.org/download/ali_farhati_imgharen/silekhel.mp4", "duration": 86, "title":"si lekhel" }},
+   { "vod": { "url": "https://archive.org/download/ali_farhati_imgharen/ali_farhati_imgharen.mp4", "duration": 94, "title":"ali ferhati" }},
+   { "vod": { "url": "https://www.youtube.com/watch?v=UmT53GUuZAA", "duration": 1030, "title":"TIXIDAS 1" }},
+   { "vod": { "url": "https://www.youtube.com/watch?v=ZZ5VMQRzCDA", "duration": 1030, "title":"TIXIDAS 2" }},
    { "vod": { "url": "https://archive.org/download/lani_rabeh_1/lani_rabeh_1.mp4", "duration": 355, "title":"LANI RABEH 1" }},
    { "vod": { "url": "https://archive.org/download/cherif_hamani_esvar/cherif_hamani_esvar.mp4", "duration": 57, "title":"CHERIF HAMANI: esvar" }},
    { "vod": { "url": "https://archive.org/download/rahim_ghass_akka/matoub_ayafroukh.mp4", "duration": 46, "title":"MATOUB: ayafroukh" }},
@@ -261,7 +279,9 @@
    { "vod": { "url": "https://archive.org/download/ali_farhati_imgharen/silekhel.mp4", "duration": 86, "title":"si lekhel" }},
    { "vod": { "url": "https://archive.org/download/ali_farhati_imgharen/ali_farhati_imgharen.mp4", "duration": 94, "title":"ali ferhati" }}
   
+  
  ]
+ 
 }
 
 
