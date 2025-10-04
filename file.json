@@ -425,6 +425,9 @@
    { "vod": { "url": "https://archive.org/download/said_aitbraham_ghassakaloghenwaman/said_aitbraham_ghassakaloghenwaman.mp4", "duration": 257, "title":"SAID AIT BRAHAM: ghasaka loughen waman" }},
    { "vod": { "url": "https://archive.org/download/idir_akfadou_rends_hommage/idir_akfadou_rends_hommage.mp4", "duration": 591, "title":"IDIR AKFADOU: rends hommage à la Kabylie" }},
     { "vod": { "url": "https://archive.org/download/tayri_qarihhen/tayri_qarihhen.mp4", "duration": 214, "title":"TAYRI QARIHHEN" }},
-   { "vod": { "url": "https://www.youtube.com/watch?v=TkXvqSuOg0Q", "duration": 5213, "title":"FILM COMÉDIE: GUERRE CHINE VS JAPAN" }}
+   { "vod": { "url": "https://www.youtube.com/watch?v=TkXvqSuOg0Q", "duration": 5213, "title":"FILM COMÉDIE: GUERRE CHINE VS JAPAN" }},
+   { "vod": { "url": "https://archive.org/download/intro-3-d-1080p/Intro%203D_1080p.mp4", "duration": 41, "title":"la suite des programmes" }},
+    { "vod": { "url": "https://archive.org/download/intro-3-d-1080p/groupe_idurar_khakagh.mp4", "duration": 287, "title":"GROUPE IDURAR: khakagh khakagh" }}
+  
  ]
 }
