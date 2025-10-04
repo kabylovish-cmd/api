@@ -1,13 +1,10 @@
 [ { "chaine": { "nom":"MIXONE bilaraby","url": "https://ml-pull-hwc.myco.io/MixBelAraby/hls/index.m3u8" }},
   { "chaine": { "nom":"MBC DRAMA","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/2422.m3u8" }},
-  { "chaine": { "nom":"MBC+DRAMA","url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-plus-drama/e37251ec2aac8f6c98f75cd0fa37cd28/index.m3u8" }},
   { "chaine": { "nom":"MBC 4","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/2423.m3u8" }},
   { "chaine": { "nom":"MBC BOLLYWOOD","url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8" }},
   { "chaine": { "nom":"ABU DHABI TV","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/2406.m3u8" }},
   { "chaine": { "nom":"DUBAI ONE","url": "https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/media.m3u8" }},
   { "chaine": { "nom":"SAMA DUBAI","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/2399.m3u8" }},
-  { "chaine": { "nom":"MOVIES ACTION","url": "https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8" }},
-  { "chaine": { "nom":"MOVIES THRILLER","url": "https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8" }},
   { "chaine": { "nom":"IFILM ARABIC","url": "https://live.presstv.ir/hls/ifilmar.m3u8" }},
   { "chaine": { "nom":"ART AFLAM 1","url": "http://ugeen.live:8080/live/exskypeleoshare-jordansat4u/50/997.m3u8" }}
 
