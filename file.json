@@ -317,7 +317,10 @@
    { "vod": { "url": "https://archive.org/download/matoub1/matoub1.mp4", "duration": 46, "title":"MATOUBE 1" }},
    { "vod": { "url": "https://archive.org/download/bouchiba_tamenzot_isnagh/bouchiba_tamenzot_isnagh.mp4", "duration": 301, "title":"BOUCHIBA: tamenzot isnegh" }},
  { "vod": { "url": "https://archive.org/download/said_aitbraham_ghassakaloghenwaman/said_aitbraham_ghassakaloghenwaman.mp4", "duration": 257, "title":"SAID AIT BRAHAM: ghasaka loughen waman" }},
-    { "vod": { "url": "https://archive.org/download/tayri_qarihhen/tayri_qarihhen.mp4", "duration": 214, "title":"TAYRI QARIHHEN" }}
+    { "vod": { "url": "https://archive.org/download/tayri_qarihhen/tayri_qarihhen.mp4", "duration": 214, "title":"TAYRI QARIHHEN" }},
+     { "vod": { "url": "https://archive.org/download/intro_countdown/intro_countdown.ia.mp4", "duration": 10, "title":"SUITE DES PROGRAMMES" }},
+       { "vod": { "url": "https://www.youtube.com/watch?v=8sme3RvPhvc", "duration": 7620, "title":"THE GREAT BATTLE" }}
+   
 
         
  ]
