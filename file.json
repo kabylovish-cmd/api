@@ -74,8 +74,7 @@
  { "vod": { "url": "https://youtu.be/TO2E3aycYfs?si=2va1IUpmsHaz54bQ", "duration": 4902, "title":"Film d'action 2025" }}
  ], "playlist2": [
   
-   { "vod": { "url": "https://islamichistory.tv/upload/videos/2025/01/jA6dAwBN2KxDkGgw1hpf_30_0e2f066be493d18088decb93953290e6_video_1080p_converted.mp4", "duration": 4876, "title":"وثائقي حول المسلمون و أمريكا" }},      
-    { "vod": { "url": "https://islamichistory.tv/upload/videos/2025/04/HgD12VBJyCy1GWFQvPZK_18_35eeefb6b6aa49049fe2dcf43827964f_video_360p_converted.mp4", "duration": 802, "title":"الحواجز الأمنية المزيفة" }},      
+      { "vod": { "url": "https://islamichistory.tv/upload/videos/2025/04/HgD12VBJyCy1GWFQvPZK_18_35eeefb6b6aa49049fe2dcf43827964f_video_360p_converted.mp4", "duration": 802, "title":"الحواجز الأمنية المزيفة" }},      
    { "vod": { "url": "https://islamichistory.tv/upload/videos/2025/04/vkLbt8pRIsPZxWdTzikc_18_f583ee77b5b021ef697d036a14f03569_video_240p_converted.mp4", "duration": 1708, "title":"غزوة المنصورة" }},
    { "vod": { "url": "https://islamichistory.tv/upload/videos/2025/04/KJpBK6OqtycA9lUCrDsZ_18_075fb5344434ede36e6222858d935b2e_video_360p_converted.mp4", "duration": 721, "title":"كمين تاخوخت" }},
    { "vod": { "url": "https://islamichistory.tv/upload/videos/2025/05/ap6q5deAN5OjqmXjhVZX_29_180103f7049e431225f23699c8f4654d_video_360p_converted.mp4", "duration": 3588, "title":" غزوة عزازقة " }}, 
@@ -87,8 +86,6 @@
        { "vod": { "url": "https://islamichistory.tv/upload/videos/2025/04/6OeghbCh675rOMCsbngB_18_6be2aebb98bf10d4829bf89e163f2fee_video_360p_converted.mp4", "duration": 759, "title":"غزوة السطح" }},
     { "vod": { "url": "https://xxx.livegore.com/rb-include/videos/2471570968.mp4", "duration": 140, "title":"VOD-A0" }},
     { "vod": { "url": "https://xxx.livegore.com//rb-include/videos/4145052367.mp4", "duration": 20, "title":"VOD-A1" }},
-    { "vod": { "url": "https://archive.org/download/publicite_1080p/publicite_1080p.ia.mp4", "duration": 11, "title": "سنعود بعد قليل" }},
-     { "vod": { "url": "https://archive.org/download/pub_test1/pub_test1.ia.mp4", "duration": 39, "title": "Publicité" }},
        { "vod": { "url": "https://xxx.livegore.com//rb-include/videos/2839303161.mp4", "duration": 11, "title":"VOD1" }},
        { "vod": { "url": "https://xxx.livegore.com//rb-include/videos/3661488872.mp4", "duration": 120, "title":"VOD2"}},
        { "vod": { "url": "https://xxx.livegore.com//rb-include/videos/506374440.mp4", "duration": 168, "title":"VOD3" }},
@@ -109,9 +106,9 @@
         { "vod": { "url": "https://xxx.livegore.com//rb-include/videos/8928640550.mp4", "duration": 78, "title":"VOD21" }},
             { "vod": { "url": "https://xxx.livegore.com/rb-include/videos/4303885735.mp4", "duration": 44, "title": "VOD28"}},
      { "vod": { "url": "https://xxx.livegore.com/rb-include/videos/5703253927.mp4", "duration": 59, "title": "VOD29" }},
-    { "vod": { "url": "https://archive.org/download/publicite_1080p/publicite_1080p.ia.mp4", "duration": 11, "title": "فاصل إشهاري" }},
-     { "vod": { "url": "https://archive.org/download/pub_test1/pub_test1.ia.mp4", "duration": 39, "title": "Publicité" }},
-     { "vod": { "url": "https://xxx.livegore.com/rb-include/videos/2795451311.mp4", "duration": 47, "title": "VOD30" }}  
+     { "vod": { "url": "https://xxx.livegore.com/rb-include/videos/2795451311.mp4", "duration": 47, "title": "VOD30" }},
+   { "vod": { "url": "https://islamichistory.tv/upload/videos/2025/01/jA6dAwBN2KxDkGgw1hpf_30_0e2f066be493d18088decb93953290e6_video_1080p_converted.mp4", "duration": 4876, "title":"وثائقي حول المسلمون و أمريكا" }}     
+ 
      
   ],  "playlist3": [
         { "vod": { "url": "https://archive.org/download/intro_countdown/intro_countdown.ia.mp4", "duration": 10, "title":"DÉBUT DES PROGRAMMES" }},  
