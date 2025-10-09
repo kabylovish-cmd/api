@@ -6,7 +6,9 @@
   { "chaine": { "nom":"DUBAI ONE","url": "https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/media.m3u8" }},
   { "chaine": { "nom":"SAMA DUBAI","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/2399.m3u8" }},
   { "chaine": { "nom":"IFILM ARABIC","url": "https://live.presstv.ir/hls/ifilmar.m3u8" }},
-  { "chaine": { "nom":"ART AFLAM 1","url": "http://ugeen.live:8080/live/exskypeleoshare-jordansat4u/50/997.m3u8" }}
-
+  { "chaine": { "nom":"ART AFLAM 1","url": "http://ugeen.live:8080/live/exskypeleoshare-jordansat4u/50/997.m3u8" }},
+  { "chaine": { "nom":"NESSMA","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/3580.m3u8" }},
+  { "chaine": { "nom":"HANNIBAL","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/2403.m3u8" }},
+  { "chaine": { "nom":"2M","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/3555.m3u8" }}
 
 ]
