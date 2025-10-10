@@ -237,16 +237,15 @@
    { "vod": { "url": "https://www.youtube.com/watch?v=tEpWbr53FeA", "duration": 4828, "title":"FILM KABYLE: tasarut n tudart" }},
    { "vod": { "url": "https://www.youtube.com/watch?v=bOO4MYOgMZc", "duration": 4626, "title":"FILM KABYLE: yura deg unyiriw" }},
    { "vod": { "url": "https://www.youtube.com/watch?v=mQzy_n70mNM", "duration": 4622, "title":"FILM KABYLE: ayur avrkan" }},
-     { "vod": { "url": "https://www.youtube.com/watch?v=PkFy9-dxDFs", "duration": 6880, "title":"DEADLY CLUMB(BOXOFFICE ACTION)" }}
+     { "vod": { "url": "https://www.youtube.com/watch?v=PkFy9-dxDFs", "duration": 6880, "title":"DEADLY CLUMB(BOXOFFICE ACTION)" }},
+  { "vod": { "url": "https://www.youtube.com/watch?v=ShORQZZQmdk", "duration": 6427, "title":"JACKIE CHAN: kungfu yoga" }}
  ], "playlist11": [
 
      { "vod": { "url": "https://archive.org/download/intro_countdown/intro_countdown.ia.mp4", "duration": 10, "title":"DÉBUT DES PROGRAMMES" }},
        { "vod": { "url": "https://www.youtube.com/watch?v=8sme3RvPhvc", "duration": 7620, "title":"THE GREAT BATTLE" }},
      { "vod": { "url": "https://archive.org/download/intro_countdown/intro_countdown.ia.mp4", "duration": 10, "title":"SUITE DES PROGRAMMES" }},
    { "vod": { "url": "https://www.youtube.com/watch?v=QyUwzkkrI8M", "duration": 3897, "title":"LA VANGEANCE DU ROI GUERRIER" }},
-    { "vod": { "url": "https://www.youtube.com/watch?v=vK1Kl-EB0I8", "duration": 7174, "title":"HIVER SANGLANT" }},
    { "vod": { "url": "https://www.youtube.com/watch?v=qzvKc4iKMcY", "duration": 7237, "title":"THE NAZI ARMY" }},
-    { "vod": { "url": "https://www.youtube.com/watch?v=LHhgbO5s_HE", "duration": 8193, "title":"WOLFHOUND" }},
-       { "vod": { "url": "https://www.youtube.com/watch?v=ShORQZZQmdk", "duration": 6427, "title":"JACKIE CHAN: kungfu yoga" }}
+    { "vod": { "url": "https://www.youtube.com/watch?v=LHhgbO5s_HE", "duration": 8193, "title":"WOLFHOUND" }}
  ]
 }
