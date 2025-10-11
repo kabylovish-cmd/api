@@ -253,7 +253,10 @@
   { "vod": { "url": "https://archive.org/download/intro_countdown/intro_countdown.ia.mp4", "duration": 10, "title":"DÉBUT DES PROGRAMMES" }},
   { "vod": { "url": "https://www.youtube.com/watch?v=c8YucEHvzAg", "duration": 5695, "title":"GRINGO JOUE SUR LE ROUGE" }},
   { "vod": { "url": "https://www.youtube.com/watch?v=VWNkEMyzyDw", "duration": 4626, "title":"LE PISTOLERO DE TOMBSTONE" }},
-  { "vod": { "url": "https://www.youtube.com/watch?v=ad1mYzBg8cg", "duration": 5040, "title":"LES CHEVALIERS DU TÉXAS" }}
+  { "vod": { "url": "https://www.youtube.com/watch?v=ad1mYzBg8cg", "duration": 5040, "title":"LES CHEVALIERS DU TÉXAS" }},
+  { "vod": { "url": "https://www.youtube.com/watch?v=wR4oGEN5Sqg", "duration": 5802, "title":"KEOMA" }}
+ 
+  
 
  ]
 }
