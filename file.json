@@ -249,5 +249,9 @@
    { "vod": { "url": "https://www.youtube.com/watch?v=QyUwzkkrI8M", "duration": 3897, "title":"LA VANGEANCE DU ROI GUERRIER" }},
    { "vod": { "url": "https://www.youtube.com/watch?v=qzvKc4iKMcY", "duration": 7237, "title":"THE NAZI ARMY" }},
     { "vod": { "url": "https://www.youtube.com/watch?v=LHhgbO5s_HE", "duration": 8193, "title":"WOLFHOUND" }}
+ ], "playlist12": [
+  { "vod": { "url": "https://archive.org/download/intro_countdown/intro_countdown.ia.mp4", "duration": 10, "title":"DÉBUT DES PROGRAMMES" }},
+  { "vod": { "url": "https://www.youtube.com/watch?v=c8YucEHvzAg", "duration": 5695, "title":"GRINGO JOUE SUR LE ROUGE" }},
+  { "vod": { "url": "https://www.youtube.com/watch?v=VWNkEMyzyDw", "duration": 4626, "title":"LE PISTOLERO DE TOMBSTONE" }}
  ]
 }
