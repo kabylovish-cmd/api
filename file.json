@@ -242,6 +242,7 @@
  ], "playlist11": [
 
      { "vod": { "url": "https://archive.org/download/intro_countdown/intro_countdown.ia.mp4", "duration": 10, "title":"DÉBUT DES PROGRAMMES" }},
+  { "vod": { "url": "https://www.youtube.com/watch?v=nPv4FNrflg8", "duration": 9785, "title":"BATTLE AT LAKE CHANGJIN" }},
          { "vod": { "url": "https://www.youtube.com/watch?v=nPv4FNrflg8", "duration": 8305, "title":"LA CHUTE DU FACON NOIR" }},
   { "vod": { "url": "https://www.youtube.com/watch?v=8sme3RvPhvc", "duration": 7620, "title":"THE GREAT BATTLE" }},
      { "vod": { "url": "https://archive.org/download/intro_countdown/intro_countdown.ia.mp4", "duration": 10, "title":"SUITE DES PROGRAMMES" }},
