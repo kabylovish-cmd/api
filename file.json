@@ -247,7 +247,9 @@
   { "vod": { "url": "https://www.youtube.com/watch?v=8sme3RvPhvc", "duration": 7620, "title":"THE GREAT BATTLE" }},
   { "vod": { "url": "https://www.youtube.com/watch?v=QyUwzkkrI8M", "duration": 3897, "title":"LA VANGEANCE DU ROI GUERRIER" }},
   { "vod": { "url": "https://www.youtube.com/watch?v=qzvKc4iKMcY", "duration": 7237, "title":"THE NAZI ARMY" }},
-  { "vod": { "url": "https://www.youtube.com/watch?v=LHhgbO5s_HE", "duration": 8193, "title":"WOLFHOUND" }}
+  { "vod": { "url": "https://www.youtube.com/watch?v=LHhgbO5s_HE", "duration": 8193, "title":"WOLFHOUND" }},
+  { "vod": { "url": "https://www.youtube.com/watch?v=oICKOszzJ6U", "duration": 5351, "title":"ROME DESTRUCTION" }}
+ 
  ], "playlist12": [
   
   { "vod": { "url": "https://archive.org/download/intro_countdown/intro_countdown.ia.mp4", "duration": 10, "title":"DÉBUT DES PROGRAMMES" }},
