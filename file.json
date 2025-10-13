@@ -249,9 +249,8 @@
   { "vod": { "url": "https://www.youtube.com/watch?v=qzvKc4iKMcY", "duration": 7237, "title":"THE NAZI ARMY" }},
   { "vod": { "url": "https://www.youtube.com/watch?v=LHhgbO5s_HE", "duration": 8193, "title":"WOLFHOUND" }},
   { "vod": { "url": "https://www.youtube.com/watch?v=oICKOszzJ6U", "duration": 5351, "title":"ROME DESTRUCTION" }},
-  { "vod": { "url": "https://www.youtube.com/watch?v=ilEpeRcHZ3U", "duration": 6247, "title":"COMMANDOS D'ÉLITE" }}
-
- 
+  { "vod": { "url": "https://www.youtube.com/watch?v=ilEpeRcHZ3U", "duration": 6247, "title":"COMMANDOS D'ÉLITE" }},
+  { "vod": { "url": "https://www.youtube.com/watch?v=2AWRa5wTapI", "duration": 7942, "title":"LE DERNIER ROYAUME" }}
  ], "playlist12": [
   
   { "vod": { "url": "https://archive.org/download/intro_countdown/intro_countdown.ia.mp4", "duration": 10, "title":"DÉBUT DES PROGRAMMES" }},
