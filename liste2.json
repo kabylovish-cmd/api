@@ -36,6 +36,7 @@
   { "chaine": { "nom":"ElHEDDAF","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/3562.m3u8" }},
   { "chaine": { "nom":"INFOSPORT+","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/4047.m3u8" }},
   { "chaine": { "nom":"VARZESH","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/107150.m3u8" }},
+  { "chaine": { "nom":"PTV","url": "https://event.vedge.infomaniak.com/livecast/ik:puissancetelevision/manifest.m3u8" }},
   { "chaine": { "nom":"BEIN SPORT XTRA1","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/109988.m3u8" }},
   { "chaine": { "nom":"BEIN SPORT XTRA2","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/109991.m3u8" }},
   { "chaine": { "nom":"STARZ PLAY SPORT 1","url": "http://ugeen.live:8080/live/exskypeleoshare-jordansat4u/50/4040.m3u8" }},
