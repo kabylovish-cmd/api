@@ -1,4 +1,5 @@
 [ 
+  { "chaine": { "nom":"BOXOFFICE 1","url": "http://vip.sibfungold.org:8080/live/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/55652.m3u8" }},
   { "chaine": { "nom":"PLEX CINÉMA","url": "http://connectiktv.ddns.net:5000/plextv/@plextv/playlist.m3u8" }},
   { "chaine": { "nom":"MYTV CINÉMA","url": "http://connectiktv.ddns.net:5000/mytvchannel/@mytvchannel/playlist.m3u8" }},
   { "chaine": { "nom":"RAKUTEN ACTION","url": "https://01ac9352fbfa4204998783d41f9b1a2e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6068/master.m3u8" }},
