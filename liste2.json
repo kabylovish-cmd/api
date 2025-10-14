@@ -208,7 +208,6 @@
   { "chaine": { "nom":"ANIMAUX HD","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/1435.m3u8" }},
   { "chaine": { "nom":"SEASONS HD","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/1433.m3u8" }},
   { "chaine": { "nom":"CHASSE&PÉCHE","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/1434.m3u8" }},
-  { "chaine": { "nom":"VOYAGE","url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/611e7811eb9daf000764cbfd/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=" }},
   { "chaine": { "nom":"LCI HD","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/78593.m3u8" }},   
   { "chaine": { "nom":"EURONEWS FRANCE","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/420.m3u8" }},
   { "chaine": { "nom":"FRANCE24 FRANCE","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/419.m3u8" }},
