@@ -162,7 +162,7 @@
    { "vod": { "url": "https://www.youtube.com/watch?v=1AaDWneidgg", "duration": 7027, "title":"FILM KABYLE: awhid" }},
    { "vod": { "url": "https://www.youtube.com/watch?v=fjYH9fyxaKo", "duration": 4999, "title":"FILM KABYLE: machaho" }},
    { "vod": { "url": "https://www.youtube.com/watch?v=khcx9KzGtnE", "duration": 4121, "title":"FILM KABYLE: timsirin" }},
-   { "vod": { "url": "https://www.youtube.com/watch?v=B7TnOwTOofY", "duration": 4803, "title":"FILM KABYLE: si belkacem" }},
+   { "vod": { "url": "https://www.youtube.com/watch?v=DXasweYGioA", "duration": 5435, "title":"FILM DE GUERRE" }},
    { "vod": { "url": "https://www.youtube.com/watch?v=j_KufzDiE6s", "duration": 2931, "title":"ما وراء الجدران:دخل منزله فاكتشف أن زوجته تخونه مع رجل" }},
    { "vod": { "url": "https://www.youtube.com/watch?v=42RfSrDw2WI", "duration": 2647, "title":"ما وراء الجدران:عقيم ينجب طفلين" }},
    { "vod": { "url": "https://ia600306.us.archive.org/12/items/bn_20250919/bn.mp4", "duration": 159, "title":"Fin des émissions CANALTV" }}
@@ -187,8 +187,9 @@
    { "vod": { "url": "https://www.youtube.com/watch?v=NwFR0HzQ7XE", "duration": 1073, "title":"FILM KABYLE COMÉDIE: da moussa" }},
   { "vod": { "url": "https://www.youtube.com/watch?v=mQzy_n70mNM", "duration": 4622, "title":"FILM KABYLE: ayur avrkan" }},
   { "vod": { "url": "https://www.youtube.com/watch?v=nVhiva_5fLM", "duration": 5218, "title":"FILM KABYLE: aich b 12" }},
-   { "vod": { "url": "https://ia600306.us.archive.org/12/items/bn_20250919/bn.mp4", "duration": 159, "title":"Fin des émissions CANALTV" }}
-  
+        { "vod": { "url": "https://www.youtube.com/watch?v=B7TnOwTOofY", "duration": 4803, "title":"FILM KABYLE: si belkacem" }},
+    { "vod": { "url": "https://ia600306.us.archive.org/12/items/bn_20250919/bn.mp4", "duration": 159, "title":"Fin des émissions CANALTV" }}
+
   ], "playlist8": [
    { "vod": { "url": "https://www.youtube.com/watch?v=ngRxzQke_7g", "duration": 1893, "title":"FILM KABYLE COMÉDIE: aventure de siomar" }},
    { "vod": { "url": "https://www.youtube.com/watch?v=zFQfBmEx_NY", "duration": 2784, "title":"FILM KABYLE COMÉDIE: amghar ilemzi" }},
