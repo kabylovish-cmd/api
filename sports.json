@@ -9,6 +9,8 @@
   { "chaine": { "nom":"BeiNsports9 HD","url": "http://vip.sibfungold.org:8080/live/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/8.m3u8" }},
   { "chaine": { "nom":"FOOT+FHD","url": "http://vip.sibfungold.org:8080/live/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/54658.m3u8" }},
   { "chaine": { "nom":"FOOT+HD","url": "http://vip.sibfungold.org:8080/live/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/56737.m3u8" }},
-  { "chaine": { "nom":"CANAL+PREMIÈRE LIGUE FHD","url": "http://vip.sibfungold.org:8080/live/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/53531.m3u8" }}
-
+  { "chaine": { "nom":"CANAL+PREMIÈRE LIGUE FHD","url": "http://vip.sibfungold.org:8080/live/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/53531.m3u8" }},
+  { "chaine": { "nom":"BeinNsports1 france HD","url": "http://vip.sibfungold.org:8080/live/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/3682.m3u8" }},
+  { "chaine": { "nom":"BeinNsports2 france HD","url": "http://vip.sibfungold.org:8080/live/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/47302.m3u8" }},
+  { "chaine": { "nom":"BeinNsports3 france HD","url": "http://vip.sibfungold.org:8080/live/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/3680.m3u8" }}
 ]
