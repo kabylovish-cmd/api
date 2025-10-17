@@ -1,5 +1,5 @@
-[ { "chaine": { "nom": "AL ARABI العربي", "url": "https://kwtktvata.cdn.mangomolo.com/ktva/smil:tktva.stream.smil/chunklist.m3u8" }},
-  { "chaine": { "nom":"ALMAJD الوثائقية","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/80238.m3u8" }},
+[ { "chaine": { "nom": "AL ARABI", "url": "https://kwtktvata.cdn.mangomolo.com/ktva/smil:tktva.stream.smil/chunklist.m3u8" }},
+  { "chaine": { "nom":"ALMAJD","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/80238.m3u8" }},
   { "chaine": { "nom":"TEEN","url": "http://ch14.tv/live/ch4teendoc/playlist.m3u8" }}
 
  ]
