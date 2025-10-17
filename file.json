@@ -275,6 +275,8 @@
  ],  "playlist13": [
   
   { "vod": { "url": "https://archive.org/download/intro_countdown/intro_countdown.ia.mp4", "duration": 10, "title":"DÉBUT DES PROGRAMMES" }},
+  { "vod": { "url": "https://www.youtube.com/watch?v=pj7wnfW1RJI", "duration": 10725, "title":"film comédie japonaise"}},
+  { "vod": { "url": "https://www.youtube.com/watch?v=zMjqiSxn6Uw", "duration": 2693, "title":"Charlie Chaplin Shoulder Arms (1918)"}},
   { "vod": { "url": "https://www.youtube.com/watch?v=2UaM-bQWxz8", "duration": 2094, "title":"الإيقاع بأفراد عصابة تحترف الإعتداء وإختطاف الفتيات ببومرداس" }},
   { "vod": { "url": "https://www.youtube.com/watch?v=YTq-xLdfamY", "duration": 1836, "title":"جريمة قتل فتاة وسرقة سيارة وحرقها" }},
   { "vod": { "url": "https://www.youtube.com/watch?v=IGctkjeQees", "duration": 1983, "title":"ابشع جريمة قتل في بجاية و الجثة مجهولة 2020" }},
@@ -293,8 +295,6 @@
   { "vod": { "url": "https://www.youtube.com/watch?v=9M0hoim4SQw", "duration": 1411, "title":"ما وراء الجدران: شهادات صادمة لممثل جزائري.. السيدا تنخر جسدي بسبب الحجامة"}},
   { "vod": { "url": "https://www.youtube.com/watch?v=nMWu7iC6yU4", "duration": 4998, "title":"Les Guerriers du temple maudit "}},
   { "vod": { "url": "https://www.youtube.com/watch?v=oRahGjJlE7U", "duration": 4614, "title":"man fight vs hundreds for revenge"}},
-  { "vod": { "url": "https://www.youtube.com/watch?v=GVq7fn3vih4", "duration": 5106, "title":"les daltons"}},
-  { "vod": { "url": "https://www.youtube.com/watch?v=pj7wnfW1RJI", "duration": 10725, "title":"film comédie japonaise"}},
-  { "vod": { "url": "https://www.youtube.com/watch?v=zMjqiSxn6Uw", "duration": 2693, "title":"Charlie Chaplin Shoulder Arms (1918)"}}
+  { "vod": { "url": "https://www.youtube.com/watch?v=GVq7fn3vih4", "duration": 5106, "title":"les daltons"}}
 
   ]}
