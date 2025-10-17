@@ -1,5 +1,24 @@
-[ { "chaine": { "nom": "AL ARABI", "url": "https://kwtktvata.cdn.mangomolo.com/ktva/smil:tktva.stream.smil/chunklist.m3u8" }},
+[  { "chaine": { "nom":"CANALD-FR-CA","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/44272.m3u8" }},
+  { "chaine": { "nom": "AL ARABI", "url": "https://kwtktvata.cdn.mangomolo.com/ktva/smil:tktva.stream.smil/chunklist.m3u8" }},
   { "chaine": { "nom":"ALMAJD","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/80238.m3u8" }},
   { "chaine": { "nom":"TEEN DOC","url": "http://ch14.tv/live/ch4teendoc/playlist.m3u8" }},
-  { "chaine": { "nom":"OMAN THAKAFIA","url": "https://partwota.cdn.mgmlcdn.com/omcultural/smil:omcultural.stream.smil/chunklist.m3u8" }}
+  { "chaine": { "nom":"OMAN THAKAFIA","url": "https://partwota.cdn.mgmlcdn.com/omcultural/smil:omcultural.stream.smil/chunklist.m3u8" }},
+   { "chaine": { "nom":"NATGEO ABUDHABI","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/2404.m3u8" }},
+  { "chaine": { "nom":"NATGEO FR HD","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/1425.m3u8" }},
+  { "chaine": { "nom":"NATGEO WILD FR HD","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/1426.m3u8" }},
+  { "chaine": { "nom":"ARTE FR","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/1440.m3u8" }},
+  { "chaine": { "nom":"SCIENCE ET VIE","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/1428.m3u8" }},
+  { "chaine": { "nom":"ABXPLORE","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/113642.m3u8" }},
+  { "chaine": { "nom":"RMC DECOUVERTE","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/1384.m3u8" }},
+  { "chaine": { "nom":"RMC ALERTE SECOURS HD","url": "http://vip.sibfungold.org:8080/live/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/56691.m3u8" }},
+  { "chaine": { "nom":"PLANETE+HD","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/1431.m3u8" }},
+  { "chaine": { "nom":"PLANETE+CRIME HD","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/1430.m3u8" }},
+  { "chaine": { "nom":"DISCOVERY HD","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/1423.m3u8" }},
+  { "chaine": { "nom":"DISCOVERY SCIENCE HD","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/1424.m3u8" }},
+  { "chaine": { "nom":"DISCOVERY INVESTIGATION HD","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/1422.m3u8" }},
+  { "chaine": { "nom":"USHUAÏA","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/1436.m3u8" }},
+  { "chaine": { "nom":"ANIMAUX HD","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/1435.m3u8" }},
+  { "chaine": { "nom":"SEASONS HD","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/1433.m3u8" }},
+  { "chaine": { "nom":"CHASSE&PECHE","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/1434.m3u8" }}
+
  ]
