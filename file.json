@@ -256,7 +256,6 @@
   { "vod": { "url": "https://www.youtube.com/watch?v=ilEpeRcHZ3U", "duration": 6247, "title":"COMMANDOS D'ÉLITE" }},
   { "vod": { "url": "https://www.youtube.com/watch?v=2AWRa5wTapI", "duration": 7942, "title":"LE DERNIER ROYAUME" }},
   { "vod": { "url": "https://www.youtube.com/watch?v=DeaYagfSHKE", "duration": 6557, "title":"ACTION 2025:ls jps entrent la jungle pr tuer" }}
-
  ], "playlist12": [
   
   { "vod": { "url": "https://archive.org/download/intro_countdown/intro_countdown.ia.mp4", "duration": 10, "title":"DÉBUT DES PROGRAMMES" }},
@@ -271,7 +270,7 @@
   { "vod": { "url": "https://www.youtube.com/watch?v=ZqrdL_yCJaE", "duration": 6580, "title":"MON NOM EST PERSONNE" }},
   { "vod": { "url": "https://www.youtube.com/watch?v=emoudhZ338w", "duration": 4863, "title":"MON NOM EST P Y C O S" }},
   { "vod": { "url": "https://www.youtube.com/watch?v=R34qOySWZJw", "duration": 7398, "title":"film d'action fin de la guerre" }},
-  { "vod": { "url": "https://www.youtube.com/watch?v=RnAPNvWkMRQ", "duration": 4429, "title":"KUNG FU MASTER" }},
+  { "vod": { "url": "https://www.youtube.com/watch?v=RnAPNvWkMRQ", "duration": 4429, "title":"KUNG FU MASTER" }}
  ],  "playlist13": [
   
   { "vod": { "url": "https://archive.org/download/intro_countdown/intro_countdown.ia.mp4", "duration": 10, "title":"DÉBUT DES PROGRAMMES" }},
