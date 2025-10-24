@@ -271,7 +271,10 @@
   { "vod": { "url": "https://www.youtube.com/watch?v=emoudhZ338w", "duration": 4863, "title":"MON NOM EST P Y C O S" }},
   { "vod": { "url": "https://www.youtube.com/watch?v=R34qOySWZJw", "duration": 7398, "title":"film d'action à la fin de la guerre 1945" }},
   { "vod": { "url": "https://www.youtube.com/watch?v=RnAPNvWkMRQ", "duration": 4429, "title":"KUNG FU MASTER" }},
-  { "vod": { "url": "https://www.youtube.com/watch?v=YJZiMjIStT4", "duration": 2247, "title":"sketch de charlie chaplin l'armée(shoulder army 1918)" }}
+  { "vod": { "url": "https://www.youtube.com/watch?v=YJZiMjIStT4", "duration": 2247, "title":"sketch de charlie chaplin l'armée(shoulder army 1918)" }},
+  { "vod": { "url": "https://archive.org/download/bonelevagechezsois/bonelevagechezsois.mp4", "duration": 10, "title":"Fin des programmes" }}
+
+    
  ],  "playlist13": [
   
   { "vod": { "url": "https://archive.org/download/intro_countdown/intro_countdown.ia.mp4", "duration": 10, "title":"DÉBUT DES PROGRAMMES" }},
