@@ -1,4 +1,5 @@
- [{ "chaine": { "nom":"TF1 FILMS ET SERIES HD","url": "http://vip.sibfungold.org:8080/live/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/3224.m3u8" }},
+ [
+  { "chaine": { "nom":"TF1 FILMS ET SERIES HD","url": "http://vip.sibfungold.org:8080/live/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/3224.m3u8" }},
   { "chaine": { "nom":"PLEX CINEMA","url": "http://connectiktv.ddns.net:5000/plextv/@plextv/playlist.m3u8" }},
   { "chaine": { "nom":"MYTV CINEMA","url": "http://connectiktv.ddns.net:5000/mytvchannel/@mytvchannel/playlist.m3u8" }},
   { "chaine": { "nom":"CHERIE 25","url": "http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/1444.m3u8" }},
