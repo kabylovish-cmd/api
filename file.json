@@ -381,5 +381,6 @@
             }
         }
     ],"playlist15": [
-    { "vod": { "url": "https://youtu.be/GJ8qSYZ2vRM", "duration": 37186, "title":"the biggest looney tunes"}}
+    { "vod": { "url": "https://youtu.be/GJ8qSYZ2vRM", "duration": 37186, "title":"the biggest looney tunes"}},
+    { "vod": { "url": "https://www.youtube.com/watch?v=rRzyPk_aMZg", "duration": 15363, "title":"28 favorites of the golden era cartoon"}}
   ]}
