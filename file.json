@@ -166,11 +166,7 @@
    { "vod": { "url": "https://www.youtube.com/watch?v=j_KufzDiE6s", "duration": 2931, "title":"ما وراء الجدران:دخل منزله فاكتشف أن زوجته تخونه مع رجل" }},
    { "vod": { "url": "https://www.youtube.com/watch?v=42RfSrDw2WI", "duration": 2647, "title":"ما وراء الجدران:عقيم ينجب طفلين" }},
    { "vod": { "url": "https://ia600306.us.archive.org/12/items/bn_20250919/bn.mp4", "duration": 159, "title":"Fin des émissions CANALTV" }}
-  
-
   ], "playlist7": [
-
-
    { "vod": { "url": "https://www.youtube.com/watch?v=dMGZE-UTzX8", "duration": 1873, "title":"FILM KABYLE: tadssa di twaghit 1ere partie" }},
    { "vod": { "url": "https://www.youtube.com/watch?v=ssKQjl_RNaM", "duration": 2069, "title":"FILM KABYLE: tadssa di twaghit 2eme partie" }},
    { "vod": { "url": "https://www.youtube.com/watch?v=4do4lRa9hPg", "duration": 1745, "title":"FILM KABYLE: tadssa di twaghit 3eme partie" }},
@@ -185,10 +181,10 @@
    { "vod": { "url": "https://www.youtube.com/watch?v=lvNrPN8wQ5o", "duration": 2404, "title":"FILM KABYLE: yir avrid" }},
    { "vod": { "url": "https://www.youtube.com/watch?v=y_O1C7cnV6Q", "duration": 7088, "title":"FILM KABYLE: l'euro" }},
    { "vod": { "url": "https://www.youtube.com/watch?v=NwFR0HzQ7XE", "duration": 1073, "title":"FILM KABYLE COMÉDIE: da moussa" }},
-  { "vod": { "url": "https://www.youtube.com/watch?v=mQzy_n70mNM", "duration": 4622, "title":"FILM KABYLE: ayur avrkan" }},
-  { "vod": { "url": "https://www.youtube.com/watch?v=nVhiva_5fLM", "duration": 5218, "title":"FILM KABYLE: aich b 12" }},
-        { "vod": { "url": "https://www.youtube.com/watch?v=B7TnOwTOofY", "duration": 4803, "title":"FILM KABYLE: si belkacem" }},
-    { "vod": { "url": "https://ia600306.us.archive.org/12/items/bn_20250919/bn.mp4", "duration": 159, "title":"Fin des émissions CANALTV" }}
+   { "vod": { "url": "https://www.youtube.com/watch?v=mQzy_n70mNM", "duration": 4622, "title":"FILM KABYLE: ayur avrkan" }},
+   { "vod": { "url": "https://www.youtube.com/watch?v=nVhiva_5fLM", "duration": 5218, "title":"FILM KABYLE: aich b 12" }},
+   { "vod": { "url": "https://www.youtube.com/watch?v=B7TnOwTOofY", "duration": 4803, "title":"FILM KABYLE: si belkacem" }},
+   { "vod": { "url": "https://ia600306.us.archive.org/12/items/bn_20250919/bn.mp4", "duration": 159, "title":"Fin des émissions CANALTV" }}
 
   ], "playlist8": [
    { "vod": { "url": "https://www.youtube.com/watch?v=ngRxzQke_7g", "duration": 1893, "title":"FILM KABYLE COMÉDIE: aventure de siomar" }},
@@ -226,7 +222,6 @@
    { "vod": { "url": "https://www.youtube.com/watch?v=tEpWbr53FeA", "duration": 4828, "title":"FILM KABYLE: tasarut n tudart" }},
    { "vod": { "url": "https://www.youtube.com/watch?v=bOO4MYOgMZc", "duration": 4626, "title":"FILM KABYLE: yura deg unyiriw" }},
    { "vod": { "url": "https://www.youtube.com/watch?v=mQzy_n70mNM", "duration": 4622, "title":"FILM KABYLE: ayur avrkan" }}
-  
   ], "playlist10": [
    { "vod": { "url": "https://archive.org/download/intro_countdown/intro_countdown.ia.mp4", "duration": 10, "title":"DÉBUT DES PROGRAMMES" }},
    { "vod": { "url": "https://www.youtube.com/watch?v=TkXvqSuOg0Q", "duration": 5213, "title":"FILM COMÉDIE: GUERRE CHINE VS JAPAN" }},
@@ -273,10 +268,7 @@
   { "vod": { "url": "https://www.youtube.com/watch?v=RnAPNvWkMRQ", "duration": 4429, "title":"KUNG FU MASTER" }},
   { "vod": { "url": "https://www.youtube.com/watch?v=YJZiMjIStT4", "duration": 2247, "title":"sketch de charlie chaplin l'armée(shoulder army 1918)" }},
   { "vod": { "url": "https://archive.org/download/bonelevagechezsois/bonelevagechezsois.mp4", "duration": 10, "title":"Fin des programmes" }}
-
-    
  ],  "playlist13": [
-  
   { "vod": { "url": "https://archive.org/download/intro_countdown/intro_countdown.ia.mp4", "duration": 10, "title":"DÉBUT DES PROGRAMMES" }},
   { "vod": { "url": "https://www.youtube.com/watch?v=pj7wnfW1RJI", "duration": 10725, "title":"film comédie japonaise"}},
   { "vod": { "url": "https://www.youtube.com/watch?v=zMjqiSxn6Uw", "duration": 2693, "title":"Charlie Chaplin Shoulder Arms (1918)"}},
@@ -303,7 +295,6 @@
   { "vod": { "url": "https://www.youtube.com/watch?v=lfYa5PeaIIY", "duration": 42898, "title":"shaun the sheep"}},
   { "vod": { "url": "https://www.youtube.com/watch?v=YvM9myyWGRw", "duration": 13345, "title":"POPEYE THE SAILOR,BLUTO"}},
   { "vod": { "url": "https://www.youtube.com/watch?v=nlL8TMgV3ec", "duration": 14733 , "title":"TOM & JERRY"}}
-
   ],"playlist15": [
   { "vod": { "url": "https://youtu.be/GJ8qSYZ2vRM", "duration": 37186, "title":"the biggest looney tunes"}},
   { "vod": { "url": "https://www.youtube.com/watch?v=rRzyPk_aMZg", "duration": 15363, "title":"28 favorites of the golden era cartoon"}},
@@ -315,7 +306,6 @@
   { "vod": { "url": "https://www.youtube.com/watch?v=qOCNKr5bpoA", "duration": 7512, "title":"Rainbow Parade Kids Greatest Cartoons Compilation"}},
   { "vod": { "url": "https://www.youtube.com/watch?v=Mopp70XAhcA", "duration": 9207, "title":"2.5 Hours of Classic Episodes of Woody Woodpecker"}},
   { "vod": { "url": "https://www.youtube.com/watch?v=UUcULIRUdO4", "duration": 4936, "title":"Looney Tunes 1939-1957 Classic Compilation(2):Bugs Bunny,Daffy Duck,Porky"}}
-
   ],"playlist17": [
   { "vod": { "url": "https://www.youtube.com/watch?v=FlucnMPa1fY", "duration": 43184, "title":"dragon ball z meilleurs moments"}},
   { "vod": { "url": "https://www.youtube.com/watch?v=y3Zj2Govgtk", "duration": 27725, "title":"merry melody cartoon 7h:42m:05s"}}
