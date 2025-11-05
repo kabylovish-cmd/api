@@ -110,16 +110,16 @@
  
      
   ],  "playlist3": [
-        { "vod": { "url": "https://archive.org/download/intro_countdown/intro_countdown.ia.mp4", "duration": 10, "title":"DÉBUT DES PROGRAMMES" }},  
-  { "vod": { "url": "https://archive.org/download/bricolage_intro/bricolage_intro.mp4", "duration": 13, "title":"BRICOLES" }},  
-     { "vod": { "url": "https://archive.org/download/lacer_ses_chaussures/lacer_ses_chaussures.mp4", "duration": 60, "title":"LAÇER SES CHAUSSURES" }},      
-     { "vod": { "url": "https://archive.org/download/arranger_teeshirt/arranger_teeshirt.mp4", "duration": 60, "title":"APPRENDRE A ARRANGER" }},   
+   { "vod": { "url": "https://archive.org/download/intro_countdown/intro_countdown.ia.mp4", "duration": 10, "title":"DÉBUT DES PROGRAMMES" }},  
+   { "vod": { "url": "https://archive.org/download/bricolage_intro/bricolage_intro.mp4", "duration": 13, "title":"BRICOLES" }},  
+   { "vod": { "url": "https://archive.org/download/lacer_ses_chaussures/lacer_ses_chaussures.mp4", "duration": 60, "title":"LAÇER SES CHAUSSURES" }},      
+   { "vod": { "url": "https://archive.org/download/arranger_teeshirt/arranger_teeshirt.mp4", "duration": 60, "title":"APPRENDRE A ARRANGER" }},   
    { "vod": { "url": "https://archive.org/download/arranger_avec_ceintre/arranger_avec_ceintre.mp4", "duration": 60, "title":"ARRANGER SES VÊTEMENTS AVEC CEINTRE" }}  
 
   ],  "playlist4": [
- { "vod": { "url": "https://www.youtube.com/watch?v=Xqz8FCzqCoQ", "duration": 463, "title": "COMÉDIE: CHARLIE CHAPLIN" }},
-  { "vod": { "url": "https://www.youtube.com/watch?v=TkXvqSuOg0Q", "duration": 5213, "title":"FILM COMÉDIE: GUERRE CHINE VS JAPAN" }},
- { "vod": { "url": "https://www.youtube.com/embed/pQpFebyALV0", "duration": 10, "title":"MES FILMS KABYLE EN VOD" }},
+   { "vod": { "url": "https://www.youtube.com/watch?v=Xqz8FCzqCoQ", "duration": 463, "title": "COMÉDIE: CHARLIE CHAPLIN" }},
+   { "vod": { "url": "https://www.youtube.com/watch?v=TkXvqSuOg0Q", "duration": 5213, "title":"FILM COMÉDIE: GUERRE CHINE VS JAPAN" }},
+   { "vod": { "url": "https://www.youtube.com/embed/pQpFebyALV0", "duration": 10, "title":"MES FILMS KABYLE EN VOD" }},
    { "vod": { "url": "https://www.youtu.be/M_XWVyEtdws?si=B1ZRHGNwng_v03HP", "duration": 6262, "title":"FILM KABYLE: tamacahut n wakli" }},
    { "vod": { "url": "https://www.youtube.com/watch?v=PDXoZMvcB88", "duration": 1569, "title":"FILM KABYLE COMÉDIE: ighvlan d wurfan 1" }},
    { "vod": { "url": "https://www.youtube.com/watch?v=OtSQP6PQCME", "duration": 1287, "title":"FILM KABYLE COMÉDIE: ighvlan d wurfan 2" }},
@@ -133,8 +133,7 @@
    { "vod": { "url": "https://www.youtube.com/watch?v=73GDrS7kuYw", "duration": 5382, "title":"FILM KABYLE: asfel1" }},
    { "vod": { "url": "https://www.youtube.com/watch?v=jUdbKWvH7G0", "duration": 5250, "title":"FILM KABYLE: asfel2" }},
    { "vod": { "url": "https://youtu.be/cjJdASrnwjo?si=zXLk6TXz2f4IWUay", "duration": 3302, "title":"FILM KABYLE: tenpis je m'en fou 1" }},
-   { "vod": { "url": "https://www.youtube.com/watch?v=tbNJwepg6co", "duration": 7002, "title":"FILM KABYLE: tenpis je m'en fou 2" }}
-   
+   { "vod": { "url": "https://www.youtube.com/watch?v=tbNJwepg6co", "duration": 7002, "title":"FILM KABYLE: tenpis je m'en fou 2" }} 
   ], "playlist5": [
    { "vod": { "url": "https://www.youtube.com/watch?v=gTkhHgoaFZY", "duration": 5639, "title":"FILM ALGÉRIEN: le gone du châaba" }},
    { "vod": { "url": "https://www.youtube.com/watch?v=F1NeuYcVUFI", "duration": 5881, "title":"FILM ALGÉRIEN: heraga" }},
@@ -149,7 +148,6 @@
    { "vod": { "url": "https://www.youtube.com/watch?v=z2J6rV1tyWI", "duration": 5855, "title":"FILM THE LOST CITY VF" }},
    { "vod": { "url": "https://www.youtube.com/watch?v=TkXvqSuOg0Q", "duration": 5213, "title":"FILM COMÉDIE: GUERRE CHINE VS JAPAN" }},
    { "vod": { "url": "https://www.youtube.com/watch?v=Xqz8FCzqCoQ", "duration": 463, "title": "COMÉDIE: CHARLIE CHAPLIN" }}
-  
   ], "playlist6": [
    { "vod": { "url": "https://www.youtube.com/watch?v=j_KufzDiE6s", "duration": 2931, "title":"ما وراء الجدران:دخل منزله فاكتشف أن زوجته تخونه مع رجل" }},
    { "vod": { "url": "https://www.youtube.com/watch?v=42RfSrDw2WI", "duration": 2647, "title":"ما وراء الجدران:عقيم ينجب طفلين" }},
@@ -202,8 +200,6 @@
    { "vod": { "url": "https://www.youtube.com/watch?v=bOO4MYOgMZc", "duration": 4626, "title":"FILM KABYLE: yura deg unyiriw" }},
    { "vod": { "url": "https://www.youtube.com/watch?v=mQzy_n70mNM", "duration": 4622, "title":"FILM KABYLE: ayur avrkan" }},
    { "vod": { "url": "https://www.youtube.com/watch?v=cnkgVY5MAZY", "duration": 858, "title":"meilleurs moments charlie chaplin" }}
-
-   
   ], "playlist9": [
   { "vod": { "url": "https://www.youtube.com/watch?v=NwFR0HzQ7XE", "duration": 1073, "title":"FILM KABYLE COMÉDIE: da moussa" }},
   { "vod": { "url": "https://www.youtube.com/watch?v=mQzy_n70mNM", "duration": 4622, "title":"FILM KABYLE: ayur avrkan" }},
@@ -252,7 +248,6 @@
   { "vod": { "url": "https://www.youtube.com/watch?v=2AWRa5wTapI", "duration": 7942, "title":"LE DERNIER ROYAUME" }},
   { "vod": { "url": "https://www.youtube.com/watch?v=DeaYagfSHKE", "duration": 6557, "title":"ACTION 2025:ls jps entrent la jungle pr tuer" }}
  ], "playlist12": [
-  
   { "vod": { "url": "https://archive.org/download/intro_countdown/intro_countdown.ia.mp4", "duration": 10, "title":"DÉBUT DES PROGRAMMES" }},
   { "vod": { "url": "https://www.youtube.com/watch?v=c8YucEHvzAg", "duration": 5695, "title":"GRINGO JOUE SUR LE ROUGE" }},
   { "vod": { "url": "https://www.youtube.com/watch?v=VWNkEMyzyDw", "duration": 4626, "title":"LE PISTOLERO DE TOMBSTONE" }},
@@ -290,7 +285,6 @@
   { "vod": { "url": "https://www.youtube.com/watch?v=9M0hoim4SQw", "duration": 1411, "title":"ما وراء الجدران: شهادات صادمة لممثل جزائري.. السيدا تنخر جسدي بسبب الحجامة"}},
   { "vod": { "url": "https://www.youtube.com/watch?v=nMWu7iC6yU4", "duration": 4998, "title":"Les Guerriers du temple maudit "}},
   { "vod": { "url": "https://www.youtube.com/watch?v=oRahGjJlE7U", "duration": 4614, "title":"man fight vs hundreds for revenge"}}
-  
   ],"playlist14": [
   { "vod": { "url": "https://www.youtube.com/watch?v=lfYa5PeaIIY", "duration": 42898, "title":"shaun the sheep"}},
   { "vod": { "url": "https://www.youtube.com/watch?v=YvM9myyWGRw", "duration": 13345, "title":"POPEYE THE SAILOR,BLUTO"}},
