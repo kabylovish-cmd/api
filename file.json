@@ -36,7 +36,7 @@
     { "vod": { "url": "https://ia600902.us.archive.org/27/items/facture_excel/facture_excel.mp4", "duration": 176, "title": "Excel: CREER UNE FACTURE SUR EXCEL" }},
   { "vod": { "url": "https://archive.org/download/liaisonexcelword/liaisonexcelword.mp4", "duration": 34, "title": "Excel: LIAISON EXCEL WORD" }},
 { "vod": { "url": "https://archive.org/download/somme_202508/somme.mp4", "duration": 23, "title":"Excel: function SOMME()" }},  
-    { "vod": { "url": "https://ia601704.us.archive.org/3/items/rechercheXetV/rechercheXetV.mp4", "duration": 67, "title": "Excel: RECHERCHEX() et RECHERCHEV()" }},
+   { "vod": { "url": "https://ia601704.us.archive.org/3/items/rechercheXetV/rechercheXetV.mp4", "duration": 67, "title": "Excel: RECHERCHEX() et RECHERCHEV()" }},
        { "vod": { "url": "https://archive.org/download/excel_unique/excel_unique.mp4", "duration": 23, "title":"Excel: function UNIQUE()" }},  
 { "vod": { "url": "https://archive.org/download/tableau_dynamique/tableau_dynamique.mp4", "duration": 107, "title":"Excel: tableau croisé dynamique" }}, 
  { "vod": { "url": "https://archive.org/download/signature_202508/signature.mp4", "duration": 23, "title":"WORD: insérer sa signature" }},
