@@ -53,6 +53,7 @@
   { "chaine": { "nom":"MYTV CINÉMA","url": "http://connectiktv.ddns.net:5000/mytvchannel/@mytvchannel/playlist.m3u8" }},
   { "chaine": { "nom":"RAKUTEN ACTION","url": "https://01ac9352fbfa4204998783d41f9b1a2e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6068/master.m3u8" }},
   { "chaine": { "nom":"OSN PLAY HD","url": "http://vip.sibfungold.org:8080/live/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/43.m3u8" }},
+  { "chaine": { "nom":"NETFLIX ACTION","url": "http://vip.sibfungold.org:8080/live/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/52163.m3u8" }},
   { "chaine": { "nom":"MAJISTIC ACTION 1","url": "http://vip.sibfungold.org:8080/live/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/52156.m3u8" }},
   { "chaine": { "nom":"MIXONE bilaraby","url": "https://ml-pull-hwc.myco.io/MixBelAraby/hls/index.m3u8" }},
   { "chaine": { "nom":"AJYAL MOVIES","url": "http://htvajyalint.mada.ps:8888/ajyalint/index.m3u8" }},
