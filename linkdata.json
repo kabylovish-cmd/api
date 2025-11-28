@@ -44,6 +44,7 @@
   { "chaine": { "nom":"BOXOFFICE 7","url": "http://vip.sibfungold.org:8080/live/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/55658.m3u8" }},
   { "chaine": { "nom":"BOXOFFICE 9","url": "http://vip.sibfungold.org:8080/live/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/55663.m3u8" }},
   { "chaine": { "nom":"BOXOFFICE 10","url": "http://vip.sibfungold.org:8080/live/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/55664.m3u8" }},
+  { "chaine": { "nom":"TCM CINEMA HD","url": "http://vip.sibfungold.org:8080/live/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/1696.m3u8" }},
   { "chaine": { "nom":"AB1 HD","url": "http://vip.sibfungold.org:8080/live/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/123.m3u8" }},
   { "chaine": { "nom":"AB3","url": "http://vip.sibfungold.org:8080/live/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/1694.m3u8" }},
   { "chaine": { "nom":"6TER HD","url": "http://vip.sibfungold.org:8080/live/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/2499.m3u8" }}, 
@@ -103,13 +104,12 @@
   { "chaine": { "nom":"BFM HD","url": "http://vip.sibfungold.org:8080/live/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/378.m3u8" }},
   { "chaine": { "nom":"ARTE HD","url": "http://vip.sibfungold.org:8080/live/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/373.m3u8" }},
   { "chaine": { "nom":"USHUAÏA","url": "http://vip.sibfungold.org:8080/live/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/112.m3u8" }},
+  { "chaine": { "nom":"DISCOVERY HD","url": "http://vip.sibfungold.org:8080/live/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/109.m3u8" }}, 
   { "chaine": { "nom":"SCIENCE&VIE HD","url": "http://vip.sibfungold.org:8080/live/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/2662.m3u8" }},
   { "chaine": { "nom":"PLANETE+HD","url": "http://vip.sibfungold.org:8080/live/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/4494.m3u8" }},
   { "chaine": { "nom":"PLANETE+AVENTURE HD","url": "http://vip.sibfungold.org:8080/live/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/4495.m3u8" }},
   { "chaine": { "nom":"CHASSE&PECHE","url": "http://vip.sibfungold.org:8080/live/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/116.m3u8" }},
   { "chaine": { "nom":"RMC DECOUVERTE HD","url": "http://vip.sibfungold.org:8080/live/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/52783.m3u8" }},
   { "chaine": { "nom":"RMC ALERT SECOURS HD","url": "http://vip.sibfungold.org:8080/live/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/56691.m3u8" }}
-  
-  
 ]
    
