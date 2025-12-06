@@ -1,4 +1,5 @@
 [ 
+  { "chaine": { "nom":"RADIO BÉJAÏA","url": "https://radiobejaia.ice.infomaniak.ch/bejaia.mp3" }},
   { "chaine": { "nom":"BERBERE HD","url": "http://vip.sibfungold.org:8080/live/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/56698.m3u8" }},
   { "chaine": { "nom":"AL MAGHARIBIA","url": "http://vip.sibfungold.org:8080/live/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/51082.m3u8" }},
   { "chaine": { "nom":"ALGERIE TV 1","url": "http://vip.sibfungold.org:8080/live/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/305.m3u8" }},
