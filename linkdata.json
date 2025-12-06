@@ -1,6 +1,7 @@
 [ 
-  { "chaine": { "nom":"MOTIVATION","url": "https://radio.garden/listen/nrj-sport-motivation/anGwQ0zZ?hl=fr" }},
+  { "chaine": { "nom":"CHAINE 1","url": "https://radiochaine2.ice.infomaniak.ch/chaine1.mp3" }},
   { "chaine": { "nom":"CHAINE 2","url": "https://radiochaine2.ice.infomaniak.ch/chaine2.mp3" }},
+  { "chaine": { "nom":"CHAINE 3","url": "https://radiochaine2.ice.infomaniak.ch/chaine3.mp3" }},
   { "chaine": { "nom":"RADIO BÉJAÏA","url": "https://radiobejaia.ice.infomaniak.ch/bejaia.mp3" }},
   { "chaine": { "nom":"BERBERE HD","url": "http://vip.sibfungold.org:8080/live/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/56698.m3u8" }},
   { "chaine": { "nom":"AL MAGHARIBIA","url": "http://vip.sibfungold.org:8080/live/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/51082.m3u8" }},
