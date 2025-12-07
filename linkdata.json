@@ -1,6 +1,5 @@
 [ 
   
-  { "chaine": { "nom":"teste fm","url": "https://stream.zeno.fm/r7b3nzkzng8uv" }},
   { "chaine": { "nom":"CHAINE 1","url": "https://radiochaine2.ice.infomaniak.ch/chaine1.mp3" }},
   { "chaine": { "nom":"CHAINE 2","url": "https://radiochaine2.ice.infomaniak.ch/chaine2.mp3" }},
   { "chaine": { "nom":"CHAINE 3","url": "https://radiochaine2.ice.infomaniak.ch/chaine3.mp3" }},
