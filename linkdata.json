@@ -1,5 +1,5 @@
 [ 
-  { "vod": { "url": "https://egroot4810g1dffdvwerwe432vxcvxcvbcx321scvxv45cdsw1dfdsfsd.visitmycityfor365days.online/hls2/03/00092/1802h0mjz7kf_n/master.m3u8?t=J0OYPQvPNlCaPSQSzNum8FhNlTBzfFOwLMu9Ix1R7wY&s=1765459671&e=43200&f=460209&i=0.0&sp=0", "duration": 5528, "title":"tester"}},
+  { "chaine": { "nom":"tester", "url": "https://egroot4810g1dffdvwerwe432vxcvxcvbcx321scvxv45cdsw1dfdsfsd.visitmycityfor365days.online/hls2/03/00092/1802h0mjz7kf_n/master.m3u8?t=J0OYPQvPNlCaPSQSzNum8FhNlTBzfFOwLMu9Ix1R7wY&s=1765459671&e=43200&f=460209&i=0.0&sp=0"}},
   { "chaine": { "nom":"MOTIVATION","url": "https://streaming.nrjaudio.fm/ousgxym4z85f" }},
   { "chaine": { "nom":"CHANTE FRANCE","url": "https://chantefrance.ice.infomaniak.ch/chantefrance-128.mp3" }},
   { "chaine": { "nom":"CHAINE 1","url": "https://radiochaine2.ice.infomaniak.ch/chaine1.mp3" }},
