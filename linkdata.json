@@ -6,6 +6,7 @@
   { "chaine": { "nom":"CANAL ATLAS","url": "http://vip.sibfungold.org:8080/live/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/49994.m3u8" }},
   { "chaine": { "nom":"PLEX CINÉMA","url": "http://connectiktv.ddns.net:5000/plextv/@plextv/playlist.m3u8" }},
   { "chaine": { "nom":"MYTV CINÉMA","url": "http://connectiktv.ddns.net:5000/mytvchannel/@mytvchannel/playlist.m3u8" }},
+  { "chaine": { "nom":"CINÉ WESTERN","url": "https://d38nkp4yuamucq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-752e1cfxeidu3/CineWestern_FR.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=FRBD19000095S" }},
   { "chaine": { "nom":"RAKUTEN ACTION","url": "https://01ac9352fbfa4204998783d41f9b1a2e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6068/master.m3u8" }},
   { "chaine": { "nom":"OSN PLAY HD","url": "http://vip.sibfungold.org:8080/live/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/43.m3u8" }},
   { "chaine": { "nom":"NETFLIX ACTION","url": "http://vip.sibfungold.org:8080/live/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/52163.m3u8" }},
