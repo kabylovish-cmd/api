@@ -8,7 +8,7 @@
   { "chaine": { "nom":"NETFLIX ACTION","url": "http://vip.sibfungold.org:8080/live/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/52163.m3u8" }},
   { "chaine": { "nom":"AJYAL MOVIES","url": "http://htvajyalint.mada.ps:8888/ajyalint/index.m3u8" }}, 
   { "chaine": { "nom":"MIX","url": "http://vip.sibfungold.org:8080/live/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/54617.m3u8" }},
-  { "chaine": { "nom":"MIX bilaraby","url": "https://ml-pull-hwc.myco.io/MixBelAraby/hls/index.m3u8" }},
+  { "chaine": { "nom":"MIX SERIES BIL3ARABI","url": "https://ml-pull-hwc.myco.io/MixBelAraby/hls/index.m3u8" }},
   { "chaine": { "nom":"SPIRITUAL CH-TV","url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8" }},
   { "chaine": { "nom":"MOTIVATION","url": "https://streaming.nrjaudio.fm/ousgxym4z85f" }},
   { "chaine": { "nom":"CHANTE FRANCE","url": "https://chantefrance.ice.infomaniak.ch/chantefrance-128.mp3" }},
@@ -33,10 +33,11 @@
   { "chaine": { "nom":"EL FAJR","url": "http://vip.sibfungold.org:8080/live/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/56699.m3u8" }},
   { "chaine": { "nom":"BAHIA","url": "http://vip.sibfungold.org:8080/live/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/4116.m3u8" }},
   { "chaine": { "nom":"AL HAYAT","url": "http://vip.sibfungold.org:8080/live/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/46218.m3u8" }},
+  { "chaine": { "nom":"ElHEDDAF","url": "http://vip.sibfungold.org:8080/live/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/1135.m3u8" }},
   { "chaine": { "nom":"ZAHRA TV","url": "http://vip.sibfungold.org:8080/live/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/46310.m3u8" }},
   { "chaine": { "nom":"SAMIRA","url": "http://vip.sibfungold.org:8080/live/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/311.m3u8" }},
   { "chaine": { "nom":"FATAFEAT(BeIN)","url": "http://vip.sibfungold.org:8080/live/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/50063.m3u8" }},
-  { "chaine": { "nom":"ElHEDDAF","url": "http://vip.sibfungold.org:8080/live/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/1135.m3u8" }},
+  { "chaine": { "nom":"CHEFCLUB TV","url":"https://d19umdgd0zr2ln.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/Chefclub-FR-prod/chc/ch/ch.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=FRBB3900001PZ"}},
   { "chaine": { "nom":"CINE+POLAR HD","url": "http://vip.sibfungold.org:8080/live/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/128.m3u8" }},
   { "chaine": { "nom":"CINE+FAMIZ HD","url": "http://vip.sibfungold.org:8080/live/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/3330.m3u8" }},
   { "chaine": { "nom":"CINE+FRISSON HD","url": "http://vip.sibfungold.org:8080/live/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/3328.m3u8" }},
@@ -227,6 +228,8 @@
   { "chaine": { "nom":"RMC MYSTÈRE","url": "https://d2mey07nrym09f.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zzv8u40ihzmq2/RMC_MYSTERE_FR.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=FR300006GFs.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=FR700002UP" }},
   { "chaine": { "nom":"MISSION INTERVENTION","url": "https://dmskmsump4xmr.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xja0jm5a38uno/rl.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=FR700002UP" }},
   { "chaine": { "nom":"INCROYABLES FORTUNES","url": " https://dn8mc7o4f0o74.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-e2c0yg2t7bpaj/aildl.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=FR600001I2" }},
+  { "chaine": { "nom":"ÉPICURIEUX","url":"https://d1dzvywp5tcxbn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ryq1as86j3gxc/epic.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=FRBD5100003TP" }},
+ 
   { "chaine": { "nom":"SEASONS HD","url": "http://vip.sibfungold.org:8080/live/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/2892.m3u8" }},
   { "chaine": { "nom":"HISTOIRE HD","url": "http://vip.sibfungold.org:8080/live/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/53376.m3u8" }}
 
