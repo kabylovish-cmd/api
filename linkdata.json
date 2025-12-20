@@ -199,6 +199,10 @@
   { "chaine": { "nom":"C+KIDS FR HD","url": "http://vip.sibfungold.org:8080/live/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/2639.m3u8" }},
   { "chaine": { "nom":"OSN KIDS","url": "http://vip.sibfungold.org:8080/live/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/3106.m3u8" }},
   { "chaine": { "nom":"BARAEM","url": "http://vip.sibfungold.org:8080/live/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/3564.m3u8" }},
+  { "chaine": { "nom":"AL JAZEERA","url": "https://live-hls-apps-ajm-fa.getaj.net/AJM/index.m3u8" }},
+  { "chaine": { "nom":"AL JAZEERA MUBASHIR","url": "https://live-hls-apps-ajm-fa.getaj.net/AJM/index.m3u8" }},
+  { "chaine": { "nom":"AL ARABIYA","url": "https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8" }},
+  { "chaine": { "nom":"AL HADATH","url": "https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8" }},
   { "chaine": { "nom":"FRANCE 24 ARABIC","url": "http://vip.sibfungold.org:8080/live/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/52317.m3u8" }},
   { "chaine": { "nom":"FRANCE 24 FRA HD","url": "https://cachehsi1b.netplus.ch/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzY0NTc0MjMxIiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9mcmFuY2UyNC9icm93c2VyLUhMUzgvIiwic2Vzc2lvbl9jZG5faWQiOiJmNzcwY2ZhOTg3MzE1MjNhIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xMC4wLjIyOS4yMiIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiMTEiLCJzb3VyY2VzIjpbODRdfQ==.86ZVqo4IjZy-qsK8AoGGXn0_X2J4SSMAIqPrFxifntp3wE3Os5Z0ocUciUzPb8B735znE0AtZrWp1-rMEYnTsg==/live/eds/france24/browser-HLS8/france24.m3u8" }},
   { "chaine": { "nom":"EURONEWS HD","url": "http://vip.sibfungold.org:8080/live/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/52821.m3u8" }},
@@ -230,7 +234,6 @@
   { "chaine": { "nom":"MISSION INTERVENTION","url": "https://dmskmsump4xmr.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xja0jm5a38uno/rl.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=FR700002UP" }},
   { "chaine": { "nom":"INCROYABLES FORTUNES","url": " https://dn8mc7o4f0o74.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-e2c0yg2t7bpaj/aildl.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=FR600001I2" }},
   { "chaine": { "nom":"ÉPICURIEUX","url":"https://d1dzvywp5tcxbn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ryq1as86j3gxc/epic.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=FRBD5100003TP" }},
- 
   { "chaine": { "nom":"SEASONS HD","url": "http://vip.sibfungold.org:8080/live/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/2892.m3u8" }},
   { "chaine": { "nom":"HISTOIRE HD","url": "http://vip.sibfungold.org:8080/live/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/53376.m3u8" }}
 
