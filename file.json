@@ -294,8 +294,9 @@
   { "vod": { "url": "https://archive.org/download/trinita1et2/trinita1et2.mp4", "duration": 1478, "title":"TIMGELARINE DEBZA W DMAGH" }},
   { "vod": { "url": "https://dn710004.ca.archive.org/0/items/bruce-lee-bila-houdoud/bruce%20lee%20bila%20houdoud%20%D8%A8%D8%B1%D9%88%D8%B3%20%D9%84%D9%8A%20%D9%85%D8%AF%D8%A8%D9%84%D8%AC%20%D8%A8%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1%D9%8A%D8%A9%20%D8%A8%D9%84%D8%A7%D8%AD%D8%AF%D9%88%D8%AF%20.mp4", "duration": 816, "title":"DOUBLAGE ALGERIEN: BRUCE LE DIRECTEUR"}},
   { "vod": { "url": "https://dn721808.ca.archive.org/0/items/drole-de-salle-de-sport-frank/drole%20de%20salle%20de%20sport%20frank.mp4", "duration": 105, "title":"DROLE 2 SALLE 2 SPORT"}},
-  { "vod": { "url": "https://www.youtube.com/watch?v=8IHoyADRegc", "duration": 5152, "title":"memes 1hour" }},
-  { "vod": { "url": "https://www.youtube.com/watch?v=CZH7uErRCY4", "duration": 529, "title":"comédie mickey mouse contre les insects" }}
+  { "vod": { "url": "https://www.youtube.com/watch?v=8IHoyADRegc", "duration": 5152, "title":"COMÉDIE: MEMES 1HOUR" }},
+  { "vod": { "url": "https://www.youtube.com/watch?v=kofb-oQx9KI", "duration": 1250, "title":"COMÉDIE: LE MAÇON" }},
+  { "vod": { "url": "https://www.youtube.com/watch?v=CZH7uErRCY4", "duration": 529, "title":"COMÉDIE: MICKEY MOUSE CONTRE LS INSECTES" }}  
     
   ],"playlist15": [
   { "vod": { "url": "https://youtu.be/GJ8qSYZ2vRM", "duration": 37186, "title":"the biggest looney tunes"}},
