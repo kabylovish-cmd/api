@@ -417,7 +417,10 @@
 { "vod": { "url": "https://www.youtube.com/watch?v=EaPxBALqH8w", "duration": 5983, "title": "jackie chan(avec les moines)" } },    
 { "vod": { "url": "https://www.youtube.com/watch?v=5Y80z9iDIt8", "duration": 6480, "title": "(film who am i) de jackie chan" } }       
   ],"playlist23":[
-
+{ "vod": { "url": "https://www.youtube.com/watch?v=812EOj1BzR0", "duration": 1784, "title":"جـريمة قـتل بشـعة وقعت بولاية البويرة رجل يقـتل جاره ببنـدقية صيد وينـكل بجثـته" }},
+{ "vod": { "url": "https://www.youtube.com/watch?v=IbqUOkECLcU", "duration": 2061, "title":"شاهد كيف قامت فتاة رفقة عصـابة خطيرة بخـطف طفلة قاصـر لطلب 500 مليون من أجل تحريرها في قالمة"}},
+{ "vod": { "url": "https://www.youtube.com/watch?v=IWe21cu1Bb8", "duration": 2561, "title":"قرصنة, تهديد وإختطــاف قاصر" }},
+{ "vod": { "url": "https://www.youtube.com/watch?v=XHxOc55KgIU", "duration": 1674, "title":"عصابة الاتجار بالأعضاء البشرية في الجزائر... " }},
 { "vod": { "url": "https://www.youtube.com/watch?v=ayN6tGqfmsA", "duration": 2230, "title": "lawhama 2025" } },
 { "vod": { "url": "https://www.youtube.com/watch?v=kofb-oQx9KI", "duration": 1250, "title":"FILM KABYLE COMÉDIE: le maçon" }},
 
@@ -452,11 +455,24 @@
 { "vod": { "url": "https://www.youtube.com/watch?v=sJ5KhR0wWGA", "duration": 1816, "title":"COMÉDIE: MEMES PART 218" }},
 { "vod": { "url": "https://www.youtube.com/watch?v=nlL8TMgV3ec", "duration": 14733 , "title":"COMÉDIE: TOM & JERRY"}}
 ],"playlist25":[
-{ "vod": { "url": "https://www.youtube.com/watch?v=812EOj1BzR0", "duration": 1784, "title":"جـريمة قـتل بشـعة وقعت بولاية البويرة رجل يقـتل جاره ببنـدقية صيد وينـكل بجثـته" }},
-{ "vod": { "url": "https://www.youtube.com/watch?v=IbqUOkECLcU", "duration": 2061, "title":"شاهد كيف قامت فتاة رفقة عصـابة خطيرة بخـطف طفلة قاصـر لطلب 500 مليون من أجل تحريرها في قالمة"}},
-{ "vod": { "url": "https://www.youtube.com/watch?v=IWe21cu1Bb8", "duration": 2561, "title":"قرصنة, تهديد وإختطــاف قاصر" }},
-{ "vod": { "url": "https://www.youtube.com/watch?v=XHxOc55KgIU", "duration": 1674, "title":"عصابة الاتجار بالأعضاء البشرية في الجزائر... " }},
+{ "vod": { "url": "https://archive.org/download/intro_countdown/intro_countdown.ia.mp4", "duration": 10, "title":"DÉBUT DES PROGRAMMES" }},
+{ "vod": { "url": "https://dn721808.ca.archive.org/0/items/drole-de-salle-de-sport-frank/drole%20de%20salle%20de%20sport%20frank.mp4", "duration": 105, "title":"DROLE 2 SALLE 2 SPORT"}},
+{ "vod": { "url": "https://dn721807.ca.archive.org/0/items/bila-houdoud/bila%20houdoud%20%D8%B3%D9%8A%20%D9%82%D9%88%D9%8A%D8%AF%D8%B1%20%D8%A7%D9%84%D8%A8%D9%88%D9%85%D8%A8%D8%A7%D8%B1%D8%AF%D9%8A%20%D9%88%20%D8%A7%D9%84%D8%AE%D8%AF%D9%85%D8%A9%20%D8%A7%D9%84%D8%B9%D8%B3%D9%83%D8%B1%D9%8A%D8%A9%20%D8%A8%D9%84%D8%A7%D8%AD%D8%AF%D9%88%D8%AF%20.mp4", "duration": 329, "title":"SI KWIDAR LBOMBARDI ELSERVICE MILLITAIRE" }},
+{ "vod": { "url": "https://dn720401.ca.archive.org/0/items/bila-houdoud-doublage-p-kh-gk-bimca-m-360p-1647681080746/%20Bila%20Houdoud%20%20%20Doublage-pKhGkBIMCaM-360p-1647681080746.mp4", "duration": 1028, "title":"DOUBLAGE ALGÉRIEN WESTERN" }},
+{ "vod": { "url": "https://dn721807.ca.archive.org/0/items/bila-houdoud/bila%20houdoud%20%D8%B3%D9%8A%20%D9%82%D9%88%D9%8A%D8%AF%D8%B1%20%D8%A7%D9%84%D8%A8%D9%88%D9%85%D8%A8%D8%A7%D8%B1%D8%AF%D9%8A%20%D9%88%20%D8%A7%D9%84%D8%AE%D8%AF%D9%85%D8%A9%20%D8%A7%D9%84%D8%B9%D8%B3%D9%83%D8%B1%D9%8A%D8%A9%20%D8%A8%D9%84%D8%A7%D8%AD%D8%AF%D9%88%D8%AF%20.mp4", "duration": 329, "title":"REPLAY<< SI KWIDAR LBOMBARDI ELSERVICE MILLITAIRE" }},
+{ "vod": { "url": "https://dn720401.ca.archive.org/0/items/bila-houdoud-doublage-p-kh-gk-bimca-m-360p-1647681080746/%20Bila%20Houdoud%20%20%20Doublage-pKhGkBIMCaM-360p-1647681080746.mp4", "duration": 1028, "title":"REPLAY<<DOUBLAGE ALGÉRIEN WESTERN" }},
+{ "vod": { "url": "https://archive.org/download/trinita1et2/trinita1et2.mp4", "duration": 1478, "title":"TIMGELARINE DEBZA W DMAGH" }},
+{ "vod": { "url": "https://dn710004.ca.archive.org/0/items/bruce-lee-bila-houdoud/bruce%20lee%20bila%20houdoud%20%D8%A8%D8%B1%D9%88%D8%B3%20%D9%84%D9%8A%20%D9%85%D8%AF%D8%A8%D9%84%D8%AC%20%D8%A8%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1%D9%8A%D8%A9%20%D8%A8%D9%84%D8%A7%D8%AD%D8%AF%D9%88%D8%AF%20.mp4", "duration": 816, "title":"DOUBLAGE ALGERIEN: BRUCE LE DIRECTEUR"}},
+{ "vod": { "url": "https://dn721808.ca.archive.org/0/items/drole-de-salle-de-sport-frank/drole%20de%20salle%20de%20sport%20frank.mp4", "duration": 105, "title":"DROLE 2 SALLE 2 SPORT"}},
 { "vod": { "url": "https://dn710206.ca.archive.org/0/items/bila-houdoud_20240209/bila%20houdoud%20%D8%AC%D9%84%D9%88%D9%84%20%D8%A7%D9%84%D9%85%D8%B4%D8%A7%D9%83%D8%B3%20%D8%A7%D9%84%D8%AC%D8%B2%D8%A1%20%D8%A7%D9%84%D8%A3%D9%88%D9%84%20%D8%B6%D8%AD%D9%83%20%D8%A8%D9%84%D8%A7%D8%AD%D8%AF%D9%88%D8%AF.mp4", "duration": 29, "title":"mr djeloul rak ratit ssibla 1" }},
-{ "vod": { "url": "https://dn721904.ca.archive.org/0/items/2-bila-houdoud-e-2/%D8%AC%D9%84%D9%88%D9%84%20%D8%A7%D9%84%D9%85%D8%B4%D8%A7%D9%83%D8%B3%20%D8%AC2%20%D8%AF%D8%A8%D9%84%D8%AC%D8%A9%20%D9%85%D8%B9%D8%B3%D9%83%D8%B1%D9%8A%D8%A9%20%D9%83%D9%8A%D9%81%20%D8%AA%D8%B1%D9%85%D9%8A%20%D8%A7%D9%84%D8%A8%D8%B1%D8%AA%D9%82%D8%A7%D9%84%D8%A9%20bila%20houdoud%20e2%20.mp4", "duration": 80, "title":"mr djeloul:كيف نرمي البرتقالة؟" }}
-  ]}
+{ "vod": { "url": "https://dn721904.ca.archive.org/0/items/2-bila-houdoud-e-2/%D8%AC%D9%84%D9%88%D9%84%20%D8%A7%D9%84%D9%85%D8%B4%D8%A7%D9%83%D8%B3%20%D8%AC2%20%D8%AF%D8%A8%D9%84%D8%AC%D8%A9%20%D9%85%D8%B9%D8%B3%D9%83%D8%B1%D9%8A%D8%A9%20%D9%83%D9%8A%D9%81%20%D8%AA%D8%B1%D9%85%D9%8A%20%D8%A7%D9%84%D8%A8%D8%B1%D8%AA%D9%82%D8%A7%D9%84%D8%A9%20bila%20houdoud%20e2%20.mp4", "duration": 80, "title":"mr djeloul:كيف نرمي البرتقالة؟" }},
+{ "vod": { "url": "https://dn721604.ca.archive.org/0/items/bila-houdoud-4_202402/bila%20houdoud%20%D8%AC%D9%84%D9%88%D9%84%20%D8%A7%D9%84%D9%85%D8%B4%D8%A7%D9%83%D8%B3%20%D8%AC4%20%D8%B6%D8%AD%D9%83%20%D8%A8%D9%84%D8%A7%D8%AD%D8%AF%D9%88%D8%AF.mp4", "duration": 238, "title":"جلول المشاكس ج4" }},
+{ "vod": { "url": "https://dn721807.ca.archive.org/0/items/bila-houdoud/bila%20houdoud%20%D8%B3%D9%8A%20%D9%82%D9%88%D9%8A%D8%AF%D8%B1%20%D8%A7%D9%84%D8%A8%D9%88%D9%85%D8%A8%D8%A7%D8%B1%D8%AF%D9%8A%20%D9%88%20%D8%A7%D9%84%D8%AE%D8%AF%D9%85%D8%A9%20%D8%A7%D9%84%D8%B9%D8%B3%D9%83%D8%B1%D9%8A%D8%A9%20%D8%A8%D9%84%D8%A7%D8%AD%D8%AF%D9%88%D8%AF%20.mp4", "duration": 329, "title":"SI KWIDAR LBOMBARDI ELSERVICE MILLITAIRE" }},
+{ "vod": { "url": "https://dn720401.ca.archive.org/0/items/bila-houdoud-doublage-p-kh-gk-bimca-m-360p-1647681080746/%20Bila%20Houdoud%20%20%20Doublage-pKhGkBIMCaM-360p-1647681080746.mp4", "duration": 1028, "title":"DOUBLAGE ALGÉRIEN WESTERN" }},
+{ "vod": { "url": "https://dn721807.ca.archive.org/0/items/bila-houdoud/bila%20houdoud%20%D8%B3%D9%8A%20%D9%82%D9%88%D9%8A%D8%AF%D8%B1%20%D8%A7%D9%84%D8%A8%D9%88%D9%85%D8%A8%D8%A7%D8%B1%D8%AF%D9%8A%20%D9%88%20%D8%A7%D9%84%D8%AE%D8%AF%D9%85%D8%A9%20%D8%A7%D9%84%D8%B9%D8%B3%D9%83%D8%B1%D9%8A%D8%A9%20%D8%A8%D9%84%D8%A7%D8%AD%D8%AF%D9%88%D8%AF%20.mp4", "duration": 329, "title":"REPLAY<< SI KWIDAR LBOMBARDI ELSERVICE MILLITAIRE" }},
+{ "vod": { "url": "https://dn720401.ca.archive.org/0/items/bila-houdoud-doublage-p-kh-gk-bimca-m-360p-1647681080746/%20Bila%20Houdoud%20%20%20Doublage-pKhGkBIMCaM-360p-1647681080746.mp4", "duration": 1028, "title":"REPLAY<<DOUBLAGE ALGÉRIEN WESTERN" }},
+{ "vod": { "url": "https://archive.org/download/trinita1et2/trinita1et2.mp4", "duration": 1478, "title":"TIMGELARINE DEBZA W DMAGH" }},
+{ "vod": { "url": "https://dn710004.ca.archive.org/0/items/bruce-lee-bila-houdoud/bruce%20lee%20bila%20houdoud%20%D8%A8%D8%B1%D9%88%D8%B3%20%D9%84%D9%8A%20%D9%85%D8%AF%D8%A8%D9%84%D8%AC%20%D8%A8%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1%D9%8A%D8%A9%20%D8%A8%D9%84%D8%A7%D8%AD%D8%AF%D9%88%D8%AF%20.mp4", "duration": 816, "title":"DOUBLAGE ALGERIEN: BRUCE LE DIRECTEUR"}},
+{ "vod": { "url": "https://ia801309.us.archive.org/0/items/ali-baba-bila-houdoud/ali%20baba%20bila%20houdoud%20%D8%B9%D9%84%D9%8A%20%D8%A8%D8%A7%D8%A8%D8%A7%20%D9%88%D8%A7%D9%84%D8%A3%D8%B1%D8%A8%D8%B9%D9%88%D9%86%20%D9%84%D8%B5%D8%A7%20%D9%85%D8%AF%D8%A8%D9%84%D8%AC%20%D8%A8%D8%A7%D9%84%D9%84%D9%87%D8%AC%D8%A9%20%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1%D9%8A%D8%A9%20%D8%AA%D9%85%D9%88%D9%88%D8%AA%20%D8%A8%20%D8%B6%D8%AD%D9%83%20%D9%8A%D8%AD%D9%83%D9%8A%20%D8%A7%D9%84%D9%88%D8%A7%D9%82%D8%B9%20%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1%D9%8A.mp4", "duration": 481, "title":"comédie: doublage algerien ali baba"}}
+ ]}
 
