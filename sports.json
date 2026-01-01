@@ -55,7 +55,6 @@
   { "chaine": { "nom":"FOOT+HD","url": "http://vip.sibfungold.org:8080/live/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/56737.m3u8" }},
   { "chaine": { "nom":"CANAL+PREMIERE LIGUE FHD","url": "http://vip.sibfungold.org:8080/live/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/53531.m3u8" }},
   { "chaine": { "nom":"DAZN 1 HD","url": "http://vip.sibfungold.org:8080/live/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/56313.m3u8" }},
-  { "chaine": { "nom":"DUBAI SPORT 1 HD","url": "http://vip.sibfungold.org:8080/live/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/51418.m3u8" }}
-
-
+  { "chaine": { "nom":"DUBAI SPORT 1 HD","url": "http://vip.sibfungold.org:8080/live/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/51418.m3u8" }},
+  { "chaine": { "nom":"PERSIAN SPORT 1","url": "https://af.ayassport.ir/hls2/persiana.m3u8" }}
 ]
