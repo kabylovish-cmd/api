@@ -63,6 +63,7 @@
   { "chaine": { "nom":"SCREAMIN(FR)","url": "https://d29bed4frpewz7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-cg0lizzfztb6l/ScreamIN_FR.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=FRBB4600002K5" }},
   { "chaine": { "nom":"WILDSIDE(FR)","url": " https://dba2f9e98eb44a478946116c5e90e55b.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-fr_WildSideTV/playlist.m3u8?ads.wurl_channel=871&ads.wurl_name=WildSideTV&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D" }},
   { "chaine": { "nom":"AJYAL MOVIES(AR)","url": "http://htvajyalint.mada.ps:8888/ajyalint/index.m3u8" }}, 
+  { "chaine": { "nom":"DUBAI TV","url": "https://dmieigthvllta.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/chunklist.m3u8" }},
   { "chaine": { "nom":"DUBAI ONE HD","url": "http://vip.sibfungold.org:8080/live/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/46177.m3u8" }},
   { "chaine": { "nom":"MIX MOVIES(AR)","url": "https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8" }},
   { "chaine": { "nom":"MIX SERIES BIL(AR)","url": "https://ml-pull-hwc.myco.io/MixBelAraby/hls/index.m3u8" }},
