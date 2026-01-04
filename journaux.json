@@ -1,4 +1,5 @@
 [
+  { "img": "https://cdn.almostathmir.dz/wp-content/uploads/2025/01/New-logo-Almostathmir-blanc.png", "url": "https://vod.fwh.is/pdf_dz/almoustatmir.php"},
   { "img": "https://lesenjeuxeco.dz/wp-content/uploads/2025/08/cropped-Logo-PDF.jpg", "url": "https://vod.fwh.is/pdf_dz/lesenjeuxeco.php" },
   { "img": "https://i.postimg.cc/63t4W2pR/Screenshot-20260104-165628-2.png", "url": "https://vod.fwh.is/pdf_dz/entrenous.php"},
   { "img": "https://cdn.maghrebinfo.dz/wp-content/uploads/2020/02/lll.png", "url": "https://vod.fwh.is/pdf_dz/info.php" },
@@ -49,6 +50,5 @@
   { "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw6v4Dwo7N4x0SSaz7uHZQ17_Ole9KM0cC_vIiDXggKA&s", "url": "https://vod.fwh.is/pdf_dz/hakika.php" },
   { "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZIJZM-K8upxaSfxzUWzuAMXqo3fnwkuvgZHxGeq2Dfg&s=10", "url": "https://vod.fwh.is/pdf_dz/kawaliss.php" },
   { "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSEgzcYsiRWVOuHDgemuvoPQPOYfWmexcQw9EmDw9d&s=10", "url": "https://vod.fwh.is/pdf_dz/alhayat.php" },
-  { "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9wBFA_hMEhzrRlVuBOEajaYXSvpwK8w7RrJMqMxAvuw&s=10", "url": "https://vod.fwh.is/pdf_dz/djadid.php" },
-  { "img": "https://cdn.elmaghrebelawsat.dz/wp-content/uploads/2021/03/Maghrib-Awsat-logotype-Final-1.png", "url": "http://vod.fwh.is/pdf_dz/almaghrebalawsat.php"}
+  { "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9wBFA_hMEhzrRlVuBOEajaYXSvpwK8w7RrJMqMxAvuw&s=10", "url": "https://vod.fwh.is/pdf_dz/djadid.php" }
 ]
