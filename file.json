@@ -734,5 +734,9 @@
 { "vod": { "url": "https://www.youtube.com/watch?v=IQwFs_9Qi0M", "duration": 7004, "title":"France–Algérie: l'Histoire qui ne passe pas" }},
 { "vod": { "url": "https://www.youtube.com/watch?v=wIE9o9RVHLg", "duration": 7388, "title":"interdit? L’Islam en France : enquête au cœur du terrain" }},
 { "vod": { "url": "https://www.youtube.com/watch?v=wY_w5OtrUzY", "duration": 0, "title":"COMÉDIE: COMPILATION DI TRAVAUX TICHNOLOWWJIA" }}
+  ],"ZAPPING":[
+{ "vod": { "url": "", "duration": 43200, "title":"ZAPPING SUR FAILARMY" }},
+{ "vod": { "url": "https://the-pet-collective-international-nl.samsung.wurl.tv/playlist.m3u8", "duration": 43200, "title":"ZAPPING SUR PET COLLECTIVE" }}
+
   ]}
 
