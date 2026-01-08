@@ -67,6 +67,7 @@
   { "chaine": { "nom":"SAMA DUBAI","url": "https://dmieigthvllta.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/index.m3u8" }},
   { "chaine": { "nom":"DUBAI TV","url": "https://dmieigthvllta.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/chunklist.m3u8" }}, 
   { "chaine": { "nom":"DUBAI ONE HD","url": "http://vip.sibfungold.org:8080/live/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/46177.m3u8" }},
+  { "chaine": { "nom":"MOVIES ACTION(AR)","url": "https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8" }},
   { "chaine": { "nom":"MIX MOVIES(AR)","url": "https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8" }},
   { "chaine": { "nom":"MIX SERIES BIL(AR)","url": "https://ml-pull-hwc.myco.io/MixBelAraby/hls/index.m3u8" }},
   { "chaine": { "nom":"BeiN DRAMA","url": "http://vip.sibfungold.org:8080/live/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/49495.m3u8" }},
