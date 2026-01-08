@@ -1,7 +1,7 @@
  [
 
   { "chaine": { "nom":"FRANCE 24 ARABIC","url": "http://vip.sibfungold.org:8080/live/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/52317.m3u8" }},
-  { "chaine": { "nom":"FRANCE 24 FRA HD","url": "https://cachehsi1b.netplus.ch/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzY0NTc0MjMxIiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9mcmFuY2UyNC9icm93c2VyLUhMUzgvIiwic2Vzc2lvbl9jZG5faWQiOiJmNzcwY2ZhOTg3MzE1MjNhIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xMC4wLjIyOS4yMiIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiMTEiLCJzb3VyY2VzIjpbODRdfQ==.86ZVqo4IjZy-qsK8AoGGXn0_X2J4SSMAIqPrFxifntp3wE3Os5Z0ocUciUzPb8B735znE0AtZrWp1-rMEYnTsg==/live/eds/france24/browser-HLS8/france24.m3u8" }},
+  { "chaine": { "nom":"FRANCE 24(FR)","url": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/wld/f24fr.m3u8" }},
   { "chaine": { "nom":"EURONEWS HD","url": "http://vip.sibfungold.org:8080/live/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/52821.m3u8" }},
   { "chaine": { "nom":"BFM","url": "https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8" }},
   { "chaine": { "nom":"BFM 2","url": "https://live-cdn-bfm2-euw1.bfmtv.bct.nextradiotv.com/m5/media.m3u8?bpkio_serviceid=7de32147a4f1055b8812bbac92a24d2e" }},
