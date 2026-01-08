@@ -1,4 +1,5 @@
- [{ "chaine": { "nom":"FRANCE 24(AR)","url": "https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_5000.m3u8" }},
+[ { "chaine": { "nom":"AL24 NEWS","url": "https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/playlist.m3u8" }},
+  { "chaine": { "nom":"FRANCE 24(AR)","url": "https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_5000.m3u8" }},
   { "chaine": { "nom":"FRANCE 24(FR)","url": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/wld/f24fr.m3u8" }},
   { "chaine": { "nom":"EURONEWS HD","url": "http://vip.sibfungold.org:8080/live/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/52821.m3u8" }},
   { "chaine": { "nom":"BFM","url": "https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8" }},
