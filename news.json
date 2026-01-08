@@ -19,5 +19,7 @@
   { "chaine": { "nom":"SKYNEWS ARABIC","url": "https://stream.skynewsarabia.com/hls/index.m3u8" }},
   { "chaine": { "nom":"BBC NEWS","url": "http://vip.sibfungold.org:8080/live/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/48871.m3u8" }},
   { "chaine": { "nom":"BEIN SPORT NEWS","url": "http://vip.sibfungold.org:8080/live/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/2296.m3u8" }},
-  { "chaine": { "nom":"INFO+SPORT","url": "http://vip.sibfungold.org:8080/live/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/91.m3u8" }}
+  { "chaine": { "nom":"INFO+SPORT","url": "http://vip.sibfungold.org:8080/live/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/91.m3u8" }},
+  { "chaine": { "nom":"El HEDDAF","url": "http://vip.sibfungold.org:8080/live/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/1135.m3u8" }}
+
  ]
