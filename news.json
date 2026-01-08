@@ -10,6 +10,7 @@
   { "chaine": { "nom":"I24NEWS","url": "https://bcovlive-a.akamaihd.net/41814196d97e433fb401c5e632d985e9/eu-central-1/5377161796001/playlist.m3u8" }},
   { "chaine": { "nom":"AFRICA 24","url": "https://africa24.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8" }},
   { "chaine": { "nom":"AFRICANEWS","url": "https://cdn-euronews.akamaized.net/live/eds/africanews-fr/25050/index.m3u8" }},
+  { "chaine": { "nom":"RT FRANCE","url": "https://rt-fra.rttv.com/live/rtfrance/playlist.m3u8" }},
   { "chaine": { "nom":"AL JAZEERA","url": "https://live-hls-apps-ajm-fa.getaj.net/AJM/index.m3u8" }},
   { "chaine": { "nom":"AL JAZEERA MUBASHIR","url": "https://live-hls-apps-ajm-fa.getaj.net/AJM/index.m3u8" }},
   { "chaine": { "nom":"AL ARABIYA","url": "https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8" }},
