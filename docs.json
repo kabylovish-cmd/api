@@ -21,6 +21,7 @@
   { "chaine": { "nom":"NATGEO HD","url": "http://vip.sibfungold.org:8080/live/hmx.oscam/FRtgBhh521&type/113.m3u8" }},
   { "chaine": { "nom":"NATGEO WILD HD","url": "http://vip.sibfungold.org:8080/live/hmx.oscam/FRtgBhh521&type/3397.m3u8" }},
   { "chaine": { "nom":"ANIMAUX HD","url": "http://vip.sibfungold.org:8080/live/hmx.oscam/FRtgBhh521&type/114.m3u8" }},
+  { "chaine": { "nom":"VOYAGE&SAVEUR","url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovewinefrance-lgfr/playlist.m3u8" }},
   { "chaine": { "nom":"VOYAGE+","url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ff8d1526-e572-4bb5-8c93-560eb80115bf/manifest.m3u8" }},
   { "chaine": { "nom":"CAP TERRE","url": "  https://amg01821-lovetvchannels-lovetheplanetfrsamsung-samsungfr-hfam1.amagi.tv/ts-eu-w1-n2/playlist/amg01821-lovetvchannels-lovetheplanetfrsamsung-samsungfr/playlist.m3u8?ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.tc_string=%7BTC_STRING%7D" }},
   { "chaine": { "nom":"HUMANITY DOCUMANTARY","url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/alchimieA-humanity-doc-fr-lg/playlist.m3u8" }},
