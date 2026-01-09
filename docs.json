@@ -23,6 +23,7 @@
   { "chaine": { "nom":"ANIMAUX HD","url": "http://vip.sibfungold.org:8080/live/hmx.oscam/FRtgBhh521&type/114.m3u8" }},
   { "chaine": { "nom":"VOYAGE&SAVEUR","url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovewinefrance-lgfr/playlist.m3u8" }},
   { "chaine": { "nom":"VOYAGE+","url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ff8d1526-e572-4bb5-8c93-560eb80115bf/manifest.m3u8" }},
+  { "chaine": { "nom":"TV5 MONDE CHEFS","url": "  https://d17g2p9a7he1mu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-b4dzadk8a25ad/tv5ch.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=FR1300003HM" }},
   { "chaine": { "nom":"CAP TERRE","url": "  https://amg01821-lovetvchannels-lovetheplanetfrsamsung-samsungfr-hfam1.amagi.tv/ts-eu-w1-n2/playlist/amg01821-lovetvchannels-lovetheplanetfrsamsung-samsungfr/playlist.m3u8?ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.tc_string=%7BTC_STRING%7D" }},
   { "chaine": { "nom":"HUMANITY DOCUMANTARY","url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/alchimieA-humanity-doc-fr-lg/playlist.m3u8" }},
   { "chaine": { "nom":"100% DOCS","url": "https://amg02162-newenconnect-amg02162c2-rakuten-us-1981.playouts.now.amagi.tv/playlist/amg02162-newenconnect-100pour100docs-rakutenus/playlist.m3u8" }},
