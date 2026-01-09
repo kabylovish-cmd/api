@@ -1,7 +1,7 @@
 [ { "chaine": { "nom":"AL24 NEWS","url": "https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/playlist.m3u8" }},
   { "chaine": { "nom":"FRANCE 24(AR)","url": "https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_5000.m3u8" }},
   { "chaine": { "nom":"FRANCE 24(FR)","url": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/wld/f24fr.m3u8" }},
-  { "chaine": { "nom":"EURONEWS HD","url": "http://vip.sibfungold.org:8080/live/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/52821.m3u8" }},
+  { "chaine": { "nom":"EURONEWS HD","url": "http://vip.sibfungold.org:8080/live/hmx.oscam/FRtgBhh521&type/52821.m3u8" }},
   { "chaine": { "nom":"BFM","url": "https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8" }},
   { "chaine": { "nom":"BFM 2","url": "https://live-cdn-bfm2-euw1.bfmtv.bct.nextradiotv.com/m5/media.m3u8?bpkio_serviceid=7de32147a4f1055b8812bbac92a24d2e" }},
   { "chaine": { "nom":"LCI","url": "https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/btv/py/lci1.m3u8" }},
@@ -17,9 +17,9 @@
   { "chaine": { "nom":"AL ARABIYA","url": "https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8" }},
   { "chaine": { "nom":"AL HADATH","url": "https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8" }},
   { "chaine": { "nom":"SKYNEWS ARABIC","url": "https://stream.skynewsarabia.com/hls/index.m3u8" }},
-  { "chaine": { "nom":"BBC NEWS","url": "http://vip.sibfungold.org:8080/live/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/48871.m3u8" }},
-  { "chaine": { "nom":"BEIN SPORT NEWS","url": "http://vip.sibfungold.org:8080/live/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/2296.m3u8" }},
-  { "chaine": { "nom":"INFO+SPORT","url": "http://vip.sibfungold.org:8080/live/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/91.m3u8" }},
-  { "chaine": { "nom":"El HEDDAF","url": "http://vip.sibfungold.org:8080/live/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/1135.m3u8" }}
+  { "chaine": { "nom":"BBC NEWS","url": "http://vip.sibfungold.org:8080/live/hmx.oscam/FRtgBhh521&type/48871.m3u8" }},
+  { "chaine": { "nom":"BEIN SPORT NEWS","url": "http://vip.sibfungold.org:8080/live/hmx.oscam/FRtgBhh521&type/2296.m3u8" }},
+  { "chaine": { "nom":"INFO+SPORT","url": "http://vip.sibfungold.org:8080/live/hmx.oscam/FRtgBhh521&type/91.m3u8" }},
+  { "chaine": { "nom":"El HEDDAF","url": "http://vip.sibfungold.org:8080/live/hmx.oscam/FRtgBhh521&type/1135.m3u8" }}
 
  ]
