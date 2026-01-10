@@ -26,7 +26,6 @@
   { "chaine": { "nom":"TV5 MONDE CHEFS","url": "  https://d17g2p9a7he1mu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-b4dzadk8a25ad/tv5ch.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=FR1300003HM" }},
   { "chaine": { "nom":"TV5 STYLE","url": "https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8" }},
   { "chaine": { "nom":"CAP TERRE","url": "  https://amg01821-lovetvchannels-lovetheplanetfrsamsung-samsungfr-hfam1.amagi.tv/ts-eu-w1-n2/playlist/amg01821-lovetvchannels-lovetheplanetfrsamsung-samsungfr/playlist.m3u8?ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.tc_string=%7BTC_STRING%7D" }},
-  { "chaine": { "nom":"HUMANITY DOCUMANTARY","url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/alchimieA-humanity-doc-fr-lg/playlist.m3u8" }},
   { "chaine": { "nom":"100% DOCS","url": "https://amg02162-newenconnect-amg02162c2-rakuten-us-1981.playouts.now.amagi.tv/playlist/amg02162-newenconnect-100pour100docs-rakutenus/playlist.m3u8" }},
   { "chaine": { "nom":"DOC STORY","url": "https://amg01796-amg01796c4-samsung-fr-3183.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-docstory-samsungfr/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0" }},
   { "chaine": { "nom":"DÉSTINATION NATURE","url": "https://d2cl8wi5f8zf1j.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0ay35jkybhd8m/DestinationNature_FR.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=FRBC4000001IO" }},
@@ -48,5 +47,6 @@
   { "chaine": { "nom":"INCROYABLES FORTUNES","url": " https://dn8mc7o4f0o74.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-e2c0yg2t7bpaj/aildl.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=FR600001I2" }},
   { "chaine": { "nom":"ÉPICURIEUX","url":"https://d1dzvywp5tcxbn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ryq1as86j3gxc/epic.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=FRBD5100003TP" }},
   { "chaine": { "nom":"SEASONS HD","url": "http://vip.sibfungold.org:8080/live/hmx.oscam/FRtgBhh521&type/2892.m3u8" }},
-  { "chaine": { "nom":"HISTOIRE HD","url": "http://vip.sibfungold.org:8080/live/hmx.oscam/FRtgBhh521&type/53376.m3u8" }}
- ]
+  { "chaine": { "nom":"HISTOIRE HD","url": "http://vip.sibfungold.org:8080/live/hmx.oscam/FRtgBhh521&type/53376.m3u8" }},
+  { "chaine": { "nom":"TOUTE L'HISTOIRE HD","url": "http://vip.sibfungold.org:8080/live/hmx.oscam/FRtgBhh521&type/4496.m3u8" }}
+]
