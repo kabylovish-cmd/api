@@ -1,9 +1,9 @@
 [   
-  { "chaine": { "nom":"MBC+TOON","url": "http://vip.sibfungold.org:8080/live/hmx.oscam/FRtgBhh521&type/56446.m3u8" }},
   { "chaine": { "nom":"TOYOR AL JANNAH","url": "http://vip.sibfungold.org:8080/live/hmx.oscam/FRtgBhh521&type/50954.m3u8" }},
   { "chaine": { "nom":"AMOUYAZID","url": "http://mkstream.servehttp.com:1940/AmouYazid/ay1/playlist.m3u8" }},
   { "chaine": { "nom":"MBC+KIDS","url": "http://vip.sibfungold.org:8080/live/hmx.oscam/FRtgBhh521&type/56445.m3u8" }},
   { "chaine": { "nom":"MBC 3","url": "http://vip.sibfungold.org:8080/live/hmx.oscam/FRtgBhh521&type/317.m3u8" }},
+  { "chaine": { "nom":"MBC+TOON","url": "http://vip.sibfungold.org:8080/live/hmx.oscam/FRtgBhh521&type/56446.m3u8" }},
   { "chaine": { "nom":"SPACETOON","url": "http://vip.sibfungold.org:8080/live/hmx.oscam/FRtgBhh521&type/1266.m3u8" }},
   { "chaine": { "nom":"ALWAN ATFAL FHD","url": "http://vip.sibfungold.org:8080/live/hmx.oscam/FRtgBhh521&type/56764.m3u8" }},
   { "chaine": { "nom":"BOOMERANG ARABIC","url": "http://vip.sibfungold.org:8080/live/hmx.oscam/FRtgBhh521&type/48858.m3u8" }},
@@ -23,5 +23,7 @@
   { "chaine": { "nom":"OSN KIDS","url": "http://vip.sibfungold.org:8080/live/hmx.oscam/FRtgBhh521&type/3106.m3u8" }},
   { "chaine": { "nom":"BARAEM","url": "http://vip.sibfungold.org:8080/live/hmx.oscam/FRtgBhh521&type/3564.m3u8" }},
   { "chaine": { "nom":"DISNEY+HD","url": "http://vip.sibfungold.org:8080/live/hmx.oscam/FRtgBhh521&type/50936.m3u8" }},
-  { "chaine": { "nom":"DISNEY CHANNEL HD","url": "http://vip.sibfungold.org:8080/live/hmx.oscam/FRtgBhh521&type/120.m3u8" }}
+  { "chaine": { "nom":"DISNEY CHANNEL HD","url": "http://vip.sibfungold.org:8080/live/hmx.oscam/FRtgBhh521&type/120.m3u8" }},
+  { "chaine": { "nom":"MANGA HD","url": "http://vip.sibfungold.org:8080/live/hmx.oscam/FRtgBhh521&type/122.m3u8" }},
+  { "chaine": { "nom":"GAME ONE HD","url": "http://vip.sibfungold.org:8080/live/hmx.oscam/FRtgBhh521&type/2105.m3u8" }}
 ]
