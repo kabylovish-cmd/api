@@ -102,5 +102,15 @@
   { "chaine": { "nom": "DAZN 4 L1", "url": "http://vip.sibfungold.org:8080/live/hmx.oscam/FRtgBhh521&type/56646.m3u8" } },
   { "chaine": { "nom": "DAZN 5 L1", "url": "http://vip.sibfungold.org:8080/live/hmx.oscam/FRtgBhh521&type/56647.m3u8" } },
   { "chaine": { "nom": "DAZN 6 L1", "url": "http://vip.sibfungold.org:8080/live/hmx.oscam/FRtgBhh521&type/56648.m3u8" } },
-  { "chaine": { "nom": "DAZN 7 L1", "url": "http://vip.sibfungold.org:8080/live/hmx.oscam/FRtgBhh521&type/56649.m3u8" } }
-]
+  { "chaine": { "nom": "DAZN 7 L1", "url": "http://vip.sibfungold.org:8080/live/hmx.oscam/FRtgBhh521&type/56649.m3u8" } },
+  {"chaine":{"nom":"ligue1","url":"http://vipkentken.top:8080/live/VIP0122169789554500/41697895545736/142250.m3u8"}},
+  {"chaine":{"nom":"ligue2","url":"http://vipkentken.top:8080/live/VIP0122169789554500/41697895545736/142251.m3u8"}},
+  {"chaine":{"nom":"ligue3","url":"http://vipkentken.top:8080/live/VIP0122169789554500/41697895545736/142252.m3u8"}},
+  {"chaine":{"nom":"ligue4","url":"http://vipkentken.top:8080/live/VIP0122169789554500/41697895545736/142253.m3u8"}},
+  {"chaine":{"nom":"ligue5","url":"http://vipkentken.top:8080/live/VIP0122169789554500/41697895545736/142254.m3u8"}},
+  {"chaine":{"nom":"ligue6","url":"http://vipkentken.top:8080/live/VIP0122169789554500/41697895545736/142255.m3u8"}},
+  {"chaine":{"nom":"ligue7","url":"http://vipkentken.top:8080/live/VIP0122169789554500/41697895545736/142256.m3u8"}},
+  {"chaine":{"nom":"ligue8","url":"http://vipkentken.top:8080/live/VIP0122169789554500/41697895545736/142257.m3u8"}},
+  {"chaine":{"nom":"ligue9","url":"http://vipkentken.top:8080/live/VIP0122169789554500/41697895545736/142258.m3u8"}},
+  {"chaine":{"nom":"ligue10","url":"http://vipkentken.top:8080/live/VIP0122169789554500/41697895545736/142259.m3u8"}}
+ ]
