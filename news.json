@@ -13,7 +13,7 @@
   { "chaine": { "nom":"AFRICA 24","url": "https://africa24.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8" }},
   { "chaine": { "nom":"AFRICANEWS","url": "https://cdn-euronews.akamaized.net/live/eds/africanews-fr/25050/index.m3u8" }},
   { "chaine": { "nom":"RT FRANCE","url": "https://rt-fra.rttv.com/live/rtfrance/playlist.m3u8" }},
-  { "chaine": { "nom":"AL JAZEERA","url": "https://live-hls-apps-ajm-fa.getaj.net/AJM/index.m3u8" }},
+  { "chaine": { "nom":"AL JAZEERA","url": "https://live-hls-web-aja.getaj.net/AJA/index.m3u8" }},
   { "chaine": { "nom":"AL JAZEERA MUBASHIR","url": "https://live-hls-apps-ajm-fa.getaj.net/AJM/index.m3u8" }},
   { "chaine": { "nom":"AL ARABIYA","url": "https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8" }},
   { "chaine": { "nom":"AL HADATH","url": "https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8" }},
