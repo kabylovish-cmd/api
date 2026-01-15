@@ -54,7 +54,7 @@
   { "chaine": { "nom":"MISSION INTERVENTION","url": "https://dmskmsump4xmr.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xja0jm5a38uno/rl.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=FR700002UP" }},
   { "chaine": { "nom":"INCROYABLES FORTUNES","url": " https://dn8mc7o4f0o74.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-e2c0yg2t7bpaj/aildl.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=FR600001I2" }},
   { "chaine": { "nom":"ÉPICURIEUX","url":"https://d1dzvywp5tcxbn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ryq1as86j3gxc/epic.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=FRBD5100003TP" }},
-  { "chaine": { "nom":"SEASONS HD","url": "http://vip.sibfungold.org:8080/live/hmx.oscam/FRtgBhh521&type/2892.m3u8" }},
+  { "chaine": { "nom":"SEASONS + HD","url": "http://vip.sibfungold.org:8080/live/hmx.oscam/FRtgBhh521&type/2892.m3u8" }},
   { "chaine": { "nom":"HISTOIRE HD","url": "http://vip.sibfungold.org:8080/live/hmx.oscam/FRtgBhh521&type/53376.m3u8" }},
   { "chaine": { "nom":"TOUTE L'HISTOIRE HD","url": "http://vip.sibfungold.org:8080/live/hmx.oscam/FRtgBhh521&type/4496.m3u8" }}
 ]
