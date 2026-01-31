@@ -1,4 +1,5 @@
-[ { "chaine": { "nom":"XXL FR","url": "http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/5009/index.m3u8" }},
+[ 
+  { "chaine": { "nom":"XXL FR","url": "http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/5009/index.m3u8" }},
   { "chaine": { "nom":"DORCEL TV HD FR 24/24","url": "http://f6f5887552dc.mylistbest.net/playlists/uplist/2bd18521192d3454473703b3daa265b2/9064/index.m3u8" }},
   { "chaine": { "nom":"REDBOX ADULTS 20","url": "http://vip.sibfungold.org:8080/live/hmx.oscam/FRtgBhh521/50906.m3u8" }},
   { "chaine": { "nom":"LUST CINEMA","url": "http://206.212.244.71:8080/live/Abxc5k/363887/215784.m3u8" }},
