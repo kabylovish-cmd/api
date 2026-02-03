@@ -13,6 +13,11 @@
 { "chaine": { "nom":"MBC iraq","url": "http://vip.sibfungold.org:8080/live/hmx.oscam/FRtgBhh521&type/51391.m3u8" }},
 { "chaine": { "nom":"MBC Masr Drama","url": "http://vip.sibfungold.org:8080/live/hmx.oscam/FRtgBhh521&type/324.m3u8" }},
 { "chaine": { "nom":"MBC MASR 2","url": "http://vip.sibfungold.org:8080/live/hmx.oscam/FRtgBhh521&type/325.m3u8" }},
-{ "chaine": { "nom":"Mix","url": "https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8" }}
- 
+{ "chaine": { "nom":"Mix","url": "https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8" }},
+{ "chaine": { "nom":"BEIN MOVIES PREMIERE","url": "http://vip.sibfungold.org:8080/live/hmx.oscam/FRtgBhh521&type/17.m3u8" }},
+{ "chaine": { "nom":"BEIN MOVIES ACTION","url": "http://vip.sibfungold.org:8080/live/hmx.oscam/FRtgBhh521&type/18.m3u8" }},
+{ "chaine": { "nom":"beIN Series HD 1","url": "http://vip.sibfungold.org:8080/live/hmx.oscam/FRtgBhh521/4114.m3u8" }},
+{ "chaine": { "nom":"beIN Series HD 2","url": "http://vip.sibfungold.org:8080/live/hmx.oscam/FRtgBhh521/50439.m3u8" }},
+{ "chaine": { "nom":"BEIN BOX OFFICE 1","url": "http://vip.sibfungold.org:8080/live/hmx.oscam/FRtgBhh521&type/53060.m3u8" }},
+{ "chaine": { "nom":"BEIN BOX OFFICE 2","url": "http://vip.sibfungold.org:8080/live/hmx.oscam/FRtgBhh521&type/53061.m3u8" }}
 ]
