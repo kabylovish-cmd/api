@@ -18,6 +18,7 @@
 { "chaine": { "nom":"Mix","url": "https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8" }},
 { "chaine": { "nom":"OSN TV Movies Action","url": "http://vip.sibfungold.org:8080/live/hmx.oscam/FRtgBhh521/46.m3u8" }},
 { "chaine": { "nom":"OSN TV Movies Family","url": "http://vip.sibfungold.org:8080/live/hmx.oscam/FRtgBhh521/51465.m3u8" }},
+{ "chaine": { "nom":"OSN TV Movies Comedy","url": "http://vip.sibfungold.org:8080/live/hmx.oscam/FRtgBhh521/50835.m3u8" }},
 { "chaine": { "nom":"BEIN MOVIES PREMIERE","url": "http://vip.sibfungold.org:8080/live/hmx.oscam/FRtgBhh521&type/17.m3u8" }},
 { "chaine": { "nom":"BEIN MOVIES ACTION","url": "http://vip.sibfungold.org:8080/live/hmx.oscam/FRtgBhh521&type/18.m3u8" }},
 { "chaine": { "nom":"beIN Series HD 1","url": "http://vip.sibfungold.org:8080/live/hmx.oscam/FRtgBhh521/4114.m3u8" }},
