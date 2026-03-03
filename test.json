@@ -1,5 +1,3 @@
-{ "playlist10": [
-  { "vod": { "url": "https://archive.org/download/intro_countdown/intro_countdown.ia.mp4", "duration": 10, "title":"DÉBUT DES PROGRAMMES" }},  
-  { "vod": { "url": "https://cdnst79.tokyvideo.com/videos/722/722653/mp4/9b4d86804c0e3c85a246c4676d1a749a9420ec73f653d32e2e093a94aa14d8bb.mp4?secure=eCvJ6UtrLgI2oIjwocdFXQ%3D%3D%2C1758940836", "duration": 6097, "title":"COMÉDIE: NORBIT 2007" }}
- ]
-}
+[ { "chaine": { "nom":"CANAL+ FOOT","url": "http://vipkentken.top:8080/live/VIP01545171425617373/ca75a1a2314d/369.m3u8" }},
+  { "chaine": { "nom":"CANAL+ SPORT 2","url": "http://vipkentken.top:8080/live/VIP01545171425617373/ca75a1a2314d/154443.m3u8" }}
+]
