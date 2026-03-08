@@ -1,4 +1,6 @@
 [ 
+
+{ "chaine": { "nom":"INFOSPORT+HD","url": "http://fe3d3e4f.kazaktelekom.com/iptv/8DNEYEKGDK3SKVGLNPWNEP9Q/2544/index.m3u8" }},
 { "chaine": { "nom":"RMC SPORT 1 HD","url": "http://fe3d3e4f.kazaktelekom.com/iptv/8DNEYEKGDK3SKVGLNPWNEP9Q/2545/index.m3u8" }},
 { "chaine": { "nom":"RMC SPORT 2 HD","url": "http://fe3d3e4f.kazaktelekom.com/iptv/8DNEYEKGDK3SKVGLNPWNEP9Q/2546/index.m3u8" }},
 { "chaine": { "nom":"RMC SPORT 3 HD","url": "http://fe3d3e4f.kazaktelekom.com/iptv/8DNEYEKGDK3SKVGLNPWNEP9Q/2547/index.m3u8" }},
@@ -23,6 +25,8 @@
 { "chaine": { "nom":"SKY SPORT CALCIO HD","url": "http://vipkentken.top:8080/live/VIP01545171425617373/ca75a1a2314d/136482.m3u8" }},
 { "chaine": { "nom":"SETANTA SPORT 1 HD","url": "http://fe3d3e4f.kazaktelekom.com/iptv/8DNEYEKGDK3SKVGLNPWNEP9Q/271/index.m3u8" }},
 { "chaine": { "nom":"SETANTA SPORT 2 HD","url": "http://fe3d3e4f.kazaktelekom.com/iptv/8DNEYEKGDK3SKVGLNPWNEP9Q/270/index.m3u8" }},
+{ "chaine": { "nom":"DIGI SPORT 2 HD","url": "http://fe3d3e4f.kazaktelekom.com/iptv/8DNEYEKGDK3SKVGLNPWNEP9Q/2522/index.m3u8" }},
+{ "chaine": { "nom":"DIGI SPORT 1 HD","url": "http://fe3d3e4f.kazaktelekom.com/iptv/8DNEYEKGDK3SKVGLNPWNEP9Q/2523/index.m3u8" }},
 { "chaine": { "nom":"SPORT 1 HD PT","url": "http://fe3d3e4f.kazaktelekom.com/iptv/8DNEYEKGDK3SKVGLNPWNEP9Q/2525/index.m3u8" }},
 { "chaine": { "nom":"SPORT 2 HD PT","url": "http://fe3d3e4f.kazaktelekom.com/iptv/8DNEYEKGDK3SKVGLNPWNEP9Q/2526/index.m3u8" }},
 { "chaine": { "nom":"DIEMA SPORT","url": "http://vipkentken.top:8080/live/VIP01545171425617373/ca75a1a2314d/3336.m3u8" }},
@@ -39,7 +43,6 @@
 { "chaine": { "nom":"NOVA SPORT 2 HD CZ","url": "http://fe3d3e4f.kazaktelekom.com/iptv/8DNEYEKGDK3SKVGLNPWNEP9Q/2556/index.m3u8" }},
 { "chaine": { "nom":"COSMO SPORT 1  HD","url": "http://fe3d3e4f.kazaktelekom.com/iptv/8DNEYEKGDK3SKVGLNPWNEP9Q/31578/index.m3u8" }},
 { "chaine": { "nom":"COSMO SPORT 2  HD","url": "http://fe3d3e4f.kazaktelekom.com/iptv/8DNEYEKGDK3SKVGLNPWNEP9Q/31579/index.m3u8" }},
-{ "chaine": { "nom":"ALGÉRIE 6","url": "http://vipkentken.top:8080/live/VIP01545171425617373/ca75a1a2314d/130197.m3u8" }},
-{ "chaine": { "nom":"BRUCE LEE","url": "http://vipketseyket.top:8080/live/VIP0134173357175278/01733653878202/131027.m3u8" }},{ "chaine": { "nom":"JACKIE CHAN","url": "http://vipketseyket.top:8080/live/VIP0134173357175278/01733653878202/131028.m3u8" }},{"chaine": { "nom":"SHAH RU KHAN","url": "http://vipketseyket.top:8080/live/VIP0134173357175278/01733653878202/131023.m3u8" }}
+{ "chaine": { "nom":"ALGÉRIE 6","url": "http://vipkentken.top:8080/live/VIP01545171425617373/ca75a1a2314d/130197.m3u8" }}
 
 ]
