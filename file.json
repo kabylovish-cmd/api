@@ -171,11 +171,9 @@
 
   
   ],  "playlist3": [
-   { "vod": { "url": "https://archive.org/download/intro_countdown/intro_countdown.ia.mp4", "duration": 10, "title":"DÉBUT DES PROGRAMMES" }},  
-   { "vod": { "url": "https://archive.org/download/bricolage_intro/bricolage_intro.mp4", "duration": 13, "title":"BRICOLES" }},  
-   { "vod": { "url": "https://archive.org/download/lacer_ses_chaussures/lacer_ses_chaussures.mp4", "duration": 60, "title":"LAÇER SES CHAUSSURES" }},      
-   { "vod": { "url": "https://archive.org/download/arranger_teeshirt/arranger_teeshirt.mp4", "duration": 60, "title":"APPRENDRE A ARRANGER" }},   
-   { "vod": { "url": "https://archive.org/download/arranger_avec_ceintre/arranger_avec_ceintre.mp4", "duration": 60, "title":"ARRANGER SES VÊTEMENTS AVEC CEINTRE" }}  
+   { "vod": { "url": "https://www.youtube.com/watch?v=i7L_ByA_OPM", "duration": 524, "title":"COMEDIE: LADI MEMES 2025 " }},  
+   { "vod": { "url": "https://www.youtube.com/watch?v=NFV4ULL7Yyo", "duration": 504, "title":"COMEDIE: LADI MEMES 2025" }}
+
 
   ],  "playlist4": [
    { "vod": { "url": "https://www.youtube.com/watch?v=Xqz8FCzqCoQ", "duration": 463, "title": "COMÉDIE: CHARLIE CHAPLIN" }},
