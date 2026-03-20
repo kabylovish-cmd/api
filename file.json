@@ -709,8 +709,10 @@
 
  ],"playlist26":[
     { "vod": { "url": "https://www.youtube.com/watch?v=OM6xvpzqCUA", "duration": 16181, "title":"LOONEY TUNES COMPILATION" }},  
-    { "vod": { "url": "https://www.youtube.com/watch?v=4wEO_JuON9E", "duration": 19111, "title":"LOONEY TUNES COMPILATIOM" }}
+    { "vod": { "url": "https://www.youtube.com/watch?v=4wEO_JuON9E", "duration": 19111, "title":"LOONEY TUNES COMPILATIOM" }},
+    { "vod": { "url": "https://www.youtube.com/watch?v=IRo3oh42pA8", "duration": 11277, "title":"LOONEY TUNES COMPILATIOM" }}
 
+    
   ],"playlist27":[
            { "vod": { "url": "https://archive.org/download/intro_countdown/intro_countdown.ia.mp4", "duration": 10, "title":"DÉBUT DES PROGRAMMES" }},  
     { "vod": { "url": "https://xxx.livegore.com/rb-include/videos/2471570968.mp4", "duration": 140, "title":"VOD-A0" }},
