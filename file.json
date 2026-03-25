@@ -1032,7 +1032,10 @@
 { "vod": { "url": "https://www.youtube.com/watch?v=KUwZP4dA6MU", "duration": 43199, "title": "Looney Tunes MEGA Compilation,118 Episodes in 4K,Bugs Bunny,Daffy Duck,Porky Pig" }}
    
   ],"playlist29":[
-{ "vod": { "url": "https://www.youtube.com/watch?v=4wEO_JuON9E", "duration": 19111, "title": "Looney Tunes" }}          
+{ "vod": { "url": "https://www.youtube.com/watch?v=4wEO_JuON9E", "duration": 19111, "title": "Looney Tunes" }},
+{ "vod":{ "url": "https://www.youtube.com/watch?v=OMbY_OHYrf0", "duration": 19612, "title":"FULL EPISODES PINK PANTHER"}},
+{ "vod":{ "url": "https://www.youtube.com/watch?v=vyi4-bCbcn0", "duration": 15888, "title":"DRAGON BALL Z BEST MOMENTS VFR"}}
+
   ],"playlist30":[
 { "vod":{ "url": "https://www.youtube.com/watch?v=OMbY_OHYrf0", "duration": 19612, "title":"FULL EPISODES PINK PANTHER"}},
 { "vod":{ "url": "https://www.youtube.com/watch?v=vyi4-bCbcn0", "duration": 15888, "title":"DRAGON BALL Z BEST MOMENTS VFR"}},
