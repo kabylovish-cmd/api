@@ -72,7 +72,7 @@
  { "vod": { "url": "https://ia800507.us.archive.org/18/items/1a-50030a-d-47a-46c-1-b-607-cea-06543541b/1a50030a-d47a-46c1-b607-cea06543541b.mp4", "duration": 289, "title":"installer aircrack sur termux pour pirater une clée wifi" }},
  { "vod": { "url": "https://youtu.be/TO2E3aycYfs?si=2va1IUpmsHaz54bQ", "duration": 4902, "title":"Film d'action 2025" }}
  ], "playlist2": [
-       { "vod": { "url": "https://archive.org/download/intro_countdown/intro_countdown.ia.mp4", "duration": 10, "title":"DÉBUT DES PROGRAMMES" }},  
+    { "vod": { "url": "https://archive.org/download/intro_countdown/intro_countdown.ia.mp4", "duration": 10, "title":"DÉBUT DES PROGRAMMES" }},  
     { "vod": { "url": "https://xxx.livegore.com/rb-include/videos/2471570968.mp4", "duration": 140, "title":"VOD-A0" }},
     { "vod": { "url": "https://xxx.livegore.com//rb-include/videos/4145052367.mp4", "duration": 20, "title":"VOD-A1" }},
     { "vod": { "url": "https://xxx.livegore.com//rb-include/videos/2839303161.mp4", "duration": 11, "title":"VOD1" }},
@@ -1137,5 +1137,6 @@
 { "vod":{ "url": "https://www.youtube.com/watch?v=HdanK11dQBw", "duration": 10760, "title":"Disney: Donald, Mickey, Pluto, Goofy"}}      
   ],"playlist36":[
 { "vod":{ "url": "https://www.youtube.com/watch?v=tYy1IYuErwo", "duration": 40374, "title":"جميع حلقات سنان HD"}},
+{ "vod":{ "url": "https://www.youtube.com/watch?v=qlardR_zG6w", "duration": 32949, "title":"سندباد - جميع الحلقات"}},
 { "vod":{ "url": "https://www.youtube.com/watch?v=zG19CWIEyoY", "duration": 16968, "title":"سبونج بوب يعمل في مقرمشات سلطع لمدة 4 ساعات"}}
   ]}
