@@ -1275,6 +1275,11 @@
 
   { "vod": { "url": "https://www.youtube.com/watch?v=nlL8TMgV3ec", "duration": 14733 , "title":"COMÉDIE: TOM & JERRY"}} 
   ] ,"playlist39":[
+     { "vod": { "url": "https://archive.org/download/intro_countdown/intro_countdown.ia.mp4", "duration": 10, "title": "DÉBUT DES PROGRAMMES" } },
+{ "vod": { "url": "https://archive.org/download/aajemiGAG/monkeydcekabyle.mp4", "duration": 8, "title": "comédie" } },
+
+    { "vod": { "url": "https://ia601607.us.archive.org/8/items/aqpv-7-dr-hmda-tcxy-gvq-3lm-762g-u-5v-spv-2-n-2-he-0-aniye-fohhsuvsn-pq-zh-dz-gm/AQPV7DrHMDaTCxyGVQ3lm762gU5vSpv_2N2HE0AniyeFOHHSUVsnPqZhDzGmeyiKTN-bFOXnGYA9UXV7jvR88OsiKloIKbPK0pNn85EKCQ.mp4", "duration": 13, "title": "Comédie" } },
+
 { "vod": { "url": "https://www.youtube.com/watch?v=lWXZcWmIom0", "duration": 30523, "title": "CARTOON" } }
   ]
 }
